@@ -1,0 +1,836 @@
+PMID- 16511607
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20060705
+LR  - 20170427
+IS  - 1699-3993 (Print)
+IS  - 1699-3993 (Linking)
+VI  - 42
+IP  - 1
+DP  - 2006 Jan
+TI  - Ximelagatran.
+PG  - 3-19
+AB  - Despite the significant advances over the last 50 years with regard to anticoagulant 
+      therapy, warfarin remains the definitive standard for the long-term prevention of 
+      thromboembolic events in at-risk patients, except those with acute coronary 
+      syndromes, in which antiplatelets are preferred. Ximelagatran, a prodrug of 
+      melagatran, is an orally administered direct thrombin inhibitor whose therapeutic 
+      potential has been investigated in venous thromboembolism, acute coronary syndromes 
+      and prevention of stroke in atrial fibrillation. Clinical studies have demonstrated 
+      ximelagatran to be comparable in efficacy to the oral vitamin K antagonist warfarin 
+      and low molecular weight heparin for prophylaxis of venous thromboembolism, 
+      comparable to warfarin for stroke prevention in the setting of atrial fibrillation, 
+      and, when combined with aspirin, more effective than aspirin alone at preventing 
+      major adverse cardiovascular events in patients with a recent myocardial infarction. 
+      Double-blind trials have also revealed the efficacy of ximelagatran in the secondary 
+      prevention of venous thromboembolism and shown the agent to be as effective as 
+      enoxaparin/warfarin in treating patients with acute deep vein thrombosis. Adverse 
+      effects with ximelagatran include elevations in alanine transaminase (ALT), which 
+      may require monitoring, and bleeding complications. Bleeding complications appear to 
+      be less than or at least comparable to those occurring with standard anticoagulant 
+      treatments like warfarin or low molecular weight heparin. In addition to its 
+      favorable efficacy and safety profile in comparison with standard anticoagulant 
+      therapy, the convenience of its oral, fixed-dose administration without the need for 
+      anticoagulation monitoring might help encourage a wider use of appropriate 
+      anticoagulation using ximelagatran across the population at risk, reducing the 
+      incidence of thromboembolic events.
+CI  - Copyright 2006 Prous Science
+FAU - Choudhury, Anirban
+AU  - Choudhury A
+AD  - Haemostasis, Thrombosis and Vascular Biology Unit, University Department of 
+      Medicine, City Hospital, Birmingham, UK.
+FAU - Goyal, Deepak
+AU  - Goyal D
+FAU - Lip, Gregory Y H
+AU  - Lip GY
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Review
+PL  - Spain
+TA  - Drugs Today (Barc)
+JT  - Drugs of today (Barcelona, Spain : 1998)
+JID - 101160518
+RN  - 0 (Anticoagulants)
+RN  - 0 (Azetidines)
+RN  - 0 (Benzylamines)
+RN  - 49HFB70472 (ximelagatran)
+RN  - 5Q7ZVV76EI (Warfarin)
+RN  - EC 3.4.21.5 (Thrombin)
+SB  - IM
+MH  - Administration, Oral
+MH  - Anticoagulants/administration & dosage/pharmacokinetics/*therapeutic use
+MH  - Azetidines/administration & dosage/adverse effects/pharmacokinetics/*therapeutic use
+MH  - Benzylamines/administration & dosage/adverse effects/pharmacokinetics/*therapeutic 
+      use
+MH  - Drug Administration Schedule
+MH  - Humans
+MH  - Myocardial Infarction/*drug therapy
+MH  - Randomized Controlled Trials as Topic
+MH  - Secondary Prevention
+MH  - Stroke/*prevention & control
+MH  - Thrombin/antagonists & inhibitors
+MH  - Thromboembolism/*prevention & control
+MH  - Venous Thrombosis/*prevention & control
+MH  - Warfarin/therapeutic use
+RF  - 72
+EDAT- 2006/03/03 09:00
+MHDA- 2006/07/06 09:00
+CRDT- 2006/03/03 09:00
+PHST- 2006/03/03 09:00 [pubmed]
+PHST- 2006/07/06 09:00 [medline]
+PHST- 2006/03/03 09:00 [entrez]
+AID - 893611 [pii]
+AID - 10.1358/dot.2006.42.1.893611 [doi]
+PST - ppublish
+SO  - Drugs Today (Barc). 2006 Jan;42(1):3-19. doi: 10.1358/dot.2006.42.1.893611.
+
+PMID- 12020054
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20021217
+LR  - 20121115
+IS  - 1472-4472 (Print)
+IS  - 1472-4472 (Linking)
+VI  - 3
+IP  - 2
+DP  - 2002 Feb
+TI  - Ximelagatran (AstraZeneca).
+PG  - 246-51
+AB  - AstraZeneca (formerly Astra) is developing ximelagatran, an orally active thrombin 
+      inhibitor and prodrug of melagatran, for the potential prevention and treatment of 
+      venous thromboembolism (VTE) in hip and knee replacement, for prevention of stroke 
+      in atrialfibrillation (AF) and for post acute coronary syndrome. As of December 
+      1999, the compound was undergoing phase III trials for the prevention of VTE 
+      [349551]; these were ongoing in December 2001. By December 2000, ximelagatran had 
+      entered phase III trials for the prevention of stroke in atrial fibrillation 
+      [395212]. In September 2000, the company expected global NDA filing for this 
+      indication to take place in the middle of 2001 [383469]; however, in December 2000 
+      this was revised to the second half of 2002 [395212], and in March 2001, to the 
+      second quarter of 2003 [402040], [416882], [431673]. By December 2000, a phase II 
+      trial was underway of ximelagatran as a potential treatment following myocardial 
+      infarction [395237]. In December 2001, early phase clinical trials were ongoing for 
+      post acute coronary syndrome [431673]. By December 2001, EU and US filings for VTE 
+      prevention were anticipated in the third quarter of 2002 and the second quarter of 
+      2003, respectively [3144721, [350050], [431673]. Exanta is the trade name for both 
+      melagatran and ximelagatran. In 1998, marketing of ximelagatran in the US was to be 
+      assigned to the Astra/Merek joint marketing venture, prior to the merger [276577]. 
+      In April 1999, ABN predicted sales of 4 pounds million in 2003 [328676], [394606]. 
+      In December 2000, Lehman Brothers estimated peak sales to be $1.4 billion [394606]. 
+      At the same time, ABN-AMRO predicted peak sales of more than $1 billion [395237]. In 
+      June 2000, Deutsche Bank predicted sales of $70 million in 2002, rising to $245 
+      million in 2003 [374500]. In September 2000, Merrill Lynch predicted sales of 125 
+      pounds million in 2002, rising to 625 pounds million in 2004 [383742]. In February 
+      2001, Merrill Lynch estimated that peak sales would reach $924 million in 2005 
+      [429697].
+FAU - Hopfner, Rob
+AU  - Hopfner R
+AD  - Business Development and Strategic Planning, Wilmington, DE 19805, USA. 
+      rhopfner@gsb.uchicago.edu
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - England
+TA  - Curr Opin Investig Drugs
+JT  - Current opinion in investigational drugs (London, England : 2000)
+JID - 100965718
+RN  - 0 (Azetidines)
+RN  - 0 (Benzylamines)
+RN  - 0 (Drugs, Investigational)
+RN  - 0 (Fibrinolytic Agents)
+RN  - 0 (Prodrugs)
+RN  - 49HFB70472 (ximelagatran)
+RN  - EC 3.4.21.5 (Thrombin)
+SB  - IM
+MH  - Azetidines/pharmacokinetics/pharmacology/*therapeutic use
+MH  - Benzylamines
+MH  - Clinical Trials, Phase I as Topic
+MH  - Clinical Trials, Phase II as Topic
+MH  - Clinical Trials, Phase III as Topic
+MH  - Drug Industry
+MH  - Drugs, Investigational/pharmacokinetics/pharmacology/*therapeutic use
+MH  - Female
+MH  - Fibrinolytic Agents/pharmacokinetics/pharmacology/*therapeutic use
+MH  - Humans
+MH  - Male
+MH  - Prodrugs/pharmacokinetics/pharmacology/*therapeutic use
+MH  - Structure-Activity Relationship
+MH  - Thrombin/*antagonists & inhibitors
+MH  - Treatment Outcome
+MH  - Venous Thrombosis/*drug therapy/prevention & control
+RF  - 58
+EDAT- 2002/05/22 10:00
+MHDA- 2002/12/18 04:00
+CRDT- 2002/05/22 10:00
+PHST- 2002/05/22 10:00 [pubmed]
+PHST- 2002/12/18 04:00 [medline]
+PHST- 2002/05/22 10:00 [entrez]
+PST - ppublish
+SO  - Curr Opin Investig Drugs. 2002 Feb;3(2):246-51.
+
+PMID- 15812199
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050707
+LR  - 20121115
+IS  - 1424-8832 (Print)
+IS  - 1424-8832 (Linking)
+VI  - 34 Suppl 1
+DP  - 2005
+TI  - Ximelagatran in orthopaedic surgery.
+PG  - 10-7
+AB  - Ximelagatran represents the first new oral anticoagulant since the introduction of 
+      warfarin almost 60 years ago, and has been evaluated for the treatment and 
+      prevention of a range of venous and arterial thromboembolic disorders. The 
+      MElagatran THRomboprophylaxis in Orthopaedic surgery (METHRO) and EXpanded 
+      PRophylaxis Evaluation Surgery Study (EXPRESS) studies have investigated the 
+      efficacy and safety of subcutaneous (s.c.) melagatran followed by oral ximelagatran 
+      in preventing venous thromboembolism (VTE) in patients undergoing total hip 
+      replacement or total knee replacement. In METHRO II, immediate 
+      pre-operative-initiated s.c. melagatran followed by post-operative ximelagatran 
+      dose-dependently reduced VTE, with the highest dose (melagatran 3 mg/ximelagatran 24 
+      mg twice daily) associated with a significantly reduced incidence of VTE compared 
+      with the low-molecular-weight heparin (LMWH) dalteparin (15.1 vs. 28.2%; p < 
+      0.0001). In METHRO III, the efficacy of s.c. melagatran 3 mg/ximelagatran 24 mg 
+      twice daily initiated post-operatively (4-12 h after surgery) was comparable to that 
+      of the LMWH enoxaparin initiated 12 h before surgery (total VTE incidence, 31.0 and 
+      27.3%, respectively). Rates of severe bleeding were also comparable between 
+      treatments (melagatran/ximelagatran = 1.4%; enoxaparin = 1.7%). Treatment with 
+      melagatran/ximelagatran was significantly more effective when initiated earlier (4-8 
+      h) rather than later (8-12 h) after surgery (total VTE incidence, 27.5 vs. 35.4%; p 
+      = 0.0034). Based on the results of METHRO II and III, the EXPRESS study evaluated 
+      the efficacy and bleeding profile of s.c. melagatran 2 mg immediately before 
+      surgery, followed by s.c. melagatran 3 mg on the evening of the day of surgery and 
+      then ximelagatran 24 mg twice daily. This regimen was significantly more effective 
+      than enoxaparin (total VTE incidence, 20.3 vs. 26.6%; p < 0.0004). Excessive 
+      bleeding (as judged by the investigator) was more frequent with 
+      melagatran/ximelagatran, but rates of fatal bleeding, critical-site bleeding and 
+      bleeding requiring re-operation did not differ between the groups. Taken together, 
+      the METHRO and EXPRESS studies demonstrate that melagatran/ximelagatran has 
+      comparable or superior efficacy to LMWHs in the prevention of VTE in orthopaedic 
+      surgery patients, and that the timing and dose of melagatran is important in 
+      optimizing the balance of efficacy and bleeding risk.
+CI  - Copyright (c) 2005 S. Karger AG, Basel.
+FAU - Eriksson, Bengt
+AU  - Eriksson B
+AD  - Department of Orthopedics, Sahlgrenska University Hospital/Ostra, SE-41685 
+      Gothenburg, Sweden. b.eriksson@orthop.gu.se
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - Switzerland
+TA  - Pathophysiol Haemost Thromb
+JT  - Pathophysiology of haemostasis and thrombosis
+JID - 101142710
+RN  - 0 (Azetidines)
+RN  - 0 (Benzylamines)
+RN  - 49HFB70472 (ximelagatran)
+SB  - IM
+MH  - Azetidines/*administration & dosage/therapeutic use
+MH  - Benzylamines
+MH  - Clinical Trials as Topic
+MH  - Humans
+MH  - Orthopedic Procedures/*adverse effects
+MH  - Premedication
+MH  - Thromboembolism/etiology/prevention & control
+MH  - Treatment Outcome
+RF  - 29
+EDAT- 2005/04/07 09:00
+MHDA- 2005/07/08 09:00
+CRDT- 2005/04/07 09:00
+PHST- 2005/04/07 09:00 [pubmed]
+PHST- 2005/07/08 09:00 [medline]
+PHST- 2005/04/07 09:00 [entrez]
+AID - 83079 [pii]
+AID - 10.1159/000083079 [doi]
+PST - ppublish
+SO  - Pathophysiol Haemost Thromb. 2005;34 Suppl 1:10-7. doi: 10.1159/000083079.
+
+PMID- 16262971
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20051209
+LR  - 20121115
+IS  - 0266-4623 (Print)
+IS  - 0266-4623 (Linking)
+VI  - 21
+IP  - 4
+DP  - 2005 Fall
+TI  - Ximelagatran: a new type of oral anticoagulant.
+PG  - 480-6
+AB  - OBJECTIVES: This assessment sought to evaluate the comparative benefit and adverse 
+      effect profile of ximelagatran, as well as the clinical issues surrounding its 
+      potential use. METHODS: We performed a Dialog OneSearch across BIOSIS Previews, 
+      EMBASE, MEDLINE, PASCAL, and ToxFile to identify published literature. PubMed and 
+      The Cochrane Library were also searched. Gray literature was identified by searching 
+      a variety of Web sites of health technology assessment and related agencies and 
+      their associated databases. The manufacturer's Canadian office, AstraZeneca, was 
+      invited to submit information. RESULTS: Ximelagatran is the first oral agent from a 
+      new class of anticoagulants called direct thrombin inhibitors. Other oral 
+      anticoagulants require routine blood monitoring; ximelagatran does not. Ximelagatran 
+      has been evaluated in the areas of venous thromboembolism management, particularly 
+      after orthopedic surgery, and stroke prevention in patients with atrial 
+      fibrillation. Overall, ximelagatran's efficacy appears comparable to other 
+      anticoagulants in these clinical settings. Also, bleeding rates were generally 
+      similar between ximelagatran and comparators but, as for warfarin, bleeding risk 
+      increases with higher ximelagatran doses. In addition, there is no specific antidote 
+      to help manage ximelagatran-induced bleeding. Finally, significantly more patients 
+      exposed to long-term ximelagatran developed elevated liver enzymes more than three 
+      times the upper normal limit, compared with patients on comparator anticoagulants. 
+      CONCLUSIONS: Given its apparent simplicity of use, ximelagatran carries the 
+      potential to replace, at least in part, anticoagulants currently used in the 
+      management of venous thromboembolism or for preventing stroke in atrial fibrillation 
+      patients. However, the safety of ximelagatran will not be fully known without 
+      further evaluation and surveillance for potential liver toxicity. There is also a 
+      need to evaluate its use in special populations such as patients with renal failure 
+      and patients using several concurrent medications.
+FAU - Kwok, Lisa
+AU  - Kwok L
+AD  - Fairview Family Health Network, 1333 Sheppard Avenue East, Toronto, Ontario M2J 1V1, 
+      Canada. lisac.kwok@utoronto.ca
+FAU - Molckovsky, Dana
+AU  - Molckovsky D
+FAU - Boucher, Michel
+AU  - Boucher M
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Review
+PL  - England
+TA  - Int J Technol Assess Health Care
+JT  - International journal of technology assessment in health care
+JID - 8508113
+RN  - 0 (Anticoagulants)
+RN  - 0 (Azetidines)
+RN  - 0 (Benzylamines)
+RN  - 49HFB70472 (ximelagatran)
+SB  - IM
+MH  - Administration, Oral
+MH  - Anticoagulants/*administration & dosage/adverse effects/therapeutic use
+MH  - Azetidines/*administration & dosage/adverse effects/therapeutic use
+MH  - Benzylamines
+MH  - Canada
+MH  - Drug Evaluation
+MH  - Humans
+RF  - 28
+EDAT- 2005/11/03 09:00
+MHDA- 2005/12/13 09:00
+CRDT- 2005/11/03 09:00
+PHST- 2005/11/03 09:00 [pubmed]
+PHST- 2005/12/13 09:00 [medline]
+PHST- 2005/11/03 09:00 [entrez]
+AID - S026646230505066X [pii]
+AID - 10.1017/S026646230505066X [doi]
+PST - ppublish
+SO  - Int J Technol Assess Health Care. 2005 Fall;21(4):480-6. doi: 
+      10.1017/S026646230505066X.
+
+PMID- 15018597
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20040809
+LR  - 20181113
+IS  - 0012-6667 (Print)
+IS  - 0012-6667 (Linking)
+VI  - 64
+IP  - 6
+DP  - 2004
+TI  - Ximelagatran/Melagatran: a review of its use in the prevention of venous 
+      thromboembolism in orthopaedic surgery.
+PG  - 649-78
+AB  - Ximelagatran (Exanta), the first available oral direct thrombin inhibitor, and its 
+      active form, melagatran, have been evaluated in the prevention of venous 
+      thromboembolism (VTE) in patients undergoing hip or knee replacement. After oral 
+      administration ximelagatran is rapidly bioconverted to melagatran. Melagatran 
+      inactivates both circulating and clot-bound thrombin by binding to the thrombin 
+      active site, thus, inhibiting platelet activation and/or aggregation and reducing 
+      fibrinolysis time. The efficacy of subcutaneous melagatran followed by oral 
+      ximelagatran has been investigated in four European trials and the efficacy of an 
+      all oral ximelagatran regimen has been investigated in five US trials. In a 
+      dose-ranging European study, preoperatively initiated subcutaneous melagatran 3 mg 
+      twice daily followed by oral ximelagatran 24 mg twice daily was significantly more 
+      effective than subcutaneous dalteparin sodium 5000IU once daily in preventing the 
+      occurrence of VTE, including deep vein thrombosis (DVT) and pulmonary embolism (PE), 
+      in patients undergoing hip or knee replacement. In one study, there were no 
+      significant differences in VTE prevention between subcutaneous melagatran 3 mg 
+      administered after surgery followed by ximelagatran 24 mg twice daily and enoxaparin 
+      sodium (enoxaparin) 40 mg once daily. Compared with enoxaparin, significantly lower 
+      rates of proximal DVT and/or PE (major VTE) and total VTE were observed when 
+      melagatran was initiated preoperatively (2mg) then postoperatively (3mg) and 
+      followed by ximelagatran 24 mg twice daily. In the US, four studies showed that 
+      postoperatively initiated ximelagatran 24 mg twice daily was of similar efficacy to 
+      enoxaparin or warfarin in the prevention of VTE in patients undergoing hip or knee 
+      replacement. However, ximelagatran 36 mg twice daily was superior to warfarin 
+      (target international normalised ratio of 2.5) at preventing the incidence of VTE in 
+      patients undergoing total knee replacement in two studies.Ximelagatran alone or 
+      after melagatran was generally well tolerated. Overall, the incidence of bleeding 
+      events and transfusion rates were not markedly different from those documented for 
+      comparator anticoagulants. In a post-hoc analysis of one study, transfusion rates 
+      were lower in ximelagatran than enoxaparin recipients. CONCLUSIONS: Oral 
+      ximelagatran alone or in conjunction with subcutaneous melagatran has shown good 
+      efficacy and was generally well tolerated in the prevention of VTE in patients 
+      undergoing orthopaedic surgery. Furthermore, patients receiving 
+      ximelagatran/melagatran do not require anticoagulant monitoring. The drug has a low 
+      potential for drug interactions and can be administered either by subcutaneous 
+      injection or orally. Thus, on the basis of available evidence, 
+      ximelagatran/melagatran appears poised to play an important role in the prophylaxis 
+      of VTE in patients undergoing orthopaedic surgery.
+FAU - Evans, Hannah C
+AU  - Evans HC
+AD  - Adis International Limited, 41 Centorian Drive, PB 65901, Mairangi Bay, Auckland 
+      1311, New Zealand. demail@adis.co.nz
+FAU - Perry, Caroline M
+AU  - Perry CM
+FAU - Faulds, Diana
+AU  - Faulds D
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - New Zealand
+TA  - Drugs
+JT  - Drugs
+JID - 7600076
+RN  - 0 (Anticoagulants)
+RN  - 0 (Azetidines)
+RN  - 0 (Benzylamines)
+RN  - 0 (Enoxaparin)
+RN  - 2A9QP32MD4 (melagatran)
+RN  - 49HFB70472 (ximelagatran)
+RN  - 5Q7ZVV76EI (Warfarin)
+RN  - EC 3.4.21.5 (Thrombin)
+RN  - TE7660XO1C (Glycine)
+SB  - IM
+MH  - Anticoagulants/therapeutic use
+MH  - Azetidines/pharmacokinetics/pharmacology/*therapeutic use
+MH  - Benzylamines
+MH  - Drug Interactions
+MH  - Drug Therapy, Combination
+MH  - Enoxaparin/therapeutic use
+MH  - Glycine/*analogs & derivatives/pharmacokinetics/pharmacology/*therapeutic use
+MH  - Humans
+MH  - *Orthopedic Procedures
+MH  - Randomized Controlled Trials as Topic
+MH  - Thrombin/*antagonists & inhibitors
+MH  - Thromboembolism/*prevention & control
+MH  - Venous Thrombosis/*prevention & control
+MH  - Warfarin/therapeutic use
+RF  - 65
+EDAT- 2004/03/17 05:00
+MHDA- 2004/08/10 05:00
+CRDT- 2004/03/17 05:00
+PHST- 2004/03/17 05:00 [pubmed]
+PHST- 2004/08/10 05:00 [medline]
+PHST- 2004/03/17 05:00 [entrez]
+AID - 64610 [pii]
+AID - 10.2165/00003495-200464060-00010 [doi]
+PST - ppublish
+SO  - Drugs. 2004;64(6):649-78. doi: 10.2165/00003495-200464060-00010.
+
+PMID- 14633322
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20040205
+LR  - 20121115
+IS  - 1521-737X (Print)
+IS  - 1521-737X (Linking)
+VI  - 5
+IP  - 6
+DP  - 2003 Nov-Dec
+TI  - Ximelagatran: a new oral anticoagulant.
+PG  - 397-408
+AB  - Although there have been many significant advances over the last 50 years with 
+      regards to anticoagulant therapy, warfarin remains the definitive standard for the 
+      long-term prevention of thromboembolic events in many patients at risk for these 
+      complications. Although effective, warfarin has a narrow therapeutic window, 
+      necessitating frequent laboratory monitoring for anticoagulant effect. Ximelagatran 
+      is an investigational anticoagulant that directly inhibits thrombin, unlike heparin 
+      or warfarin, which are indirect inhibitors. Although indirect thrombin inhibitors 
+      are mainly only effective at inhibiting circulating thrombin, direct thrombin 
+      inhibitors are able to inhibit both free and clot-bound thrombin, thereby producing 
+      more effective anticoagulation. Ximelagatran is the first orally available direct 
+      thrombin inhibitor to reach phase 3 clinical trials. Ximelagatran is a prodrug for 
+      the active metabolite melagatran, and has been demonstrated to have a relatively 
+      wide therapeutic window in terms of bleeding and antithrombotic effect compared with 
+      warfarin. Clinical studies have demonstrated ximelagatran to be comparable in 
+      efficacy to warfarin and low-molecular-weight heparins (LMWH) for prophylaxis of 
+      venous thromboembolism, comparable to warfarin for stroke prevention in the setting 
+      of atrial fibrillation, and, when combined with aspirin, possible more effective 
+      than aspirin alone at preventing major adverse cardiovascular events in patients 
+      with a recent myocardial infarction. Adverse effects with ximelagatran primarily 
+      involve bleeding complications, which are more frequent than with placebo, but 
+      appear comparable to those occurring with standard anticoagulant treatment (ie, 
+      warfarin and LMWH). Ximelagatran has also been demonstrated to cause transient 
+      increases in liver enzymes, the significance of which will need to be addressed in 
+      ongoing phase 3 studies. Should ongoing trials prove ximelagatran to have at least 
+      similar therapeutic efficacy and safety as warfarin, ximelagatran may become a 
+      first-line anticoagulant due to its ease of administration and lack of a need for 
+      drug monitoring. The results of these trials are eagerly awaited in helping to 
+      defining the place in therapy for this promising new agent.
+FAU - Hrebickova, Lenka
+AU  - Hrebickova L
+AD  - University of New Mexico College of Pharmacy, Albuquerque, NM 87131, USA.
+FAU - Nawarskas, James J
+AU  - Nawarskas JJ
+FAU - Anderson, Joe R
+AU  - Anderson JR
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Heart Dis
+JT  - Heart disease (Hagerstown, Md.)
+JID - 100887299
+RN  - 0 (Anticoagulants)
+RN  - 0 (Azetidines)
+RN  - 0 (Benzylamines)
+RN  - 49HFB70472 (ximelagatran)
+SB  - IM
+MH  - Administration, Oral
+MH  - Anticoagulants/*pharmacology/*therapeutic use
+MH  - Atrial Fibrillation/drug therapy
+MH  - Azetidines/*pharmacology/*therapeutic use
+MH  - Benzylamines
+MH  - Clinical Trials as Topic
+MH  - Dose-Response Relationship, Drug
+MH  - Humans
+MH  - Myocardial Infarction/drug therapy
+MH  - Stroke/prevention & control
+MH  - Venous Thrombosis/drug therapy
+RF  - 51
+EDAT- 2003/11/25 05:00
+MHDA- 2004/02/06 05:00
+CRDT- 2003/11/25 05:00
+PHST- 2003/11/25 05:00 [pubmed]
+PHST- 2004/02/06 05:00 [medline]
+PHST- 2003/11/25 05:00 [entrez]
+AID - 10.1097/01.hdx.0000099777.39577.e8 [doi]
+PST - ppublish
+SO  - Heart Dis. 2003 Nov-Dec;5(6):397-408. doi: 10.1097/01.hdx.0000099777.39577.e8.
+
+PMID- 17319469
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070321
+LR  - 20190608
+IS  - 1176-6344 (Print)
+IS  - 1178-2048 (Electronic)
+IS  - 1176-6344 (Linking)
+VI  - 2
+IP  - 1
+DP  - 2006
+TI  - Ximelagatran: direct thrombin inhibitor.
+PG  - 49-58
+AB  - Warfarin sodium is an effective oral anticoagulant drug. However, warfarin has a 
+      narrow therapeutic window with significant risks of hemorrhage at therapeutic 
+      concentrations. Dosing is difficult and requires frequent monitoring. New oral 
+      anticoagulant agents are required to improve current anticoagulant therapy. 
+      Furthermore, while warfarin is effective in venous disease, it does not provide more 
+      than 60% risk reduction compared with placebo in venous thrombosis prophylaxis and 
+      considerably lower risk reduction in terms of arterial thrombosis. Ximelagatran is 
+      an oral pro-drug of melagatran, a synthetic small peptidomimetic with direct 
+      thrombin inhibitory actions and anticoagulant activity. As an oral agent, 
+      ximelagatran has a number of desirable properties including a rapid onset of action, 
+      fixed dosing, stable absorption, apparent low potential for medication interactions, 
+      and no requirement for monitoring of drug levels or dose adjustment. It has a short 
+      plasma elimination half-life of about 4 hours in cases of unexpected hemorrhage or 
+      need for reversal. Its main toxicity relates to the development of abnormal liver 
+      biochemistry and/or liver dysfunction with "long-term" use of the drug. This usually 
+      occurs within the first 6 months of commencing therapy, with a small percentage of 
+      patients developing jaundice. The biochemical abnormality usually resolves despite 
+      continuation of the drug. The cause of this toxicity remains unknown. Clinical 
+      studies to date have shown that ximelagatran is noninferior to warfarin in stroke 
+      prevention in patients with nonvalvular atrial fibrillation, noninferior to standard 
+      therapy as acute and extended therapy of deep vein thrombosis (DVT), and superior to 
+      warfarin for the prevention of venous thromboembolism post-major orthopedic surgery. 
+      It has also been shown to be more effective than aspirin alone for prevention of 
+      recurrent major cardiovascular events in patients with recent myocardial infarction.
+FAU - Ho, Shir-Jing
+AU  - Ho SJ
+AD  - Department of Clinical Haematology, Cancer Care Centre, St George Hospital, Gray St, 
+      Kogarah, NSW 2217, Australia. Shir-Jing.Ho@sesiahs.health.nswgov.au
+FAU - Brighton, Tim A
+AU  - Brighton TA
+LA  - eng
+PT  - Journal Article
+PT  - Review
+TA  - Vasc Health Risk Manag
+JT  - Vascular health and risk management
+JID - 101273479
+RN  - 0 (Anticoagulants)
+RN  - 0 (Azetidines)
+RN  - 0 (Benzylamines)
+RN  - 0 (Prodrugs)
+RN  - 2A9QP32MD4 (melagatran)
+RN  - 49HFB70472 (ximelagatran)
+RN  - EC 3.4.21.5 (Thrombin)
+SB  - IM
+MH  - Acute Disease
+MH  - Administration, Oral
+MH  - Anticoagulants/administration & dosage/adverse effects/pharmacokinetics/*therapeutic 
+      use
+MH  - Atrial Fibrillation/complications/drug therapy
+MH  - Azetidines/administration & dosage/adverse effects/pharmacokinetics/*therapeutic use
+MH  - Benzylamines/administration & dosage/adverse effects/pharmacokinetics/*therapeutic 
+      use
+MH  - Heart Diseases/drug therapy
+MH  - Hemostasis/drug effects
+MH  - Humans
+MH  - Molecular Structure
+MH  - Orthopedic Procedures/adverse effects
+MH  - Patient Compliance
+MH  - Patient Satisfaction
+MH  - Platelet Aggregation/drug effects
+MH  - Prodrugs/administration & dosage/adverse effects/pharmacokinetics/*therapeutic use
+MH  - Stroke/complications/prevention & control
+MH  - Syndrome
+MH  - Thrombin/*antagonists & inhibitors
+MH  - Thromboembolism/etiology/prevention & control
+MH  - Treatment Outcome
+MH  - Venous Thrombosis/drug therapy/etiology/prevention & control
+PMC - PMC1993972
+EDAT- 2007/02/27 09:00
+MHDA- 2007/03/22 09:00
+CRDT- 2007/02/27 09:00
+PHST- 2007/02/27 09:00 [pubmed]
+PHST- 2007/03/22 09:00 [medline]
+PHST- 2007/02/27 09:00 [entrez]
+AID - 10.2147/vhrm.2006.2.1.49 [doi]
+PST - ppublish
+SO  - Vasc Health Risk Manag. 2006;2(1):49-58. doi: 10.2147/vhrm.2006.2.1.49.
+
+PMID- 16614732
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20060928
+LR  - 20191109
+IS  - 0897-5957 (Print)
+IS  - 0897-5957 (Linking)
+VI  - 23
+IP  - 4
+DP  - 2005 Winter
+TI  - Ximelagatran, the new oral anticoagulant: would warfarin survive the challenge?
+PG  - 331-44
+AB  - The last decade witnessed major advances in the prevention and treatment of venous 
+      as well as of arterial thrombosis. Limitations of existing anticoagulants led to the 
+      development of novel therapeutic approaches. Ximelagatran is a new direct thrombin 
+      inhibitor (DTI) that is given orally, without the need for close monitoring. This 
+      compound was tried in the treatment of active venous thromboembolism, and the 
+      results were encouraging. Randomized trials suggest that ximelagatran is not 
+      inferior to warfarin in the prevention of stroke in patients with nonvalvular atrial 
+      fibrillation. Multiple controlled, prospective trials compared ximelagatran with low 
+      molecular weight heparin or warfarin in prevention of venous thromboembolism in 
+      patients undergoing major orthopedic procedures. The results of these clinical 
+      trials are reviewed in this article. Because of certain safety concerns (increased 
+      liver enzymes, potential hepatonecrosis, and increased coronary events) ximelagatran 
+      has not yet been approved by the FDA. Additional studies may be required to address 
+      these concerns. Ximelagatran has been approved, however, by the European regulatory 
+      authorities for short-term thromboprophylaxis. The success of ximelagatran or other 
+      oral antithrombin agents would provide significant proof of the concept for the 
+      long-term use of oral antithrombins in the prevention and treatment of both arterial 
+      and venous thrombosis.
+FAU - Mousa, Shaker A
+AU  - Mousa SA
+AD  - Albany College of Pharmacy, The Pharmaceutical Research Institute, Albany, NY 12208, 
+      USA. mousas@acp.edu
+FAU - Abdel-Razeq, Hikmat N
+AU  - Abdel-Razeq HN
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Cardiovasc Drug Rev
+JT  - Cardiovascular drug reviews
+JID - 9006912
+RN  - 0 (Anticoagulants)
+RN  - 0 (Azetidines)
+RN  - 0 (Benzylamines)
+RN  - 49HFB70472 (ximelagatran)
+RN  - 9005-49-6 (Heparin)
+SB  - IM
+MH  - Animals
+MH  - Anticoagulants/*pharmacology/therapeutic use
+MH  - Atrial Fibrillation/drug therapy/prevention & control
+MH  - Azetidines/*pharmacology/therapeutic use
+MH  - Benzylamines/*pharmacology/therapeutic use
+MH  - Heparin/*pharmacology/therapeutic use
+MH  - Humans
+MH  - Thrombosis/drug therapy/prevention & control
+RF  - 50
+EDAT- 2006/04/15 09:00
+MHDA- 2006/09/29 09:00
+CRDT- 2006/04/15 09:00
+PHST- 2006/04/15 09:00 [pubmed]
+PHST- 2006/09/29 09:00 [medline]
+PHST- 2006/04/15 09:00 [entrez]
+AID - 10.1111/j.1527-3466.2005.tb00176.x [doi]
+PST - ppublish
+SO  - Cardiovasc Drug Rev. 2005 Winter;23(4):331-44. doi: 
+      10.1111/j.1527-3466.2005.tb00176.x.
+
+PMID- 17636192
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070906
+LR  - 20121115
+IS  - 1076-0296 (Print)
+IS  - 1076-0296 (Linking)
+VI  - 13
+IP  - 3
+DP  - 2007 Jul
+TI  - Ximelagatran for treatment and prophylaxis of recurrent events in deep vein 
+      thrombosis.
+PG  - 299-307
+AB  - The treatment of acute venous thromboembolism and prophylaxis of recurrent events 
+      with heparin/low molecular weight heparin followed by vitamin K antagonists is 
+      limited by several factors. Oral direct thrombin inhibitors (ODTIs) showed a better 
+      pharmacological activity and might be an alternative in the treatment of venous 
+      thromboembolism. The Thrombin Inhibition in Venous Thromboembolism (THRIVE) program 
+      performed some studies developing the ODTI ximelagatran for this indication, and it 
+      is presented in the overview. The aim of the THRIVE I study was the dose finding, 
+      and that of the THRIVE IV study the applicability in hemodynamic stabile pulmonary 
+      embolism. A prospective, randomized, double blind trial was performed to compare 
+      oral ximelagatran with enoxaparin/warfarin for a 6-month treatment of acute venous 
+      thrombosis (THRIVE II and V). A second double blind study compared ximelagatran with 
+      placebo over 18 months after a 6-month anticoagulant therapy of acute deep vein 
+      thrombosis. The efficacy and safety of treatment of patients with acute deep venous 
+      thrombosis who received 2 infinity 36 mg ximelagatran was not inferior to that of 
+      patients who received a conventional anticoagulant for prophylaxis of recurrent 
+      events over 6 months. Ximelagatran 2 infinity 24 mg significantly reduced recurrent 
+      thromboembolic events compared to placebo without increasing the risk for 
+      hemorrhage. A reversible symptomless increase of alanine aminotransferase occurs in 
+      6% to 9.6% of patients between months 2 and 4. The results of the follow-up studies 
+      suggest that thromboembolic events may recur in patients with acute venous 
+      thromboembolism after termination of treatment with both vitamin K antagonists and 
+      ximelagatran.
+FAU - Koscielny, J
+AU  - Koscielny J
+AD  - Institute for Transfusion Medicine, Charité Humboldt University, Campus Charité 
+      Mitte, Berlin, Germany.
+FAU - Kiesewetter, H
+AU  - Kiesewetter H
+FAU - Jörg, I
+AU  - Jörg I
+FAU - Harenberg, J
+AU  - Harenberg J
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Clin Appl Thromb Hemost
+JT  - Clinical and applied thrombosis/hemostasis : official journal of the International 
+      Academy of Clinical and Applied Thrombosis/Hemostasis
+JID - 9508125
+RN  - 0 (Anticoagulants)
+RN  - 0 (Azetidines)
+RN  - 0 (Benzylamines)
+RN  - 49HFB70472 (ximelagatran)
+RN  - EC 2.6.1.2 (Alanine Transaminase)
+RN  - EC 3.4.21.5 (Thrombin)
+SB  - IM
+MH  - Alanine Transaminase/blood
+MH  - Anticoagulants/administration & dosage/pharmacokinetics/*therapeutic use
+MH  - Azetidines/administration & dosage/pharmacokinetics/*therapeutic use
+MH  - Benzylamines/administration & dosage/pharmacokinetics/*therapeutic use
+MH  - Double-Blind Method
+MH  - Humans
+MH  - International Normalized Ratio
+MH  - Prospective Studies
+MH  - Pulmonary Embolism/prevention & control
+MH  - Randomized Controlled Trials as Topic
+MH  - Recurrence
+MH  - Thrombin/antagonists & inhibitors
+MH  - Venous Thrombosis/*prevention & control
+RF  - 32
+EDAT- 2007/07/20 09:00
+MHDA- 2007/09/07 09:00
+CRDT- 2007/07/20 09:00
+PHST- 2007/07/20 09:00 [pubmed]
+PHST- 2007/09/07 09:00 [medline]
+PHST- 2007/07/20 09:00 [entrez]
+AID - 13/3/299 [pii]
+AID - 10.1177/1076029607302561 [doi]
+PST - ppublish
+SO  - Clin Appl Thromb Hemost. 2007 Jul;13(3):299-307. doi: 10.1177/1076029607302561.
+
+PMID- 15383641
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050201
+LR  - 20121115
+IS  - 1060-0280 (Print)
+IS  - 1060-0280 (Linking)
+VI  - 38
+IP  - 11
+DP  - 2004 Nov
+TI  - Ximelagatran: an oral direct thrombin inhibitor.
+PG  - 1881-97
+AB  - OBJECTIVE: To present the chemistry, pharmacology, and pharmacokinetics of 
+      ximelagatran, an oral direct thrombin inhibitor (DTI), and to review available 
+      comparative clinical trial data evaluating its efficacy and safety relative to other 
+      antithrombotic agents in the prevention and treatment of thromboembolism. DATA 
+      SOURCES: A search of the PubMed and Cochrane databases (1995-August 2004), 
+      supplemented by a manual search of article bibliographies, conference abstracts, and 
+      data on file from the manufacturer, was conducted. Key search terms were 
+      ximelagatran, melagatran, H376/95, and direct thrombin inhibitors. STUDY SELECTION 
+      AND DATA EXTRACTION: Pertinent information from available clinical trials, including 
+      study design, patient demographics, dosing regimens, anticoagulant comparators, 
+      methods for evaluating effectiveness, treatment outcomes, adverse events, and 
+      pharmacokinetic and pharmacodynamic evaluations, was extracted. DATA SYNTHESIS: 
+      Ximelagatran is an orally administered DTI under development for use in the 
+      treatment of venous thromboembolism (VTE), long-term prevention of a second VTE 
+      event, stroke secondary to atrial fibrillation, prevention of VTE after orthopedic 
+      procedures, and recurrent ischemic events after acute myocardial infarction. 
+      CONCLUSIONS: Ximelagatran, in twice-daily doses of 24 or 36 mg, is an alternative to 
+      low-molecular-weight heparins or warfarin in thromboprophylaxis following orthopedic 
+      knee replacement, atrial fibrillation, or initial treatment of VTE. Improved 
+      outcomes versus placebo were seen in the long-term prevention of VTE in patients who 
+      completed an initial 6 months of treatment. Liver-related effects need further 
+      clarification.
+FAU - Dager, William E
+AU  - Dager WE
+AD  - Department of Pharmaceutical Services, University of California Davis Medical 
+      Center, Sacramento, CA, USA. william.dager@ucdmc.ucdavis.edu
+FAU - Vondracek, Thomas G
+AU  - Vondracek TG
+FAU - McIntosh, Bruce A
+AU  - McIntosh BA
+FAU - Nutescu, Edith A
+AU  - Nutescu EA
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20040921
+PL  - United States
+TA  - Ann Pharmacother
+JT  - The Annals of pharmacotherapy
+JID - 9203131
+RN  - 0 (Anticoagulants)
+RN  - 0 (Azetidines)
+RN  - 0 (Benzylamines)
+RN  - 49HFB70472 (ximelagatran)
+SB  - IM
+MH  - Adult
+MH  - *Anticoagulants/metabolism/pharmacokinetics/therapeutic use
+MH  - Area Under Curve
+MH  - *Arthroplasty, Replacement, Hip
+MH  - *Arthroplasty, Replacement, Knee
+MH  - *Azetidines/metabolism/pharmacokinetics/therapeutic use
+MH  - Benzylamines
+MH  - Biological Availability
+MH  - Clinical Trials as Topic
+MH  - Food-Drug Interactions
+MH  - Half-Life
+MH  - Humans
+MH  - Male
+MH  - Venous Thrombosis/*drug therapy
+RF  - 99
+EDAT- 2004/09/24 05:00
+MHDA- 2005/02/03 09:00
+CRDT- 2004/09/24 05:00
+PHST- 2004/09/24 05:00 [pubmed]
+PHST- 2005/02/03 09:00 [medline]
+PHST- 2004/09/24 05:00 [entrez]
+AID - aph.1E078 [pii]
+AID - 10.1345/aph.1E078 [doi]
+PST - ppublish
+SO  - Ann Pharmacother. 2004 Nov;38(11):1881-97. doi: 10.1345/aph.1E078. Epub 2004 Sep 21.

@@ -1,0 +1,344 @@
+1. J Immunol. 2012 Aug 1;189(3):1173-81. doi: 10.4049/jimmunol.1102691. Epub 2012 
+Jun 22.
+
+The IL-2 diphtheria toxin fusion protein denileukin diftitox modulates the onset 
+of diabetes in female nonobese diabetic animals in a time-dependent manner and 
+breaks tolerance in male nonobese diabetic animals.
+
+Zinser E(1), Rössner S, Littmann L, Pangratz N, Schuler G, Steinkasserer A.
+
+Author information:
+(1)Department of Immune Modulation at the Department of Dermatology, University 
+Hospital Erlangen, D-91052 Erlangen, Germany. elisabeth.zinser@uk-erlangen.de
+
+Denileukin diftitox, also known as DAB(389)IL-2 or Ontak, is a fusion protein 
+toxin consisting of the full-length sequence of the IL-2 protein and as 
+toxophore the truncated diphtheria toxin. As a consequence, it delivers the 
+toxic agent to CD25-bearing cells, whereby CD25 represents the high-affinity 
+α-subunit of the IL-2 receptor. Initially it was developed for the treatment of 
+patients with cutaneous T cell lymphoma. Meanwhile, denileukin diftitox is also 
+used as an adjuvant in other tumor therapies and neoplastic disorders. In this 
+study, to our knowledge we report for the first time that denileukin diftitox 
+has also dramatic effects regarding the pathology of type 1 diabetes using the 
+NOD mouse model. Repeated injections of denileukin diftitox into female NOD mice 
+at 12 wk of age led to a clear acceleration of disease onset, whereas injection 
+at 7 wk of age did not. Using male NOD mice, which are much less susceptible to 
+diabetes, we demonstrate that the injection of denileukin diftitox leads to a 
+dramatic development of type 1 diabetes within days after injection, thereby 
+obviously breaking pre-existing tolerance mechanisms. This is accompanied by an 
+increased IFN-γ production of autoreactive splenic cells and a decreased 
+presence of regulatory CD4(+)CD25(+)Foxp3(+) T cells. In contrast, transfer of 
+CD4(+)CD25(+)Foxp3(+) T cells could correct the defect after denileukin diftitox 
+treatment. Furthermore, whereas IFN-γ production was increased in the pancreata 
+of treated animals, insulin expression was strongly reduced. These finding 
+should be considered when denileukin diftitox is used for the treatment of 
+patients suffering from tumors and/or autoimmune disorders.
+
+DOI: 10.4049/jimmunol.1102691
+PMID: 22730534 [Indexed for MEDLINE]
+
+
+2. Clin Lymphoma. 2000 Nov;1 Suppl 1:S27-31.
+
+DAB(389)IL-2 (denileukin diftitox, ONTAK): a new fusion protein technology.
+
+Foss FM(1).
+
+Author information:
+(1)Department of Hematology/Oncology, Tufts New England Medical Center, Boston, 
+MA 02111-1533, USA. francine.foss@es.nemc.org
+
+Genetic engineering has led to the development of fusion protein toxins, which 
+are targeted effector molecules that combine a targeting ligand such as a growth 
+factor with a cytocidal moiety such as a plant or bacterial toxin. The first 
+genetically constructed family of fusion proteins used diphtheria toxin as the 
+toxophore for receptor-binding domain substitution. Diphtheria toxin consists of 
+three domains: an enzymatically active adenosine diphosphate (ADP) 
+ribosyltransferase domain, a hydrophobic transmembrane domain, and a C-terminal 
+receptor-binding domain. Introduction of the enzymatically active domain into 
+the cytosol via receptor-mediated endocytosis results in inhibition of protein 
+synthesis by ADP ribosylation of elongation-factor 2. DAB(486)IL-2, in which the 
+native receptor-binding domain of diphtheria toxin was replaced with the 
+full-length interleukin-2 (IL-2) gene, was capable of intoxicating high-affinity 
+IL-2 receptor-bearing cells in vitro with an IC(50) of 10(-10) M; whereas, cells 
+lacking the full component of the high-affinity IL-2 receptor (p55, p75, p64) 
+were relatively resistant (IC(50) of 10(-8) M). Because of a short in vivo 
+half-life of DAB(486)IL-2, efforts to reengineer the molecule were undertaken, 
+leading to the DAB(389)IL-2 construct, which had a twofold to threefold higher 
+Kd than DAB(486)IL-2 and a longer half-life, resulting in a tenfold increase in 
+potency. Thus far, the clinical activity of both IL-2 chimeric fusion toxins has 
+been similar, with the DAB(389)IL-2 molecule displaying more favorable 
+pharmacokinetics.
+
+PMID: 11707860 [Indexed for MEDLINE]
+
+
+3. Denileukin Diftitox.
+
+LiverTox: Clinical and Research Information on Drug-Induced Liver Injury 
+[Internet]. Bethesda (MD): National Institute of Diabetes and Digestive and 
+Kidney Diseases; 2012–.
+2017 Dec 27.
+
+Denileukin diftitox is a recombinant fusion protein of human interleukin-2 
+(IL-2) attached to diphtheria toxin fragments A and B that is used as an 
+antineoplastic agent to treat cutaneous T cell lymphomas that express IL-2 
+receptors. High doses of denileukin diftitox can cause mild-to-moderate 
+elevations in serum enzymes and bilirubin, but rarely result in clinically 
+significant acute liver injury.
+
+PMID: 31643755
+
+
+4. Cancer. 2006 May 15;106(10):2158-64. doi: 10.1002/cncr.21851.
+
+Phase II clinical studies of denileukin diftitox diphtheria toxin fusion protein 
+in patients with previously treated chronic lymphocytic leukemia.
+
+Frankel AE(1), Surendranathan A, Black JH, White A, Ganjoo K, Cripe LD.
+
+Author information:
+(1)Department of Medicine, Scott and White Hospital, Temple, Texas 76508, USA. 
+afrankel@swmail.sw.org
+
+BACKGROUND: The safety and efficacy of the interleukin-2 diphtheria toxin fusion 
+protein (DAB(389)IL2; denileukin diftitox) directed against the IL-2 receptor 
+(IL-2R) was tested in patients with recurrent or refractory chronic lymphocytic 
+leukemia (CLL).
+METHODS: Denileukin diftitox was administered as 60-minute intravenous infusions 
+for 5 days every 21 days at a dose of 18 mug/kg per day for up to 8 cycles. In 
+total, 28 patients were treated in 2 multiinstitutional studies with similar 
+eligibility criteria and treatment protocols. Twenty-two patients receive > or = 
+2 cycles of denileukin diftitox and were evaluable for response.
+RESULTS: Twelve of 22 patients achieved reductions of peripheral CLL cells, with 
+5 of 12 patients achieving >80% reductions. Six of 22 patients achieved 
+reductions in the size of lymph node on examination and computed tomography 
+scans, and all 6 of those patients met the criteria for a partial or complete 
+response that lasted > or = 2 months. Bone marrow biopsies before and after 
+treatment confirmed a complete remission that lasted for 1 year in 1 patient. 
+Overall, denileukin diftitox produced complete remission in 1 of 22 patients 
+(4%) and partial remission in 5 of 22 patients (23%) for a total remission rate 
+of 27%. Progression-free intervals in the responders were 2 months in 2 patients 
+and 4 months, 6 months, 7 months, and 12 months in 1 patient each. Toxicities 
+were moderate. No infections associated with immunosuppression were seen. There 
+was no significant correlation of response or toxicities with the numbers of 
+denileukin diftitox cycles received or with CD25 levels.
+CONCLUSIONS: Follow-up studies will be required to identify predictors of 
+response that may improve the response rate to denileukin diftitox in patients 
+with CLL.
+
+Copyright 2006 American Cancer Society
+
+DOI: 10.1002/cncr.21851
+PMID: 16586495 [Indexed for MEDLINE]
+
+
+5. Curr Oncol Rep. 2018 Mar 23;20(4):32. doi: 10.1007/s11912-018-0678-x.
+
+Systemic Treatment Options for Advanced-Stage Mycosis Fungoides and Sézary 
+Syndrome.
+
+Photiou L(1), van der Weyden C(2), McCormack C(2), Miles Prince H(2).
+
+Author information:
+(1)Peter MacCallum Cancer Centre, 305 Grattan Street, Melbourne, VIC, 3000, 
+Australia. louise.photiou@gmail.com.
+(2)Peter MacCallum Cancer Centre, 305 Grattan Street, Melbourne, VIC, 3000, 
+Australia.
+
+PURPOSE OF REVIEW: Cutaneous T-cell lymphoma (CTCL) is a rare form of 
+non-Hodgkin lymphoma. Globally, the most common subtypes of CTCL are mycosis 
+fungoides and Sézary syndrome. CTCL can confer significant morbidity and even 
+mortality in advanced disease. Here we review the current and potential future 
+treatments for advanced-stage CTCL.
+RECENT FINDINGS: Heterogeneity of treatment choice has been demonstrated both in 
+US and non-US centers. Systemic treatment choice is currently guided by 
+prognostic features, incorporating stage, immunophenotypic and molecular 
+findings, and patient-specific factors such as age and comorbidities. Randomized 
+controlled studies are uncommon, and the literature is composed predominantly of 
+retrospective, cohort, and early-phase studies. International consensus 
+guidelines are available; however, the lack of comparative trials means that 
+there is no clear algorithmic approach to treatment. This review article reports 
+on the systemic treatment options in current use for advanced CTCL, and on the 
+possible future therapies, acknowledging that an algorithmic approach is not yet 
+forthcoming to guide treatment prioritization.
+
+DOI: 10.1007/s11912-018-0678-x
+PMID: 29572582 [Indexed for MEDLINE]
+
+
+6. Eur J Cancer. 1997 Jan;33 Suppl 1:S34-6. doi: 10.1016/s0959-8049(96)00327-9.
+
+Interleukin-2 fusion protein: an investigational therapy for interleukin-2 
+receptor expressing malignancies.
+
+Nichols J(1), Foss F, Kuzel TM, LeMaistre CF, Platanias L, Ratain MJ, Rook A, 
+Saleh M, Schwartz G.
+
+Author information:
+(1)Seragen Inc., Hopkinton, Massachusetts 01748, USA.
+
+DAB389IL-2 is an interleukin-2 receptor (IL-2R) specific fusion protein with a 
+molecular weight of 58 kD containing the enzymatic and translocation domains of 
+diphtheria toxin (DT) and human IL-2. This fusion protein is able to direct the 
+cytocidal action of the DT enzymatic region only to cells which bear the IL-2R. 
+The human IL-2R exists in three forms: low, intermediate and high affinity. The 
+high-affinity form is believed to be the biologically relevant form on mature, 
+activated T-lymphocytes, B-lymphocytes and monocytes. DAB389IL-2 is able to bind 
+selectively to the high-affinity IL-2R in a concentration-dependent manner, and 
+once bound is internalised via receptor-mediated endocytosis. Upon acidification 
+of the formed vesicle, the enzymatic portion of the fusion protein is believed 
+to pass into the cytosol where it ultimately inhibits protein synthesis by 
+inactivation of elongation factor-2, resulting in cell death. The constitutive 
+expression of the IL-2R on certain leukaemic and lymphomatous cells of T and B 
+cell origin has been reported to occur in patients with chronic lymphocytic 
+leukaemia, cutaneous T cell lymphoma (CTCL), Hodgkin's disease and non-Hodgkin's 
+lymphomas (NHLs). A multicentre DAB389IL-2 dose-escalation study of patients 
+with IL-2R expressing lymphomas has been conducted. A 10-fold range of doses 
+were evaluated on a five-daily dose schedule. Patients received up to six 
+courses, with an additional two courses permitted for patients with partial 
+responses that appeared to be still improving after six courses. Most adverse 
+experiences were transient and mild. Preliminary assessment of response 
+indicated five complete responses (CR, duration ongoing at 20, 11, 7, 5 and 4 
+months) and seven partial responses (PR, duration 3-20 months) in the 35 
+patients with CTCL. One CR (duration > 20 months) in a patient with NHL 
+(Lennett's lymphoma) and two PR (duration 9 and 2 months) in 17 patients with 
+B-cell NHL have been observed. Based on the mode of action of DAB389IL-2, its 
+safety profile, and the patient responses associated with the phase I/II 
+clinical trials, a phase III programme in CTCL patients has been initiated and 
+plans for additional trials in NHL patients are targeted for 1996.
+
+DOI: 10.1016/s0959-8049(96)00327-9
+PMID: 9166099 [Indexed for MEDLINE]
+
+
+7. Ann N Y Acad Sci. 2001 Sep;941:166-76. doi: 10.1111/j.1749-6632.2001.tb03720.x.
+
+Interleukin-2 fusion toxin: targeted therapy for cutaneous T cell lymphoma.
+
+Foss FM(1).
+
+Author information:
+(1)Tufts New England Medical Center, Boston, Massachusetts 02111, USA. 
+ffoss@lifespan.org
+
+The interleukin (IL)-2 receptor has proved an attractive target for T 
+cell-directed therapies. Agents including monoclonal antibodies, single-chain 
+antibody immunoconjugates, radioimmunoconjugates, and, most recently, ligand 
+fusion toxins have demonstrated activity in vitro and in clinical trials in both 
+hematologic malignancies and diseases characterized by proliferation of 
+activated T cells, such as graft-versus-host disease. DAB389IL-2 (ONTAK) is a 
+ligand fusion toxin consisting of the full-length sequence of the IL-2 gene 
+genetically fused to the enzymatically active and translocating domains of 
+diphtheria toxin. DAB389IL-2 and its predecessor, DAB486IL-2, have demonstrated 
+activity in a variety of diseases, including cutaneous T cell lymphoma (CTCL), 
+psoriasis, rheumatoid arthritis, and HIV infection. Further clinical development 
+of IL-2 fusion toxins in CTCL and other hematopoietic malignancies is predicated 
+on identification of the high-affinity IL-2 receptor complex on the malignant 
+cells and on a better understanding of the biological determinants of 
+cytotoxicity of these molecules in vivo.
+
+DOI: 10.1111/j.1749-6632.2001.tb03720.x
+PMID: 11594570 [Indexed for MEDLINE]
+
+
+8. Am J Clin Dermatol. 2000 Jan-Feb;1(1):67-72; discussion 73. doi: 
+10.2165/00128071-200001010-00008.
+
+Denileukin diftitox.
+
+Figgitt DP(1), Lamb HM, Goa KL.
+
+Author information:
+(1)Adis International Limited, Auckland, New Zealand. demail@adis.co.nz
+
+Denileukin diftitox is a novel interleukin-2 receptor (IL-2R)-targeted 
+diphtheria toxin. It binds to cells expressing IL-2R and inhibits protein 
+synthesis through internalization of the diphtheria toxin fragment. In patients 
+with IL-2R-positive cutaneous T cell lymphoma (CTCL), the overall response rate 
+was 23 and 36%, respectively, after denileukin diftitox 9 or 18 
+micrograms/kg/day for 5 days every 3 weeks and was 37% in a dose-ranging trial. 
+Quality of life (QOL) improved significantly in patients with CTCL who responded 
+to treatment with denileukin diftitox 9 or 18 micrograms/kg/day compared with 
+QOL at baseline and in nonresponders. In a murine model of IL-2R-expressing 
+malignancy, denileukin diftitox prolonged survival compared with controls. The 
+most common adverse events reported in patients who received denileukin diftitox 
+were hypoalbuminemia, fever/chills, acute hypersensitivity reactions, 
+nausea/vomiting and asthenia. Vascular leak syndrome has occurred during 
+denileukin diftitox therapy. Antibody titers to denileukin diftitox occur in 
+most patients after treatment but the presence of antibodies does not preclude a 
+clinical response.
+
+DOI: 10.2165/00128071-200001010-00008
+PMID: 11702307 [Indexed for MEDLINE]
+
+
+9. J Immunother. 2005 Nov-Dec;28(6):582-92. doi: 
+10.1097/01.cji.0000175468.19742.10.
+
+Inability of a fusion protein of IL-2 and diphtheria toxin (Denileukin Diftitox, 
+DAB389IL-2, ONTAK) to eliminate regulatory T lymphocytes in patients with 
+melanoma.
+
+Attia P(1), Maker AV, Haworth LR, Rogers-Freezer L, Rosenberg SA.
+
+Author information:
+(1)Surgery Branch, National Cancer Institute, National Institutes of Health, 
+Bethesda, Maryland 20892-1201, USA.
+
+Elimination of regulatory T lymphocytes may provide a way to break 
+self-tolerance and unleash the anti-tumor properties of circulating lymphocytes. 
+The use of fusion proteins, which link cytotoxic molecules to receptor targets, 
+provides one approach to this problem. This study examined the ability of a 
+fusion protein of interleukin-2 (IL-2) and diphtheria toxin (Denileukin 
+Diftitox, DAB389IL-2, ONTAK) to eliminate regulatory T lymphocytes based on 
+their expression of high-affinity IL-2 receptors. Thirteen patients (12 with 
+metastatic melanoma, 1 with metastatic renal cell carcinoma) were treated at one 
+of the two Food and Drug Administration-approved doses of Denileukin Diftitox 
+(seven patients at 9 microg/kg, six patients at 18 microg/kg). None of the 
+patients experienced an objective clinical response. Foxp3 expression did not 
+decrease significantly overall, although it did decrease minimally among 
+patients receiving 18 microg/kg (-2.01+/-0.618 copies of Foxp3/10(3) copies of 
+beta-actin; P=0.031). Denileukin Diftitox did not decrease the suppressive 
+ability of CD4CD25 cells as quantified by an in vitro co-culture suppression 
+assay. Furthermore, the increased numbers of lymphocytes in patients resulting 
+from treatment with IL-2 were not susceptible to Denileukin Diftitox. 
+Administration of Denileukin Diftitox does not appear to eliminate regulatory T 
+lymphocytes or cause regression of metastatic melanoma.
+
+DOI: 10.1097/01.cji.0000175468.19742.10
+PMCID: PMC1533764
+PMID: 16224276 [Indexed for MEDLINE]
+
+
+10. Front Med (Lausanne). 2019 May 29;6:116. doi: 10.3389/fmed.2019.00116. 
+eCollection 2019.
+
+Novel and Future Therapeutic Drugs for Advanced Mycosis Fungoides and Sézary 
+Syndrome.
+
+Oka T(1), Miyagaki T(1).
+
+Author information:
+(1)Department of Dermatology, Graduate School of Medicine, The University of 
+Tokyo, Tokyo, Japan.
+
+Mycosis fungoides (MF) and Sézary syndrome (SS) are the most common subtypes of 
+cutaneous T-cell lymphoma. The majority of MF cases present with only patches 
+and plaques and the lesions are usually limited to the skin. On the other hand, 
+in some cases, patients show skin tumors or erythroderma followed by lymph node 
+involvement and rarely visceral organ involvement. SS is a rare, aggressive 
+cutaneous T-cell lymphoma marked by exfoliative erythroderma, lymphadenopathy, 
+and leukemic blood involvement. Because patients with relapsed or refractory 
+MF/SS display a poor prognosis and the current treatment options are 
+characterized by high rates of relapse, there is unmet need for the efficient 
+treatment. This review provides a discussion of the recent and future promising 
+therapeutic approaches in the management of advanced MF/SS. These include 
+mogamulizumab, brentuximab vedotin, alemtuzumab, immune checkpoint inhibitors, 
+IPH4102 (anti-KIR3DL2 antibody), histone deacetylase inhibitors (vorinostat, 
+romidepsin, panobinostat, belinostat, and resminostat), pralatrexate, 
+forodesine, denileukin diftitox, duvelisib, lenalidomide, and everolimus.
+
+DOI: 10.3389/fmed.2019.00116
+PMCID: PMC6548851
+PMID: 31192214

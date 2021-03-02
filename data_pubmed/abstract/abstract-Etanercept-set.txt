@@ -1,0 +1,431 @@
+1. Immunotherapy. 2018 Mar 1;10(6):433-445. doi: 10.2217/imt-2017-0155. Epub 2018 
+Feb 27.
+
+Etanercept for the treatment of rheumatoid arthritis.
+
+Zhao S(1), Mysler E(2), Moots RJ(1).
+
+Author information:
+(1)Institute of Ageing and Chronic Disease, University of Liverpool, Aintree 
+University Hospital, Longmoor Lane, Liverpool, L9 7AL, UK.
+(2)Organización Medica de Investigación, Buenos Aires, Argentina.
+
+Etanercept was the first specific anticytokine therapy approved for the 
+treatment of rheumatoid arthritis (RA). Its clinical efficacy and safety has 
+been demonstrated by several clinical trials in early as well as established 
+disease. Etanercept, along with other TNF inhibitors, have revolutionized 
+management of RA and dramatically improved disease activity, function, quality 
+of life and mortality for these patients. It is structurally distinct from other 
+TNF inhibitors and thus has desirable profiles for immunogenicity, drug survival 
+and infection rate. With the increasing number of etanercept biosimilars, there 
+will likely be a resurgence of their prescription. This article reviews the 
+pharmacology, efficacy and safety of the etanercept reference product, and its 
+biosimilars, in the context of RA treatment.
+
+DOI: 10.2217/imt-2017-0155
+PMID: 29482402 [Indexed for MEDLINE]
+
+
+2. Expert Opin Drug Saf. 2015 Apr;14(4):571-82. doi: 10.1517/14740338.2015.1009036. 
+Epub 2015 Jan 29.
+
+Infection risk associated with anti-TNF-α agents: a review.
+
+Murdaca G(1), Spanò F, Contatore M, Guastalla A, Penza E, Magnani O, Puppo F.
+
+Author information:
+(1)University of Genova, Department of Internal Medicine, Clinical Immunology 
+Unit , Viale Benedetto XV, n. 6, 16132 Genova , Italy +39 0103537924 ; +39 
+0105556950 ; Giuseppe.Murdaca@unige.it.
+
+INTRODUCTION: TNF-α is a pro-inflammatory cytokine known to a have a key role in 
+the pathogenesis of chronic immune-mediated diseases. TNF-α inhibitors can be 
+administered either as monotherapy or in combination with other 
+anti-inflammatory or disease-modifying anti-rheumatic drugs (DMARDs) to treat 
+chronic immune-mediated diseases.
+AREAS COVERED: Patients receiving TNF-α inhibitors are at high risk of 
+infections. Based on our experience, in this paper, we discuss the risk of 
+infections associated with the administration of TNF-α inhibitors and the 
+strategies for mitigating against the development of these serious adverse 
+events.
+EXPERT OPINION: Infliximab more so than etanercept appears to be responsible for 
+the increased risk of infections. Re-activation of latent tuberculosis (LTB) 
+infection and the overall risk of opportunistic infections should be considered 
+before beginning TNF-α inhibitor therapy. A careful medical history, Mantoux 
+test and chest-x-ray should always be performed before prescribing TNF-α 
+inhibitors. Particular attention should be paid to risk factors for Pneumocystis 
+jirovecii infection. Hepatitis B and C virological follow-up should be 
+considered during TNF-α inhibitor treatment. Finally, patients who are at high 
+risk of herpes zoster (HZ) reactivation would benefit from a second vaccination 
+in adulthood when receiving TNF-α inhibitors.
+
+DOI: 10.1517/14740338.2015.1009036
+PMID: 25630559 [Indexed for MEDLINE]
+
+
+3. Expert Opin Drug Saf. 2019 Mar;18(3):219-229. doi: 
+10.1080/14740338.2019.1577817. Epub 2019 Feb 27.
+
+Update upon the infection risk in patients receiving TNF alpha inhibitors.
+
+Murdaca G(1), Negrini S(1), Pellecchio M(1), Greco M(1), Schiavi C(1), Giusti 
+F(1), Puppo F(1).
+
+Author information:
+(1)a Clinical Immunology Unit, Department of Internal Medicine , University of 
+Genoa and Ospedale Policlinico San Martino , Genoa , Italy.
+
+INTRODUCTION: TNF-α inhibitors can be administered either as monotherapy or in 
+combination with other anti-inflammatory drugs or DMARDs in the treatment of 
+chronic immune-mediated diseases.
+AREAS COVERED: Patients receiving TNF-α inhibitors are at high risk of 
+infections. An update is made on the risk of infection in patients receiving 
+TNF-α inhibitors and the strategies for mitigating against the development of 
+these serious adverse events.
+EXPERT OPINION: Infliximab than etanercept appears to be responsible for the 
+increased risk of infections. Re-activation of latent tuberculosis infection and 
+the overall risk of opportunistic infections should be considered before 
+beginning a course of TNF-α inhibitors. A careful medical history, Mantoux 
+test/quantiferon-TB Gold In-tube Test and chest-X-ray should always be performed 
+before starting TNF-α inhibitors. Particular attention should be paid to risk 
+factors for Pneumocystis jirovecii infection. Hepatitis B and C virological 
+follow-up should be considered during TNF-α inhibitors treatment. Finally, 
+appropriate vaccinations for influenza, S. pneumoniae, and HBV should be 
+administered to decrease the risk of infection, and patients who are at high 
+risk of herpes zoster reactivation would benefit from a second vaccination in 
+adulthood.
+
+DOI: 10.1080/14740338.2019.1577817
+PMID: 30704314 [Indexed for MEDLINE]
+
+
+4. Curr Rheumatol Rep. 2018 Nov 9;20(12):84. doi: 10.1007/s11926-018-0799-0.
+
+Review of Biosimilar Trials and Data on Etanercept in Rheumatoid Arthritis.
+
+Chadwick L(1), Zhao S(1), Mysler E(2), Moots RJ(3)(4).
+
+Author information:
+(1)Institute of Ageing and Chronic Disease, University of Liverpool, Aintree 
+University Hospital, Longmoor Lane, Liverpool, L9 7AL, UK.
+(2)Organización Medica de Investigación, Buenos Aires, Argentina.
+(3)Institute of Ageing and Chronic Disease, University of Liverpool, Aintree 
+University Hospital, Longmoor Lane, Liverpool, L9 7AL, UK. rjmoots@liv.ac.uk.
+(4)Department of Musculoskeletal Biology I, Institute of Ageing and Chronic 
+Disease, Aintree University Hospital, Clinical Sciences Centre, Longmoor Lane, 
+Liverpool, L9 7AL, UK. rjmoots@liv.ac.uk.
+
+PURPOSE OF REVIEW: Etanercept was the first tumour necrosis factor inhibitor 
+approved to treat rheumatoid arthritis (RA) in the United States (US) and 
+Europe. The recent patent expiration of the etanercept originator ENBREL in 
+Europe has facilitated the development of biosimilar products, creating the 
+prospect of reduced treatment costs. In this article, we review the original 
+trials for etanercept in RA to facilitate critical appraisal of biosimilar trial 
+data.
+RECENT FINDINGS: Two etanercept biosimilars are currently approved in Europe 
+and/or the US, SB4 (Benepali) and GP2015 (Erelzi), having met the pre-specified 
+equivalence criteria for biosimilarity. Trial data demonstrates subtle 
+differences in clinical outcomes and adverse events between the biosimilars and 
+the reference product (RP). The development of etanercept biosimilars may reduce 
+the financial burden of treating RA, but real-world data regarding efficacy and 
+safety in comparison to the RP will be vital to assess for meaningful 
+differences.
+
+DOI: 10.1007/s11926-018-0799-0
+PMCID: PMC6244902
+PMID: 30411183 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICTS OF INTEREST: EM has received research 
+grants, funding and has been an advisor for Abbvie, BMS, Gema, Lilly, Novartis, 
+Pfizer, Sandoz, Sanofi and Roche. RJM has received research grant funding, acted 
+as a scientific advisor to or spoken at meetings sponsored by Abbvie, AKL, 
+Biogen, BMS, Chugai, Eli Lilly, Genzyme, Hospira, MSD, Novartis, Pfizer, 
+Regeneron, Roche, Sandoz, Sanofi and UCB Pharma; funding includes both 
+bio-originator and biosimilar companies. HUMAN AND ANIMAL RIGHTS AND INFORMED 
+CONSENT: This article does not contain any studies with human or animal subjects 
+performed by any of the authors.
+
+
+5. Expert Opin Biol Ther. 2019 Oct;19(10):993-1000. doi: 
+10.1080/14712598.2019.1636963. Epub 2019 Jul 1.
+
+Biosimilars for the treatment of psoriasis.
+
+Puig L(1), López-Ferrer A(1).
+
+Author information:
+(1)Department of Dermatology, Hospital de la Santa Creu i Sant Pau , Barcelona , 
+Spain.
+
+Introduction: Biosimilars are biological products that are very similar to their 
+originators, with no meaningful differences in terms of efficacy, safety, and 
+purity. Since the patents of some of the biologics used to treat patients with 
+psoriasis have expired, uptake of biosimilars provides a good opportunity to 
+reduce the cost of treatment. Areas covered: In this review we summarize the 
+stages in development of a biosimilar product, the main differences with the 
+originator biologic, and their potential implications. We have also reviewed 
+clinical trials of biosimilars approved for the treatment of psoriasis. Expert 
+opinion: Because of efficacy and convenience of administration, adalimumab 
+biosimilars will be used to greater extent than etanercept or infliximab to 
+treat patients with moderate-to-severe psoriasis. The pharmacokinetics, 
+efficacy, safety and immunogenicity of approved biosimilars are equivalent to 
+those of their reference products in clinical trials, and multiple-switch 
+studies are intended to provide evidence in support of FDA-required 
+interchangeability. Non-medical switching is expected to become frequent, and 
+the nocebo effect will be relevant. Traceability of biologics is an essential 
+requirement to gather relevant information on their long-term efficacy and 
+safety, especially when multiple switches occur.
+
+DOI: 10.1080/14712598.2019.1636963
+PMID: 31237786 [Indexed for MEDLINE]
+
+
+6. Arthritis Rheumatol. 2019 Jul;71(7):1112-1124. doi: 10.1002/art.40851. Epub 2019 
+May 28.
+
+Etanercept and Methotrexate as Monotherapy or in Combination for Psoriatic 
+Arthritis: Primary Results From a Randomized, Controlled Phase III Trial.
+
+Mease PJ(1), Gladman DD(2), Collier DH(3), Ritchlin CT(4), Helliwell PS(5), Liu 
+L(3), Kricorian G(3), Chung JB(3).
+
+Author information:
+(1)Swedish Medical Center/Providence St. Joseph Health and the University of 
+Washington, Seattle, Washington.
+(2)University of Toronto, Toronto, Ontario, Canada.
+(3)Amgen Inc., Thousand Oaks, California.
+(4)University of Rochester Medical Center, Rochester, New York.
+(5)University of Leeds, Leeds, UK.
+
+Comment in
+    Arthritis Rheumatol. 2019 Jul;71(7):1027-1029.
+    Arthritis Rheumatol. 2019 Nov;71(11):1965-1966.
+    Arthritis Rheumatol. 2020 Jul;72(7):1229-1230.
+    Arthritis Rheumatol. 2020 Jul;72(7):1227-1229.
+
+OBJECTIVE: To examine the efficacy of methotrexate monotherapy relative to 
+etanercept monotherapy and the value of combining methotrexate and etanercept 
+for the treatment of patients with psoriatic arthritis (PsA).
+METHODS: In this double-blind study, 851 patients with PsA were randomized to 1 
+of 3 treatment arms, as follows: oral methotrexate (20 mg) plus subcutaneous 
+placebo given weekly (n = 284), subcutaneous etanercept (50 mg) plus oral 
+placebo given weekly (n = 284), or subcutaneous etanercept (50 mg) plus oral 
+methotrexate (20 mg) given weekly (combination therapy; n = 283). The American 
+College of Rheumatology 20% improvement (ACR20) response and Minimal Disease 
+Activity (MDA) response at week 24 were the primary end point and key secondary 
+end point, respectively. Other measures of inflammatory arthritis, radiographic 
+progression, and nonarticular disease manifestations were also assessed.
+RESULTS: Patients with PsA had a mean ± SD age of 48.4 ± 13.1 years, and the 
+mean ± SD duration of PsA was 3.2 ± 6.3 years (median 0.6 years). ACR20 and MDA 
+response rates at week 24 were significantly greater in patients who received 
+etanercept monotherapy compared with those who received methotrexate monotherapy 
+(ACR20, 60.9% versus 50.7% of patients [P = 0.029]; MDA, 35.9% versus 22.9% of 
+patients [P = 0.005]), and both were significantly greater in the combination 
+therapy group compared with the methotrexate monotherapy group at week 24 
+(ACR20, 65.0% versus 50.7% of patients [P = 0.005]; MDA, 35.7% versus 22.9% of 
+patients [P = 0.005]). Other secondary outcomes (ACR50 and ACR70 response rates, 
+proportions of patients achieving a Very Low Disease Activity score, and PsA 
+disease activity scores) showed between-group differences that were consistent 
+with the primary and key secondary end point results. Furthermore, patients in 
+both etanercept treatment arms showed less radiographic progression at week 48 
+compared with patients who received methotrexate monotherapy. Outcomes were 
+similar in the combination therapy and etanercept monotherapy groups, except for 
+some skin end points. No new safety signals were seen.
+CONCLUSION: Etanercept monotherapy and combination therapy with etanercept and 
+methotrexate showed greater efficacy than methotrexate monotherapy in patients 
+with PsA, according to the ACR and MDA response rates and extent of radiographic 
+progression at follow-up. Overall, combining methotrexate and etanercept did not 
+improve the efficacy of etanercept.
+
+© 2019 The Authors. Arthritis & Rheumatology published by Wiley Periodicals, 
+Inc. on behalf of American College ofRheumatology.
+
+DOI: 10.1002/art.40851
+PMCID: PMC6618246
+PMID: 30747501 [Indexed for MEDLINE]
+
+
+7. Clin Rheumatol. 2018 Feb;37(2):563-568. doi: 10.1007/s10067-017-3884-2. Epub 
+2017 Oct 23.
+
+Diverse patterns of anti-TNF-α-induced lupus: case series and review of the 
+literature.
+
+Shovman O(1)(2), Tamar S(3), Amital H(1)(2)(4), Watad A(1)(2)(4), Shoenfeld 
+Y(5)(6)(7).
+
+Author information:
+(1)Zabludowicz Center for Autoimmune Diseases, Chaim Sheba Medical Center, 
+52621, Tel-Hashomer, Israel.
+(2)Department of Medicine 'B', Sheba Medical Center, Tel-Hashomer, Israel.
+(3)Department of Gastroenterology, The E. Wolfson Medical Center, Holon, Israel.
+(4)Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel.
+(5)Zabludowicz Center for Autoimmune Diseases, Chaim Sheba Medical Center, 
+52621, Tel-Hashomer, Israel. shoenfel@post.tau.ac.il.
+(6)Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel. 
+shoenfel@post.tau.ac.il.
+(7)Laura Schwarz-Kipp Chair for Research of Autoimmune Diseases, Sackler Faculty 
+of Medicine, Tel-Aviv University, Tel Aviv, Israel. shoenfel@post.tau.ac.il.
+
+The induction of autoantibodies is common following therapy with anti-TNF-α 
+agents. However, anti-TNF-α-induced lupus (ATIL) is rare. We assessed the 
+clinical characteristics of three patients with inflammatory bowel disease (IBD) 
+who were treated with infliximab and developed distinct subsets of ATIL. Also, 
+we searched for similar cases in the published literature. We describe three 
+patients with ATIL. The first patient had a classical drug-induced lupus (DIL) 
+presented by thrombocytopenia that resolved after infliximab discontinuation. 
+The second case experienced symmetric polyarthritis of 14 joints in rheumatoid 
+arthritis (RA)-like distribution accompanied by lymphopenia. The third one had a 
+severe serositis including ascites and pleural and pericardial effusions along 
+with pancytopenia. In this patient, ATIL coexisted with anti-TNF-α-induced 
+hepatitis. The second and third patients met the American College of 
+Rheumatology classification criteria for SLE. Nevertheless, all three cases 
+exhibited ANA and anti-dsDNA positivity, and only the second patient had 
+anticardiolipin (aCL IgG) and anti-histone antibodies. The coexistence of both 
+lupus-like syndrome and hepatitis following anti-TNF-α therapy in the same 
+patient is very rare, and to the best of our knowledge, only four such case 
+reports are mentioned in literature. Patients with mild ATIL may tolerate 
+another anti-TNF-α agent without recurrence of the disease. Rheumatologists 
+should be aware of the distinct clinical presentations of ATIL and its 
+coexistence with other rare anti-TNF-alpha complications such as hepatitis.
+
+DOI: 10.1007/s10067-017-3884-2
+PMID: 29063464 [Indexed for MEDLINE]
+
+
+8. Pharmacol Res. 2019 Nov;149:104467. doi: 10.1016/j.phrs.2019.104467. Epub 2019 
+Sep 27.
+
+Biosimilars in rheumatology.
+
+Araújo FC(1), Gonçalves J(2), Fonseca JE(3).
+
+Author information:
+(1)Rheumatology and Osteoporosis Unit, Hospital de Sant'Ana, Rua de Benguela, 
+501, 2775-229 Parede, Portugal. Electronic address: flipar@msn.com.
+(2)iMed - Research Institute for Medicines, Faculdade de Farmácia da 
+Universidade de Lisboa, Av. Professor Gama Pinto, 1649-003 Lisboa, Portugal.
+(3)Rheumatology Research Unit, Instituto de Medicina Molecular da Faculdade de 
+Medicina da Universidade de Lisboa, Avenida Professor Egas Moniz, 1649-028 
+Lisboa, Portugal; Rheumatology and Metabolic Bone Diseases Department, Hospital 
+de Santa Maria, Lisbon Academic Medical Centre, Av. Prof. Egas Moniz, 1649-035 
+Lisboa, Portugal.
+
+Biotechnologicals are an invaluable resource in the treatment of patients with 
+inflammatory rheumatic diseases (IRD) non-responsive or intolerant to 
+conventional therapies. However, they are the main driver for increase in direct 
+costs and represent a significant economic burden to healthcare systems 
+worldwide. Since biosimilars are similar and more affordable versions of 
+previously licenced biotechnologicals, they are expected to contribute to 
+healthcare system sustainability and reduce inequities in treatment access. The 
+landmark approval of CT-P13 as the first infliximab biosimilar paved the way for 
+new infliximab but also etanercept, adalimumab and rituximab biosimilars. In 
+Europe, North America and some countries of Asia, development is strictly 
+regulated and only those presenting a totality-of-evidence dossier with highly 
+similar physicochemical, biological and clinical performances are endorsed by 
+regulatory agencies as biosimilars. The current article addresses the importance 
+of biosimilar medicines in the treatment of IRD, as well as their innovative 
+development and regulatory pathways, clinical evidence of similarity and 
+challenges that may undermine their widespread use and success.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.phrs.2019.104467
+PMID: 31568820 [Indexed for MEDLINE]
+
+
+9. Arthritis Rheumatol. 2020 Jan;72(1):31-40. doi: 10.1002/art.41095.
+
+Cardiovascular Safety of Tocilizumab Versus Etanercept in Rheumatoid Arthritis: 
+A Randomized Controlled Trial.
+
+Giles JT(1), Sattar N(2), Gabriel S(3), Ridker PM(4), Gay S(5), Warne C(6), 
+Musselman D(7), Brockwell L(6), Shittu E(6), Klearman M(7), Fleming TR(8).
+
+Author information:
+(1)Columbia University College of Physicians & Surgeons, New York, New York.
+(2)University of Glasgow, Glasgow, UK.
+(3)Rutgers Robert Wood Johnson Medical School, New Brunswick, New Jersey.
+(4)Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts.
+(5)University Hospital Zurich, Zurich, Switzerland.
+(6)Roche Products Ltd., Welwyn Garden City, UK.
+(7)Genentech, Inc., South San Francisco, California.
+(8)University of Washington, Seattle.
+
+Comment in
+    Arthritis Rheumatol. 2020 Jan;72(1):4-6.
+
+OBJECTIVE: To assess the risk of major adverse cardiovascular events (MACE) in 
+patients with rheumatoid arthritis (RA) treated with tocilizumab compared to 
+those treated with the tumor necrosis factor inhibitor etanercept.
+METHODS: This randomized, open-label, parallel-group trial enrolled patients 
+with active seropositive RA (n = 3,080) who had an inadequate response to 
+conventional synthetic disease-modifying antirheumatic drugs and who had at 
+least 1 cardiovascular (CV) risk factor. Patients were randomly assigned 1:1 to 
+receive open-label tocilizumab at 8 mg/kg/month or etanercept at 50 mg/week. All 
+patients were followed up for a mean of 3.2 years. The primary end point was 
+comparison of time to first occurrence of MACE. The trial was powered to exclude 
+a relative hazard ratio for MACE of 1.8 or higher in the tocilizumab group 
+compared to the etanercept group.
+RESULTS: By week 4 of treatment, the serum low-density lipoprotein cholesterol, 
+high-density lipoprotein cholesterol, and triglyceride levels were a median 
+11.1%, 5.7%, and 13.6% higher, respectively, in patients receiving tocilizumab 
+compared to those receiving etanercept (each P < 0.001). During follow-up, 83 
+MACE occurred in the tocilizumab group compared to 78 MACE in the etanercept 
+group. The estimated hazard ratio for occurrence of MACE in the tocilizumab 
+group relative to the etanercept group was 1.05 (95% confidence interval 
+0.77-1.43). Results were similar in sensitivity analyses and in the on-treatment 
+population analysis. Adverse events occurred more frequently in the tocilizumab 
+group, including serious infection and gastrointestinal perforation.
+CONCLUSION: The results of this trial, which provide insights into the CV safety 
+of tocilizumab as compared to etanercept, ruled out a risk for occurrence of 
+MACE of 1.43 or higher in patients treated with tocilizumab. This result should 
+be interpreted in the context of the clinical efficacy and non-CV safety of 
+tocilizumab.
+
+© 2019, American College of Rheumatology.
+
+DOI: 10.1002/art.41095
+PMID: 31469238 [Indexed for MEDLINE]
+
+
+10. Mod Rheumatol. 2018 May;28(3):417-431. doi: 10.1080/14397595.2017.1366006. Epub 
+2017 Aug 24.
+
+Update upon efficacy and safety of etanercept for the treatment of 
+spondyloarthritis and juvenile idiopathic arthritis.
+
+Murdaca G(1), Negrini S(1), Magnani O(1), Penza E(1), Pellecchio M(1), Gulli 
+R(2), Mandich P(2), Puppo F(1).
+
+Author information:
+(1)a Department of Internal Medicine, Scleroderma Unit, Clinical Immunology Unit 
+, University of Genova and IRCCS-Azienda Ospedaliera Universitaria San Martino , 
+Genova , Italy.
+(2)b Department of Neuroscience, Rehabilitation, Ophthalmology, Genetics and 
+Maternal Child Health, Section of Medical Genetics , University of Genova and 
+IRCCS-Azienda Ospedaliera Universitaria San Martino , Genova , Italy.
+
+TNF-α inhibitors have demonstrated efficacy both as monotherapy and in 
+combination with disease-modifying anti-rheumatic drugs (DMARDs) in the 
+treatment of chronic inflammatory immune-mediated diseases such as rheumatoid 
+arthritis, Crohn's disease, ulcerative colitis, ankylosing spondylitis (AS), 
+psoriasis (Ps) and/or psoriatic arthritis (PsA) and may be administered 
+off-label to treat disseminated granuloma annulare, systemic lupus erythematosus 
+and systemic sclerosis. There are several TNF-α inhibitors available for 
+clinical use including infliximab, adalimumab, golimumab, certolizumab pegol and 
+etanercept. In this article, we discuss the efficacy and safety of etanercept in 
+the treatment of spondyloarthritis and juvenile idiopathic arthritis (JIA). 
+Etanercept is effective in the treatment of PsA, AS, JIA and uveitis. 
+Independent predictors of achieving a sustained clinical improvement or MDA in 
+children with JIA include shorter disease duration, no concurrent oral 
+corticosteroid use, history of chronic anterior uveitis and age <9 years. IBD 
+incidence was lower in patients receiving etanercept plus MTX. Intra-articular 
+administration of etanercept seems to favor a prompt target joint improvement 
+without serious adverse events. Etanercept improve endothelial function reducing 
+the risk of acute cardiovascular and/or cerebrovascular events. The most 
+commonly reported adverse events were nasopharyngitis, epidermal and dermal 
+conditions, upper respiratory tract infection, cough, headache and fatigue.
+
+DOI: 10.1080/14397595.2017.1366006
+PMID: 28837372 [Indexed for MEDLINE]

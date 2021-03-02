@@ -1,0 +1,354 @@
+1. Sci Rep. 2020 Nov 13;10(1):19818. doi: 10.1038/s41598-020-76715-w.
+
+Cell-free synthesis of the hirudin variant 1 of the blood-sucking leech Hirudo 
+medicinalis.
+
+Wüstenhagen DA(1), Lukas P(2), Müller C(2), Aubele SA(1), Hildebrandt JP(2), 
+Kubick S(3)(4).
+
+Author information:
+(1)Fraunhofer Institute for Cell Therapy and Immunology (IZI), Branch 
+Bioanalytics and Bioprocesses Potsdam-Golm (IZI-BB), 14476, Potsdam, Germany.
+(2)Animal Physiology and Biochemistry, Zoological Institute and Museum, 
+University of Greifswald, 17489, Greifswald, Germany.
+(3)Fraunhofer Institute for Cell Therapy and Immunology (IZI), Branch 
+Bioanalytics and Bioprocesses Potsdam-Golm (IZI-BB), 14476, Potsdam, Germany. 
+Stefan.kubick@izi-bb.fraunhofer.de.
+(4)Faculty of Health Sciences, Joint Faculty of the Brandenburg University of 
+Technology Cottbus - Senftenberg, The Brandenburg Medical School Theodor Fontane 
+and the University of Potsdam, 16816, Neuruppin, Germany. 
+Stefan.kubick@izi-bb.fraunhofer.de.
+
+Synthesis and purification of peptide drugs for medical applications is a 
+challenging task. The leech-derived factor hirudin is in clinical use as an 
+alternative to heparin in anticoagulatory therapies. So far, recombinant hirudin 
+is mainly produced in bacterial or yeast expression systems. We describe the 
+successful development and application of an alternative protocol for the 
+synthesis of active hirudin based on a cell-free protein synthesis approach. 
+Three different cell lysates were compared, and the effects of two different 
+signal peptide sequences on the synthesis of mature hirudin were determined. The 
+combination of K562 cell lysates and the endogenous wild-type signal peptide 
+sequence was most effective. Cell-free synthesized hirudin showed a considerably 
+higher anti-thrombin activity compared to recombinant hirudin produced in 
+bacterial cells.
+
+DOI: 10.1038/s41598-020-76715-w
+PMCID: PMC7666225
+PMID: 33188246
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+2. Circulation. 2001 Mar 13;103(10):1479-84. doi: 10.1161/01.cir.103.10.1479.
+
+Recombinant hirudin in clinical practice: focus on lepirudin.
+
+Greinacher A(1), Lubenow N.
+
+Author information:
+(1)Institute for Immunology and Transfusion Medicine, 
+Ernst-Moritz-Arndt-University Greifswald, Greifswald, Germany.
+
+Clinical applications for recombinant hirudins have been investigated for the 
+past 10 years. The first indication for which a hirudin-lepirudin-has been 
+approved is treatment of heparin-induced thrombocytopenia (HIT). Also, the 
+recently completed trials for use of lepirudin in unstable angina indicate a 
+potentially new indication. This review describes pharmacology and clinical 
+applications of lepirudin with an emphasis on HIT and unstable angina. An 
+overview of usage of lepirudin in acute coronary syndromes is given, as well as 
+a summary of rare indications for lepirudin, such as extracorporeal circulation, 
+for which comprehensive data are lacking.
+
+DOI: 10.1161/01.cir.103.10.1479
+PMID: 11245656 [Indexed for MEDLINE]
+
+
+3. Int J Hematol. 2017 Oct;106(4):476-483. doi: 10.1007/s12185-017-2271-8. Epub 
+2017 Jun 9.
+
+Comparisons of argatroban to lepirudin and bivalirudin in the treatment of 
+heparin-induced thrombocytopenia: a systematic review and meta-analysis.
+
+Sun Z(1), Lan X(2), Li S(2), Zhao H(2), Tang Z(3), Xi Y(4).
+
+Author information:
+(1)Department of Pharmacy, Dalian Municipal Central Hospital, Xinan Road No. 
+826, Shahekou District, Dalian, 116033, China.
+(2)Department of Neurology, Dalian Municipal Central Hospital, Dalian, China.
+(3)Department of Pharmacology, Dalian Medical University, Dalian, China.
+(4)Department of Pharmacy, Dalian Municipal Central Hospital, Xinan Road No. 
+826, Shahekou District, Dalian, 116033, China. yalinxi@hotmail.com.
+
+To prevent thromboembolic events associated with heparin-induced 
+thrombocytopenia (HIT), patients usually are treated with argatroban, lepirudin, 
+and bivalirudin. Here, we conducted a meta-analysis of studies to comparing the 
+treatment of HIT with the following direct thrombin inhibitor: argatroban versus 
+lepirudin and argatroban versus bivalirudin. We systematically searched PubMed, 
+Embase, and Cochrane Library database for relevant studies. The clinical 
+outcomes were thromboembolic complication and bleeding. A total of 589 articles 
+were found and 9 of which were finally included in this meta-analysis. There 
+were no significantly differences of thromboembolic complication between 
+argatroban and hirudin analogues (lepirudin and bivalirudin) in the treatment of 
+HIT (lepirudin: RR = 0.773, 95% CI = 0.449-1.331, P = 0.353; bivalirudin: 
+RR = 0.768, 95% CI = 0.386-1.527, P = 0.452). Moreover, the incidence of 
+clinical bleeding of argatroban was similar to hirudin analogues (lepirudin: 
+RR = 0.755, 95% CI = 0.531-1.073, P = 0.117; bivalirudin: RR = 0.995, 95% 
+CI = 0.673-1.472, P = 0.981). Current evidences show that argatroban has the 
+similar effectiveness and safety with lepirudin and bivalirudin for defending 
+against HIT.
+
+DOI: 10.1007/s12185-017-2271-8
+PMID: 28600720 [Indexed for MEDLINE]
+
+
+4. Pharmacotherapy. 2002 Apr;22(4):492-9. doi: 10.1592/phco.22.7.492.33671.
+
+Removal of lepirudin, a recombinant hirudin, by hemodialysis, hemofiltration, or 
+plasmapheresis.
+
+Willey ML(1), de Denus S, Spinler SA.
+
+Author information:
+(1)Philadelphia College of Pharmacy, University of the Sciences in Philadelphia, 
+PA 19104, USA.
+
+Lepirudin (recombinant hirudin), a direct thrombin inhibitor, is an effective 
+alternative method of anticoagulation in patients with heparin-induced 
+thrombocytopenia. However, because it is eliminated by the kidneys, the 
+half-life of lepirudin may be substantially prolonged in patients with renal 
+failure. Patients undergoing hemodialysis must be closely monitored, and therapy 
+must be individualized based on each patient's ability to clear the drug. 
+Current literature on the removal of lepirudin by dialysis or plasmapheresis is 
+limited, but available data suggest that lepirudin can be removed with these 
+methods. The ability of filtration systems to remove lepirudin from the blood is 
+highly dependent on the membrane material used in the system. Understanding the 
+effects of hemodialysis, hemofiltration, and plasmapheresis on lepirudin levels 
+is important, especially since no antidote is available to treat elevated serum 
+lepirudin concentrations.
+
+DOI: 10.1592/phco.22.7.492.33671
+PMID: 11939684 [Indexed for MEDLINE]
+
+
+5. Circulation. 1999 Jan 5-12;99(1):73-80. doi: 10.1161/01.cir.99.1.73.
+
+Recombinant hirudin (lepirudin) provides safe and effective anticoagulation in 
+patients with heparin-induced thrombocytopenia: a prospective study.
+
+Greinacher A(1), Völpel H, Janssens U, Hach-Wunderle V, Kemkes-Matthes B, 
+Eichler P, Mueller-Velten HG, Pötzsch B.
+
+Author information:
+(1)Institute for Immunology and Transfusion Medicine, 
+Ernst-Moritz-Arndt-University, Greifswald, Germany. 
+greinach@rz.uni-greifswald.de
+
+BACKGROUND: The immunological type of heparin-induced thrombocytopenia (HIT) is 
+the most frequent drug-induced thrombocytopenia. This study evaluated the 
+efficacy of recombinant hirudin (r-hirudin or lepirudin), a potent thrombin 
+inhibitor, for anticoagulation in patients with confirmed HIT.
+METHODS AND RESULTS: Eighty-two patients in this prospective, multicenter study 
+received 1 of 4 intravenous r-hirudin regimens: A1, HIT patients with thrombosis 
+(n=51), 0.4-mg/kg bolus and then 0.15 mg. kg-1. h-1; A2, HIT patients with 
+thrombosis receiving thrombolysis (n=5), 0. 2-mg/kg bolus and then 0.1 mg. kg-1. 
+h-1; B, HIT patients without thrombosis (n=18), 0.1 mg. kg-1. h-1; and C, during 
+cardiopulmonary bypass surgery (n=8), 0.25-mg/kg bolus and then 5-mg boluses as 
+needed. Response criteria were increase in platelet count by >/=30% to >10(9)/L 
+and activated partial thromboplastin time (aPTT) values 1.5 to 3.0 times 
+baseline values achieved with a maximum of 2 dose increases. No placebo control 
+was used for ethical reasons. Outcomes of a subset of r-hirudin-treated patients 
+who met predefined inclusion criteria (n=71) were compared with those of a 
+historical control group (n=120) for combined and individual incidences of 
+death, amputations, new thromboembolic complications, and incidences of 
+bleeding. Platelet counts increased rapidly in 88.7% of r-hirudin-treated 
+patients with acute HIT. In regimens A1 and A2, the 25% and 75% quartiles of the 
+aPTT were within the target range at all but 1 time point. The incidence of the 
+combined end point (death, amputation, new thromboembolic complications) was 
+significantly reduced in r-hirudin patients compared with historical control 
+patients (P=0.014). During first selected treatment, the adjusted hazard ratio 
+for r-hirudin patients versus historical control was 0.279 (95% CI, 0.112 to 
+0.699; P=0.003). Bleeding rates were similar in both groups.
+CONCLUSIONS: r-Hirudin treatment is associated with a rapid and sustained 
+recovery of platelet counts, sufficient aPTT prolongations, and true clinical 
+benefits for patients with HIT.
+
+DOI: 10.1161/01.cir.99.1.73
+PMID: 9884382 [Indexed for MEDLINE]
+
+
+6. Circulation. 1999 Aug 10;100(6):587-93. doi: 10.1161/01.cir.100.6.587.
+
+Lepirudin (recombinant hirudin) for parenteral anticoagulation in patients with 
+heparin-induced thrombocytopenia. Heparin-Associated Thrombocytopenia Study 
+(HAT) investigators.
+
+Greinacher A(1), Janssens U, Berg G, Böck M, Kwasny H, Kemkes-Matthes B, Eichler 
+P, Völpel H, Pötzsch B, Luz M.
+
+Author information:
+(1)Institute for Immunology and Transfusion Medicine, Ernst-Moritz-Arndt 
+University, Greifswald, Germany. greinach@mail.uni-greifswald.de
+
+BACKGROUND: We prospectively investigated lepirudin for further parenteral 
+anticoagulation in patients with heparin-induced thrombocytopenia (HIT).
+METHODS AND RESULTS: Patients with confirmed HIT (n=112) received lepirudin 
+according to need for 2 to 10 days (longer if necessary): A1, treatment: 0.4 
+mg/kg IV bolus, followed by 0.15 mg. kg(-1). h(-1) intravenous infusion, n=65; 
+A2, treatment in conjunction with thrombolysis: 0.2 mg/kg, followed by 0.10 mg. 
+kg(-1). h(-1), n=4; and B, prophylaxis: 0.10 mg. kg(-1). h(-1), n=43. Outcomes 
+from 95 eligible lepirudin-treated patients were compared with those of 
+historical control patients (n=120). Complete laboratory response (activated 
+partial thromboplastin time ratio >1.5 with </=2 dose increases and platelet 
+count normalization by day 10) was achieved in 65 lepirudin-treated patients 
+(69.1%; 95% CI, 59. 3% to 78.3%). At 2 weeks after cessation of lepirudin, 11 
+patients died (9.8%), 10 underwent limb amputation (8.9%), and 20 suffered a new 
+thromboembolic complication (17.9%). The average combined event rate per 
+patient-day decreased from 5.1% in the pretreatment period to 1.5% in the 
+treatment period. Thirty-five days after HIT confirmation, fewer 
+lepirudin-treated patients than historical control patients had experienced >/=1 
+outcome (cumulative incidence 30.9% versus 52.1%; relative risk [RR] 0.71; 
+P=0.12, log-rank test). Bleeding events were more frequent in the lepirudin 
+group than the historical control group (cumulative incidence at 35 days, 44.6% 
+versus 27.2%; RR 2.57; P=0.0001, log-rank test). No difference was observed in 
+bleeding events requiring transfusion (cumulative incidence at 35 days, 12.9% 
+versus 9.1%; RR 1.66; P=0.23, log-rank test); no intracranial bleeding was 
+observed in the lepirudin group.
+CONCLUSIONS: Lepirudin effectively prevents death, limb amputations, and new 
+thromboembolic complications and has an acceptable safety profile in HIT 
+patients. Treatment should be initiated as soon as possible if HIT is suspected.
+
+DOI: 10.1161/01.cir.100.6.587
+PMID: 10441094 [Indexed for MEDLINE]
+
+
+7. Lepirudin.
+
+Drugs and Lactation Database (LactMed) [Internet]. Bethesda (MD): National 
+Library of Medicine (US); 2006–.
+2020 Nov 16.
+
+Lepirudin is no longer marketed in the United States. Limited information 
+indicates that lepirudin in doses up to 100 mg daily produce very low levels in 
+milk. Because of its large molecular weight, it would not be expected to be 
+absorbed from breastmilk by the infant. Lepirudin would not be expected to cause 
+any adverse effects in breastfed infants, especially if the infant is older than 
+2 months.[1]
+
+PMID: 30000058
+
+
+8. Mol Biotechnol. 2013 Jan;53(1):41-8. doi: 10.1007/s12033-012-9511-1.
+
+Production and characterization of hirudin variant-1 by SUMO fusion technology 
+in E. coli.
+
+Lu W(1), Cai X, Gu Z, Huang Y, Xia B, Cao P.
+
+Author information:
+(1)Laboratory of Cellular and Molecular Biology, Jiangsu Province Institute of 
+Traditional Chinese Medicine, 100#, Shizi Street, Hongshang Road, Nanjing, 
+210028 Jiangsu, China.
+
+Hirudin is the most potent non-covalent inhibitor of thrombin. Several 
+expression systems have been used to produce recombinant hirudin for 
+pharmaceutical purposes. However, high expression of active hirudin in 
+Escherichia coli cytoplasm has not been successful owing to the fact that 
+heterogenetic small peptide is easily degraded in the cell. To solve this 
+problem, we constructed a recombinant form of the hirudin variant-1 (HV1) as a 
+fusion protein with the small ubiquitin-related modifier gene (SUMO) by use of 
+over-lap PCR. The fusion gene His(6)-SUMO-HV1 was highly expressed in E. coli 
+BL21 (DE3) in which the SUMO-HV1 accounts for over 30% of the soluble fraction. 
+The fusion protein was purified by Ni-NTA affinity chromatography and cleaved by 
+a SUMO-specific protease Ulp1 to release the HV1 with natural N-terminal. The 
+recombinant HV1 (rHV1) was further purified by Ni-NTA affinity chromatography 
+and then by Q anion-exchange chromatography. N-terminal sequencing result 
+demonstrated the purified rHV1 had the same N-terminal sequence as the native 
+hirudin. MALDI-TOF/MS analysis indicated that the molecular weight of the 
+purified rHV1 protein was 6939.161 Da, which was similar to the theoretical 
+molecular weight of rHV1 6,944 Da. The Chromozym TH assay result showed that the 
+anti-thrombin activity of purified rHV1 was 8,800 ATU/mg and comparable to the 
+specific activity of native hirudin.
+
+DOI: 10.1007/s12033-012-9511-1
+PMID: 22371262 [Indexed for MEDLINE]
+
+
+9. Lancet. 1999 Feb 6;353(9151):429-38.
+
+Effects of recombinant hirudin (lepirudin) compared with heparin on death, 
+myocardial infarction, refractory angina, and revascularisation procedures in 
+patients with acute myocardial ischaemia without ST elevation: a randomised 
+trial. Organisation to Assess Strategies for Ischemic Syndromes (OASIS-2) 
+Investigators.
+
+[No authors listed]
+
+Comment in
+    Lancet. 1999 Feb 6;353(9151):423-4.
+
+BACKGROUND: Despite the use of heparin and aspirin, 5-10% of patients with 
+unstable angina develop myocardial infarction or refractory angina in hospital. 
+We tested the hypothesis that recombinant hirudin (lepirudin), a direct thrombin 
+inhibitor, would be superior to heparin, an indirect thrombin inhibitor, in 
+patients with acute ischaemic syndromes who were receiving aspirin.
+METHODS: 10,141 patients with unstable angina or suspected acute myocardial 
+infarction without ST elevation were randomly assigned heparin (5000 units bolus 
+then 15 units kg(-1) h(-1); n=5058) or hirudin (0.4 mg/kg bolus then 0.15 mg 
+kg(-1) h(-1) infusion; n=5083) for 72 h in a double-blind trial. The primary 
+outcome measure was cardiovascular death or new myocardial infarction at 7 days. 
+Analysis was by intention to treat.
+FINDINGS: At 7 days, 213 (4.2%) patients in the heparin group and 182 (3.6%) in 
+the hirudin group had experienced cardiovascular death or new myocardial 
+infarction (relative risk 0.84 [95% CI 0.69-1.02]; p=0.077). The numbers with 
+cardiovascular death, new myocardial infarction, or refractory angina at 7 days 
+were 340 (6.7%) with heparin and 284 (5.6%) with hirudin (0.82 [0.70-0.96]; 
+p=0.0125). These differences were primarily observed during the 72 h treatment 
+period (cardiovascular death or myocardial infarction relative risk 0.76 
+[0.59-0.99], p=0.039: cardiovascular death, myocardial infarction, or refractory 
+angina 0.78 [0.63-0.96], p=0.019). Although there was an excess of major 
+bleeding requiring transfusion with hirudin (59 [1.2%] vs 34 [0.7%] with 
+heparin; p=0.01), there was no excess in life-threatening episodes (20 in each 
+group) or strokes (14 in each group).
+INTERPRETATION: The data from OASIS-2 suggest that recombinant hirudin is 
+superior to heparin in preventing cardiovascular death, myocardial infarction, 
+and refractory angina with an acceptable safety profile in patients with 
+unstable angina or acute myocardial infarction without ST elevation. Thus, a 
+direct thrombin inhibitor is more effective than an indirect thrombin inhibitor.
+
+PMID: 9989712 [Indexed for MEDLINE]
+
+
+10. Curr Med Chem. 2012;19(20):3388-416. doi: 10.2174/092986712801215847.
+
+Emerging anticoagulants.
+
+Kennedy B(1), Gargoum FS, Kennedy L, Khan F, Curran DR, O'Connor TM.
+
+Author information:
+(1)Department of Respiratory Medicine, Mercy University Hospital, Grenville 
+Place, Cork, Ireland.
+
+Warfarin, heparin and their derivatives have been the traditional anticoagulants 
+used for prophylaxis and treatment of venous thromboembolism. While the modern 
+clinician is familiar with the efficacy and pharmacokinetics of these agents, 
+their adverse effects have provided the impetus for the development of newer 
+anticoagulants with improved safety, ease of administration, more predictable 
+pharmacodynamics and comparable efficacy. Research into haemostasis and the 
+coagulation cascade has made the development of these newer anticoagulants 
+possible. These drugs include the factor Xa inhibitors and IIa (thrombin) 
+inhibitors. Direct and indirect factor Xa inhibitors are being developed with a 
+relative rapid onset of action and stable pharmacokinetic profiles negating the 
+need for close monitoring; this potentially makes them a more attractive option 
+than heparin or warfarin. Examples of direct factor Xa inhibitors include 
+apixaban, rivaroxaban, otamixaban, betrixaban and edoxaban. Examples of indirect 
+factor Xa inhibitors include fondaparinux, idraparinux and idrabiotaparinux. 
+Direct thrombin inhibitors (factor IIa inhibitors) were developed with the 
+limitations of standard heparin and warfarin in mind. Examples include 
+recombinant hirudin (lepirudin), bivalirudin, ximelagatran, argatroban, and 
+dabigatran etexilate. This review will discuss emerging novel anticoagulants and 
+their use for the prophylaxis and management of venous thromboembolism, for 
+stroke prevention in nonvalvular atrial fibrillation and for coronary artery 
+disease.
+
+DOI: 10.2174/092986712801215847
+PMID: 22680641 [Indexed for MEDLINE]

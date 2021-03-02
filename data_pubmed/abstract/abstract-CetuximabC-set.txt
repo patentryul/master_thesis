@@ -1,0 +1,662 @@
+1. Lancet. 2019 Jan 5;393(10166):40-50. doi: 10.1016/S0140-6736(18)32779-X. Epub 
+2018 Nov 15.
+
+Radiotherapy plus cetuximab or cisplatin in human papillomavirus-positive 
+oropharyngeal cancer (NRG Oncology RTOG 1016): a randomised, multicentre, 
+non-inferiority trial.
+
+Gillison ML(1), Trotti AM(2), Harris J(3), Eisbruch A(4), Harari PM(5), 
+Adelstein DJ(6), Jordan RCK(7), Zhao W(8), Sturgis EM(9), Burtness B(10), Ridge 
+JA(11), Ringash J(12), Galvin J(13), Yao M(14), Koyfman SA(15), Blakaj DM(16), 
+Razaq MA(17), Colevas AD(18), Beitler JJ(19), Jones CU(20), Dunlap NE(21), 
+Seaward SA(22), Spencer S(23), Galloway TJ(24), Phan J(25), Dignam JJ(26), Le 
+QT(27).
+
+Author information:
+(1)Department of Thoracic Head and Neck Medical Oncology, MD Anderson Cancer 
+Center, Houston, TX, USA. Electronic address: mgillison@mdanderson.org.
+(2)Department of Radiation Oncology, Moffitt Cancer Center, Tampa, FL, USA.
+(3)NRG Oncology Statistics and Data Management Center, American College of 
+Radiology, Philadelphia, PA, USA.
+(4)Department of Radiation Oncology, University of Michigan Comprehensive Cancer 
+Center, Ann Arbor, MI, USA.
+(5)Department of Human Oncology, University of Wisconsin Hospital and Clinics, 
+Madison, WI, USA.
+(6)Department of Hematology and Medical Oncology, Cleveland Clinic Taussig 
+Cancer Institute, Cleveland, OH, USA.
+(7)Department of Orofacial Sciences, University of California San Fransisco, San 
+Francisco, CA, USA; Department of Pathology, University of California San 
+Fransisco, San Francisco, CA, USA.
+(8)Division of Molecular Pathology, Department of Pathology, The Ohio State 
+University Wexner Medical Center, Columbus, OH, USA; Division of 
+Hematopathology, Department of Pathology, The Ohio State University Wexner 
+Medical Center, Columbus, OH, USA; James Molecular Laboratory, Columbus, OH, 
+USA.
+(9)Department of Head and Neck Surgery, MD Anderson Cancer Center, Houston, TX, 
+USA.
+(10)Department of Medicine, Yale School of Medicine and Yale Cancer Center, New 
+Haven, CT, USA.
+(11)Department of Surgical Oncology, Fox Chase Cancer Center, Philadelphia, PA, 
+USA.
+(12)Department of Radiation Oncology, Princess Margaret Cancer Centre and the 
+University of Toronto, Toronto, ON, Canada.
+(13)Imaging and Radiation Oncology Core Group, Philadelphia, PA, USA.
+(14)Department of Radiation Oncology, Case Western Reserve/University Hospitals 
+Seidman Cancer Center, Cleveland, OH, USA.
+(15)Department of Radiation Oncology, Cleveland Clinic Taussig Cancer Institute, 
+Cleveland, OH, USA.
+(16)Department of Radiation Oncology, The Ohio State University, Columbus, OH, 
+USA.
+(17)Department of Hematology/Oncology, University of Oklahoma Health Sciences 
+Center, Oklahoma City, OK, USA.
+(18)Department of Medicine (Oncology), Stanford University, Stanford, CA, USA.
+(19)Department of Radiation Oncology, Emory University, Atlanta, GA, USA.
+(20)Department of Radiation Oncology, Sutter Cancer Research Consortium, Novato, 
+CA, USA.
+(21)Department of Radiation Oncology, James Graham Brown Cancer Center, 
+University of Louisville, Louisville, KY, USA.
+(22)Department of Radiation Oncology, Kaiser Permanente, Oakland, CA, USA.
+(23)Department of Radiation Oncology, University of Alabama at Birmingham 
+Medical Center, Birmingham, AL, USA.
+(24)Department of Radiation Oncology, Fox Chase Cancer Center, Philadelphia, PA, 
+USA.
+(25)Department of Radiation Oncology, MD Anderson Cancer Center, Houston, TX, 
+USA.
+(26)Department of Public Health Sciences, University of Chicago, Chicago, IL, 
+USA; NRG Oncology Statistics and Data Management Center, American College of 
+Radiology, Philadelphia, PA, USA.
+(27)Department of Radiation Oncology, Stanford University, Stanford, CA, USA.
+
+Erratum in
+    Lancet. 2020 Mar 7;395(10226):784.
+
+Comment in
+    Lancet. 2019 Jan 5;393(10166):5-7.
+    Int J Radiat Oncol Biol Phys. 2019 Jul 15;104(4):705-709.
+    Bull Cancer. 2020 Mar;107(3):293-294.
+
+BACKGROUND: Patients with human papillomavirus (HPV)-positive oropharyngeal 
+squamous cell carcinoma have high survival when treated with radiotherapy plus 
+cisplatin. Whether replacement of cisplatin with cetuximab-an antibody against 
+the epidermal growth factor receptor-can preserve high survival and reduce 
+treatment toxicity is unknown. We investigated whether cetuximab would maintain 
+a high proportion of patient survival and reduce acute and late toxicity.
+METHODS: RTOG 1016 was a randomised, multicentre, non-inferiority trial at 182 
+health-care centres in the USA and Canada. Eligibility criteria included 
+histologically confirmed HPV-positive oropharyngeal carcinoma; American Joint 
+Committee on Cancer 7th edition clinical categories T1-T2, N2a-N3 M0 or T3-T4, 
+N0-N3 M0; Zubrod performance status 0 or 1; age at least 18 years; and adequate 
+bone marrow, hepatic, and renal function. We randomly assigned patients (1:1) to 
+receive either radiotherapy plus cetuximab or radiotherapy plus cisplatin. 
+Randomisation was balanced by using randomly permuted blocks, and patients were 
+stratified by T category (T1-T2 vs T3-T4), N category (N0-N2a vs N2b-N3), Zubrod 
+performance status (0 vs 1), and tobacco smoking history (≤10 pack-years vs >10 
+pack-years). Patients were assigned to receive either intravenous cetuximab at a 
+loading dose of 400 mg/m2 5-7 days before radiotherapy initiation, followed by 
+cetuximab 250 mg/m2 weekly for seven doses (total 2150 mg/m2), or cisplatin 100 
+mg/m2 on days 1 and 22 of radiotherapy (total 200 mg/m2). All patients received 
+accelerated intensity-modulated radiotherapy delivered at 70 Gy in 35 fractions 
+over 6 weeks at six fractions per week (with two fractions given on one day, at 
+least 6 h apart). The primary endpoint was overall survival, defined as time 
+from randomisation to death from any cause, with non-inferiority margin 1·45. 
+Primary analysis was based on the modified intention-to-treat approach, whereby 
+all patients meeting eligibility criteria are included. This study is registered 
+with ClinicalTrials.gov, number NCT01302834.
+FINDINGS: Between June 9, 2011, and July 31, 2014, 987 patients were enrolled, 
+of whom 849 were randomly assigned to receive radiotherapy plus cetuximab 
+(n=425) or radiotherapy plus cisplatin (n=424). 399 patients assigned to receive 
+cetuximab and 406 patients assigned to receive cisplatin were subsequently 
+eligible. After median follow-up duration of 4·5 years, radiotherapy plus 
+cetuximab did not meet the non-inferiority criteria for overall survival (hazard 
+ratio [HR] 1·45, one-sided 95% upper CI 1·94; p=0·5056 for non-inferiority; 
+one-sided log-rank p=0·0163). Estimated 5-year overall survival was 77·9% (95% 
+CI 73·4-82·5) in the cetuximab group versus 84·6% (80·6-88·6) in the cisplatin 
+group. Progression-free survival was significantly lower in the cetuximab group 
+compared with the cisplatin group (HR 1·72, 95% CI 1·29-2·29; p=0·0002; 5-year 
+progression-free survival 67·3%, 95% CI 62·4-72·2 vs 78·4%, 73·8-83·0), and 
+locoregional failure was significantly higher in the cetuximab group compared 
+with the cisplatin group (HR 2·05, 95% CI 1·35-3·10; 5-year proportions 17·3%, 
+95% CI 13·7-21·4 vs 9·9%, 6·9-13·6). Proportions of acute moderate to severe 
+toxicity (77·4%, 95% CI 73·0-81·5 vs 81·7%, 77·5-85·3; p=0·1586) and late 
+moderate to severe toxicity (16·5%, 95% CI 12·9-20·7 vs 20·4%, 16·4-24·8; 
+p=0·1904) were similar between the cetuximab and cisplatin groups.
+INTERPRETATION: For patients with HPV-positive oropharyngeal carcinoma, 
+radiotherapy plus cetuximab showed inferior overall survival and 
+progression-free survival compared with radiotherapy plus cisplatin. 
+Radiotherapy plus cisplatin is the standard of care for eligible patients with 
+HPV-positive oropharyngeal carcinoma.
+FUNDING: National Cancer Institute USA, Eli Lilly, and The Oral Cancer 
+Foundation.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(18)32779-X
+PMCID: PMC6541928
+PMID: 30449625 [Indexed for MEDLINE]
+
+
+2. Allergol Int. 2019 Jul;68(3):296-300. doi: 10.1016/j.alit.2019.04.001. Epub 2019 
+Apr 30.
+
+Alpha-Gal-containing biologics and anaphylaxis.
+
+Chinuki Y(1), Morita E(2).
+
+Author information:
+(1)Department of Dermatology, Shimane University Faculty of Medicine, Japan. 
+Electronic address: ychinuki@med.shimane-u.ac.jp.
+(2)Department of Dermatology, Shimane University Faculty of Medicine, Japan.
+
+Cetuximab, the IgG1 subclass chimeric mouse-human monoclonal antibody biologic 
+that targets the epidermal growth factor receptor (EGFR), is used worldwide for 
+the treatment of EGFR-positive unresectable progressive/recurrent colorectal 
+cancer and head and neck cancer. Research has shown that the principal cause of 
+cetuximab-induced anaphylaxis is anti-oligosaccharide IgE antibodies specific 
+for galactose-α-1,3-galactose (α-Gal) oligosaccharide present on the 
+mouse-derived Fab portion of the cetuximab heavy chain. Furthermore, it has been 
+revealed that patients who are allergic to cetuximab also develop an allergic 
+reaction to mammalian meat containing the same α-Gal oligosaccharide owing to 
+cross-reactivity, and the presumed cause of sensitization is tick bites: 
+Amblyomma in the United States, Ixodes in Australia and Europe, and 
+Haemaphysalis in Japan. The α-Gal-specific IgE test (bovine 
+thyroglobulin-conjugated ImmunoCAP) or CD63-expression-based basophil activation 
+test may be useful to identify patients with IgE to α-Gal in order to predict 
+risk for cetuximab-induced anaphylactic shock. Investigations of 
+cetuximab-related anaphylaxis have revealed three novel findings that improve 
+our understanding of immediate-type allergy: 1) oligosaccharide can serve as the 
+main IgE epitope of anaphylaxis; 2) because of the oligosaccharide epitope, a 
+wide range of cross-reactivity with mammalian meats containing α-Gal similar to 
+cetuximab occurs; and 3) tick bites are a crucial factor of sensitization to the 
+oligosaccharide. Nonetheless, taking a medical history of tick bites and beef 
+allergy may be insufficient to prevent cetuximab-induced anaphylaxis, and 
+therefore blood testing with an α-Gal-specific IgE test, with high sensitivity 
+and specificity, is necessary to detect sensitization to α-Gal.
+
+Copyright © 2019 Japanese Society of Allergology. Production and hosting by 
+Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.alit.2019.04.001
+PMID: 31053502 [Indexed for MEDLINE]
+
+
+3. Expert Opin Biol Ther. 2018 Apr;18(4):483-493. doi: 
+10.1080/14712598.2018.1452906.
+
+Cetuximab for treating non-small cell lung cancer.
+
+Mazzarella L(1), Guida A(1), Curigliano G(1).
+
+Author information:
+(1)a University of Milano, Department of Oncology and Hemato-Oncology, Division 
+of Early Drug Development for Innovative Therapies , European Institute of 
+Oncology , Milano , Italia.
+
+Epidermal Growth Factor Receptor (EGFR)-dependent signaling plays a crucial role 
+in epithelial cancer biology, and dictated the development of several targeting 
+agents. The mouse-human chimeric antibody Cetuximab was among the first to be 
+developed. After about two decades of clinical research it has gained a 
+significant place in the management of advanced colorectal and head and neck 
+cancers, whereas its development in non small cell lung cancer (NSCLC) has not 
+led to a place in routine clinical practice, because of marginal clinical 
+benefit despite statistically significant Phase III trials. Recent data from 
+ongoing trials suggest that more careful selection based on molecular markers 
+may identify good responders. Areas covered: In this article, the authors review 
+the literature concerning basic science studies identifying EGFR as a 
+therapeutic target, pharmacological development of Cetuximab, its 
+pharmacodynamics and pharmacokinetics, and clinical trials on Cetuximab in 
+NSCLC, focusing on recent findings on putative predictive biomarkers. Expert 
+opinion: Cetuximab currently has no role in NSCLC treatment outside of research 
+settings. We argue that failure to identify a predictive biomarker early on has 
+hampered its chances to enter routine practice. Although recent research 
+suggests benefit in highly selected patient subsets, its potential impact is 
+severely dampened by lack of regulatory body approval and the emergence of 
+competitors for the same niches.
+
+DOI: 10.1080/14712598.2018.1452906
+PMID: 29534625 [Indexed for MEDLINE]
+
+
+4. Nat Med. 2017 Nov;23(11):1331-1341. doi: 10.1038/nm.4424. Epub 2017 Oct 16.
+
+lncRNA MIR100HG-derived miR-100 and miR-125b mediate cetuximab resistance via 
+Wnt/β-catenin signaling.
+
+Lu Y(1)(2), Zhao X(1)(2), Liu Q(3), Li C(4), Graves-Deal R(1), Cao Z(1), Singh 
+B(1), Franklin JL(1), Wang J(3), Hu H(4), Wei T(4), Yang M(5), Yeatman TJ(5), 
+Lee E(6), Saito-Diaz K(6), Hinger S(7), Patton JG(7), Chung CH(8), Emmrich S(9), 
+Klusmann JH(9), Fan D(2), Coffey RJ(1)(10).
+
+Author information:
+(1)Department of Medicine, Vanderbilt University Medical Center, Nashville, 
+Tennessee, USA.
+(2)State Key Laboratory of Cancer Biology, National Clinical Research Center for 
+Digestive Diseases and Xijing Hospital of Digestive Diseases, Fourth Military 
+Medical University, Xi'an, China.
+(3)Department of Biomedical Informatics and Center for Quantitative Sciences, 
+Vanderbilt University Medical Center, Nashville, Tennessee, USA.
+(4)Jiaen Genetics Laboratory, Beijing Jiaen Hospital, Beijing, China, and 
+Molecular Pathology, Cancer Research Center, Medical College of Xiamen 
+University, Xiamen, China.
+(5)Gibbs Cancer Center & Research Institute, Spartanburg, South Carolina, USA.
+(6)Department of Cell and Developmental Biology and Vanderbilt Ingram Cancer 
+Center, Vanderbilt University School of Medicine, Nashville, Tennessee, USA.
+(7)Department of Biological Sciences, Vanderbilt University School of Medicine, 
+Nashville, Tennessee, USA.
+(8)Moffitt Cancer Center & Research Institute, Tampa, Florida, USA.
+(9)Pediatric Hematology and Oncology, Hannover Medical School, Hannover, 
+Germany.
+(10)Department of Veterans Affairs Medical Center, Nashville, Tennessee, USA.
+
+Comment in
+    Nat Rev Gastroenterol Hepatol. 2017 Dec;14(12):691.
+
+De novo and acquired resistance, which are largely attributed to genetic 
+alterations, are barriers to effective anti-epidermal-growth-factor-receptor 
+(EGFR) therapy. To generate cetuximab-resistant cells, we exposed 
+cetuximab-sensitive colorectal cancer cells to cetuximab in three-dimensional 
+culture. Using whole-exome sequencing and transcriptional profiling, we found 
+that the long non-coding RNA MIR100HG and two embedded microRNAs, miR-100 and 
+miR-125b, were overexpressed in the absence of known genetic events linked to 
+cetuximab resistance. MIR100HG, miR-100 and miR-125b overexpression was also 
+observed in cetuximab-resistant colorectal cancer and head and neck squamous 
+cell cancer cell lines and in tumors from colorectal cancer patients that 
+progressed on cetuximab. miR-100 and miR-125b coordinately repressed five 
+Wnt/β-catenin negative regulators, resulting in increased Wnt signaling, and Wnt 
+inhibition in cetuximab-resistant cells restored cetuximab responsiveness. Our 
+results describe a double-negative feedback loop between MIR100HG and the 
+transcription factor GATA6, whereby GATA6 represses MIR100HG, but this 
+repression is relieved by miR-125b targeting of GATA6. These findings identify a 
+clinically actionable, epigenetic cause of cetuximab resistance.
+
+DOI: 10.1038/nm.4424
+PMCID: PMC5961502
+PMID: 29035371 [Indexed for MEDLINE]
+
+
+5. Lancet. 2019 Jan 12;393(10167):156-167. doi: 10.1016/S0140-6736(18)31999-8. Epub 
+2018 Nov 30.
+
+Pembrolizumab versus methotrexate, docetaxel, or cetuximab for recurrent or 
+metastatic head-and-neck squamous cell carcinoma (KEYNOTE-040): a randomised, 
+open-label, phase 3 study.
+
+Cohen EEW(1), Soulières D(2), Le Tourneau C(3), Dinis J(4), Licitra L(5), Ahn 
+MJ(6), Soria A(7), Machiels JP(8), Mach N(9), Mehra R(10), Burtness B(11), Zhang 
+P(12), Cheng J(12), Swaby RF(12), Harrington KJ(13); KEYNOTE-040 investigators.
+
+Collaborators: Acosta-Rivera M, Adkins DR, Aghmesheh M, Ahn MJ, Airoldi M, 
+Aleknavicius E, Al-Farhat Y, Algazi AP, Almokadem S, Alyasova A, Bauman JR, 
+Benasso M, Berrocal A, Bray V, Burtness BA, Caponigro F, Castro A, Cescon TP, 
+Chan K, Chaudhry A, Chauffert B, Cohen E, Csoszi T, De Boer JP, Delord JP, Dietz 
+A, Dinis J, Dupuis C, Digue L, Erfan J, Escobar Alvarez Y, Evans M, Fidler MJ, 
+Forster MD, Friesland S, Ganti AK, Geoffrois L, Grant C, Gruenwald V, Harrington 
+K, Hoffmann T, Horvai G, Inciura A, Jang R, Jankowska P, Jimeno A, Joseph M, 
+Juarez Ramiro A, Karaszewska B, Kawecki A, Keilholz U, Keller U, Kim SB, Kocsis 
+J, Kotecki N, Kozloff MF, Lambea J, Landherr L, Lantsukhay Y, Lazarev SA, Lee 
+LW, Le Tourneau C, Licitra L, Lifirenko ID, Mach N, Martincic D, Matorin OV, 
+McGrath M, Machiels JP, Mehra R, Misiukiewicz K, Morris JC, Mufazalov FF, Niu J, 
+Pamoorthy Srinivasan D, Perez Segura P, Rauch D, Ribeiro ML, Rodriguez C, 
+Rolland F, Russo A, Ruzsa A, Sanches F, Shin SW, Shtiveland M, Soulieres D, 
+Soria A, Specenier P, Szekanecz E, Szota J, van Herpen CML, Velez-Cortes HA, 
+Walsh WV, Wilop S, Winterhalder R, Wojtukiewicz M, Wong D, Zandberg D.
+
+Author information:
+(1)San Diego Moores Cancer Center, University of California, San Diego, CA, USA. 
+Electronic address: ecohen@ucsd.edu.
+(2)Centre Hospitalier de l'Université de Montréal, Montréal, QC, Canada.
+(3)Department of Drug Development and Innovation, Institut Curie, Paris, France; 
+INSERM U900 Research Unit, Paris, France; Versailles-Saint-Quentin-en-Yvelines 
+University, Paris, France.
+(4)Instituto Português de Oncologia do Porto Francisco Gentil, Porto, Portugal.
+(5)Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy; University of 
+Milan, Milan, Italy.
+(6)Samsung Medical Centre, Seoul, South Korea.
+(7)Hospital Universitario Ramón y Cajal, Madrid, Spain.
+(8)Cliniques Universitaires Saint-Luc, Brussels, Belgium; Université Catholique 
+de Louvain, Louvain-la-Neuve, Belgium.
+(9)Hôpitaux Universitaires de Genève, Geneva, Switzerland.
+(10)Fox Chase Cancer Center, Philadelphia, PA, USA (currently affiliated with 
+Johns Hopkins Sidney Kimmel Comprehensive Cancer Center, Baltimore, MD, USA).
+(11)Yale University School of Medicine and Yale Cancer Center, New Haven, CT, 
+USA.
+(12)Merck & Co, Kenilworth, NJ, USA.
+(13)The Institute of Cancer Research, London, UK; The Royal Marsden NHS 
+Foundation Trust, National Institute of Health Research Biomedical Research 
+Centre, London, UK.
+
+Erratum in
+    Lancet. 2019 Jan 12;393(10167):132.
+
+Comment in
+    Lancet. 2019 Jan 12;393(10167):108-109.
+    Strahlenther Onkol. 2019 Sep;195(9):851-854.
+    Lancet. 2019 Oct 12;394(10206):1321-1322.
+    Lancet. 2019 Oct 12;394(10206):1322-1323.
+
+BACKGROUND: There are few effective treatment options for patients with 
+recurrent or metastatic head-and-neck squamous cell carcinoma. Pembrolizumab 
+showed antitumour activity and manageable toxicity in early-phase trials. We 
+aimed to compare the efficacy and safety of pembrolizumab versus 
+standard-of-care therapy for the treatment of head-and-neck squamous cell 
+carcinoma.
+METHODS: We did a randomised, open-label, phase 3 study at 97 medical centres in 
+20 countries. Patients with head-and-neck squamous cell carcinoma that 
+progressed during or after platinum-containing treatment for recurrent or 
+metastatic disease (or both), or whose disease recurred or progressed within 3-6 
+months of previous multimodal therapy containing platinum for locally advanced 
+disease, were randomly assigned (1:1) in blocks of four per stratum with an 
+interactive voice-response and integrated web-response system to receive 
+pembrolizumab 200 mg every 3 weeks intravenously or investigator's choice of 
+standard doses of methotrexate, docetaxel, or cetuximab intravenously 
+(standard-of-care group). The primary endpoint was overall survival in the 
+intention-to-treat population. Safety was analysed in the as-treated population. 
+This trial is registered with ClinicalTrials.gov, number NCT02252042, and is no 
+longer enrolling patients.
+FINDINGS: Between Dec 24, 2014, and May 13, 2016, 247 patients were randomly 
+allocated to pembrolizumab and 248 were randomly allocated to standard of care. 
+As of May 15, 2017, 181 (73%) of 247 patients in the pembrolizumab group and 207 
+(83%) of 248 patients in the standard-of-care group had died. Median overall 
+survival in the intention-to-treat population was 8·4 months (95% CI 6·4-9·4) 
+with pembrolizumab and 6·9 months (5·9-8·0) with standard of care (hazard ratio 
+0·80, 0·65-0·98; nominal p=0·0161). Fewer patients treated with pembrolizumab 
+than with standard of care had grade 3 or worse treatment-related adverse events 
+(33 [13%] of 246 vs 85 [36%] of 234). The most common treatment-related adverse 
+event was hypothyroidism with pembrolizumab (in 33 [13%] patients) and fatigue 
+with standard of care (in 43 [18%]). Treatment-related death occurred in four 
+patients treated with pembrolizumab (unspecified cause, large intestine 
+perforation, malignant neoplasm progression, and Stevens-Johnson syndrome) and 
+two patients treated with standard of care (malignant neoplasm progression and 
+pneumonia).
+INTERPRETATION: The clinically meaningful prolongation of overall survival and 
+favourable safety profile of pembrolizumab in patients with recurrent or 
+metastatic head and neck squamous cell carcinoma support the further evaluation 
+of pembrolizumab as a monotherapy and as part of combination therapy in earlier 
+stages of disease.
+FUNDING: Merck Sharp & Dohme, a subsidiary of Merck & Co.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(18)31999-8
+PMID: 30509740 [Indexed for MEDLINE]
+
+
+6. Adv Ther. 2018 Oct;35(10):1497-1509. doi: 10.1007/s12325-018-0791-0. Epub 2018 
+Sep 14.
+
+An Update of Efficacy and Safety of Cetuximab in Metastatic Colorectal Cancer: A 
+Narrative Review.
+
+Fornasier G(1), Francescon S(2), Baldo P(2).
+
+Author information:
+(1)Department of Pharmacy, Centro di Riferimento Oncologico (CRO) di 
+Aviano-IRCCS, National Cancer Institute, Aviano, Italy. giulia.fornasier@cro.it.
+(2)Department of Pharmacy, Centro di Riferimento Oncologico (CRO) di 
+Aviano-IRCCS, National Cancer Institute, Aviano, Italy.
+
+Colorectal cancer is the second most common cancer, representing 13% of all 
+diagnosed cancers. Cetuximab is a recombinant chimeric monoclonal IgG1 antibody 
+and epidermal growth factor receptor (EGFR) inhibitor. Cetuximab is approved for 
+the first-line treatment in combination with chemotherapy or as a single agent 
+in patients who have failed or are intolerant to chemotherapy in patients with 
+EGFR-expressing, RAS wild-type metastatic colorectal cancer. Cetuximab efficacy 
+emerged from studies that were conducted to approve the drug. Cetuximab is well 
+tolerated; its toxicities are caused by its mechanism of action and the most 
+common adverse reaction is skin toxicity. The main purpose of this manuscript is 
+to present an update on the evidence-based summary of efficacy and safety and on 
+the cost-effectiveness of cetuximab. Furthermore, it suggests a management of 
+adverse drug reactions to improve the tolerability of the drug.
+
+DOI: 10.1007/s12325-018-0791-0
+PMID: 30218345 [Indexed for MEDLINE]
+
+
+7. Oncotarget. 2017 Jan 17;8(3):3980-4000. doi: 10.18632/oncotarget.14012.
+
+Mechanisms of resistance to anti-EGFR therapy in colorectal cancer.
+
+Zhao B(1), Wang L(1), Qiu H(1), Zhang M(1), Sun L(1), Peng P(1), Yu Q(1), Yuan 
+X(1).
+
+Author information:
+(1)Department of Oncology, Tongji Hospital, Huazhong University of Science and 
+Technology, Wuhan, Hubei Province, China.
+
+Targeting the epidermal growth factor receptor (EGFR) either alone or in 
+combination with chemotherapy is effective for patients with RAS wild type 
+metastatic colorectal cancer (mCRC). However, only a small percentage of mCRC 
+patients are sensitive to anti-EGFR therapy and even the best cases finally 
+become refractory to this therapy. It has become apparent that the RAS mutations 
+correlate with resistance to anti-EGFR therapy. However, these resistance 
+mechanisms only account for nearly 35% to 50% of nonresponsive patients, 
+suggesting that there might be additional mechanisms. In fact, several novel 
+pathways leading to escape from anti-EGFR therapy have been reported in recent 
+years. In this review, we provide an overview of known and novel mechanisms that 
+contribute to both primary and acquired anti-EGFR therapy resistance, and enlist 
+possible treatment strategies to overcome or reverse this resistance.
+
+DOI: 10.18632/oncotarget.14012
+PMCID: PMC5354808
+PMID: 28002810 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICTS OF INTEREST No potential conflicts of 
+interest were disclosed.
+
+
+8. Lancet. 2019 Jan 5;393(10166):51-60. doi: 10.1016/S0140-6736(18)32752-1. Epub 
+2018 Nov 15.
+
+Radiotherapy plus cisplatin or cetuximab in low-risk human 
+papillomavirus-positive oropharyngeal cancer (De-ESCALaTE HPV): an open-label 
+randomised controlled phase 3 trial.
+
+Mehanna H(1), Robinson M(2), Hartley A(3), Kong A(4), Foran B(5), Fulton-Lieuw 
+T(4), Dalby M(6), Mistry P(6), Sen M(7), O'Toole L(8), Al Booz H(9), Dyker 
+K(10), Moleron R(11), Whitaker S(12), Brennan S(13), Cook A(14), Griffin M(15), 
+Aynsley E(16), Rolles M(17), De Winton E(18), Chan A(19), Srinivasan D(20), 
+Nixon I(21), Grumett J(6), Leemans CR(22), Buter J(22), Henderson J(23), 
+Harrington K(24), McConkey C(6), Gray A(25), Dunn J(6); De-ESCALaTE HPV Trial 
+Group.
+
+Collaborators: Moleron R, McArdle O, Dyker K, Al Booz H, O'Toole L, Cook A, 
+Husband D, Loo V, Soe W, Aynsley E, Sridhar T, Jankowska P, Joseph M, Geropantas 
+K, Vaidya D, Griffin M, Hartley A, Vijayan R, Hwang D, Harrington K, Pettit L, 
+Whitaker S, De Winton E, Rolles M, Brennan S, Sen M, Mendes R, Forster M, Chan 
+A, Evans M, Buter J, Srinivasan D, Foran B, Nankivell P, Bryant J, Sharma N, 
+Spruce R, Brooks J, Batis N, Roques T, Bidmead M, Yang H, Nutting C, Tyler J, 
+Henderson J, Baines H, Gasnier A, Miles E, Clark C, Evans M.
+
+Author information:
+(1)Institute for Head and Neck Studies and Education (InHANSE), University of 
+Birmingham, Birmingham, UK. Electronic address: h.mehanna@bham.ac.uk.
+(2)Newcastle University, Newcastle, UK.
+(3)University Hospitals Birmingham, Birmingham, UK.
+(4)Institute for Head and Neck Studies and Education (InHANSE), University of 
+Birmingham, Birmingham, UK.
+(5)Weston Park Hospital, Sheffield, UK.
+(6)University of Warwick, Coventry, UK.
+(7)St James's Institute of Oncology, Leeds, UK.
+(8)Queen's Centre for Oncology, Castle Hill Hospital, Cottingham, UK.
+(9)Bristol Haematology and Oncology Centre, Bristol, UK.
+(10)St James' University Hospital, Leeds, UK.
+(11)Aberdeen Royal Infirmary, Aberdeen, UK.
+(12)Royal Surrey County Hospital, Surrey, UK.
+(13)St Luke's Hospital, Cancer Trials Ireland, and St Luke's Institute of Cancer 
+Research, Dublin, Ireland.
+(14)Cheltenham General Hospital, Cheltenham, UK.
+(15)Nottingham University Hospitals NHS Trust, Nottingham, UK.
+(16)James Cook University Hospital, Middlesbrough, UK.
+(17)Abertawe Bro Morgannwg University Health Board, Port Talbot, UK.
+(18)Royal United Hospitals Bath NHS Foundation Trust, Bath, UK.
+(19)University Hospital Coventry and Warwickshire NHS Trust, Coventry, UK.
+(20)Western General Hospital, Edinburgh, UK.
+(21)Beatson West of Scotland Cancer Centre, Glasgow, UK.
+(22)VU University Medical Centre, Amsterdam, Netherlands.
+(23)National RTTQA Group, Royal Marsden Hospital, London, UK.
+(24)Institute of Cancer Research and Royal Marsden Hospital, London UK.
+(25)University of Oxford, Oxford, UK.
+
+Comment in
+    Lancet. 2019 Jan 5;393(10166):5-7.
+    Strahlenther Onkol. 2019 May;195(5):447-449.
+    Int J Radiat Oncol Biol Phys. 2019 Jul 15;104(4):705-709.
+    Bull Cancer. 2020 Mar;107(3):293-294.
+
+BACKGROUND: The incidence of human papillomavirus (HPV)-positive oropharyngeal 
+cancer, a disease affecting younger patients, is rapidly increasing. Cetuximab, 
+an epidermal growth factor receptor inhibitor, has been proposed for treatment 
+de-escalation in this setting to reduce the toxicity of standard cisplatin 
+treatment, but no randomised evidence exists for the efficacy of this strategy.
+METHODS: We did an open-label randomised controlled phase 3 trial at 32 head and 
+neck treatment centres in Ireland, the Netherlands, and the UK, in patients aged 
+18 years or older with HPV-positive low-risk oropharyngeal cancer (non-smokers 
+or lifetime smokers with a smoking history of <10 pack-years). Eligible patients 
+were randomly assigned (1:1) to receive, in addition to radiotherapy (70 Gy in 
+35 fractions), either intravenous cisplatin (100 mg/m2 on days 1, 22, and 43 of 
+radiotherapy) or intravenous cetuximab (400 mg/m2 loading dose followed by seven 
+weekly infusions of 250 mg/m2). The primary outcome was overall severe (grade 
+3-5) toxicity events at 24 months from the end of treatment. The primary outcome 
+was assessed by intention-to-treat and per-protocol analyses. This trial is 
+registered with the ISRCTN registry, number ISRCTN33522080.
+FINDINGS: Between Nov 12, 2012, and Oct 1, 2016, 334 patients were recruited 
+(166 in the cisplatin group and 168 in the cetuximab group). Overall (acute and 
+late) severe (grade 3-5) toxicity did not differ significantly between treatment 
+groups at 24 months (mean number of events per patient 4·8 [95% CI 4·2-5·4] with 
+cisplatin vs 4·8 [4·2-5·4] with cetuximab; p=0·98). At 24 months, overall 
+all-grade toxicity did not differ significantly either (mean number of events 
+per patient 29·2 [95% CI 27·3-31·0] with cisplatin vs 30·1 [28·3-31·9] with 
+cetuximab; p=0·49). However, there was a significant difference between 
+cisplatin and cetuximab in 2-year overall survival (97·5% vs 89·4%, hazard ratio 
+5·0 [95% CI 1·7-14·7]; p=0·001) and 2-year recurrence (6·0% vs 16·1%, 3·4 
+[1·6-7·2]; p=0·0007).
+INTERPRETATION: Compared with the standard cisplatin regimen, cetuximab showed 
+no benefit in terms of reduced toxicity, but instead showed significant 
+detriment in terms of tumour control. Cisplatin and radiotherapy should be used 
+as the standard of care for HPV-positive low-risk patients who are able to 
+tolerate cisplatin.
+FUNDING: Cancer Research UK.
+
+Copyright © 2019 The Author(s). Published by Elsevier Ltd. This is an Open 
+Access article under the CC BY 4.0 license. Published by Elsevier Ltd.. All 
+rights reserved.
+
+DOI: 10.1016/S0140-6736(18)32752-1
+PMCID: PMC6319250
+PMID: 30449623 [Indexed for MEDLINE]
+
+
+9. J Clin Oncol. 2018 Oct 20;36(30):3031-3039. doi: 10.1200/JCO.2018.78.3183. Epub 
+2018 Sep 10.
+
+Efficacy and Tolerability of First-Line Cetuximab Plus Leucovorin, Fluorouracil, 
+and Oxaliplatin (FOLFOX-4) Versus FOLFOX-4 in Patients With RAS Wild-Type 
+Metastatic Colorectal Cancer: The Open-Label, Randomized, Phase III TAILOR 
+Trial.
+
+Qin S(1), Li J(1), Wang L(1), Xu J(1), Cheng Y(1), Bai Y(1), Li W(1), Xu N(1), 
+Lin LZ(1), Wu Q(1), Li Y(1), Yang J(1), Pan H(1), Ouyang X(1), Qiu W(1), Wu 
+K(1), Xiong J(1), Dai G(1), Liang H(1), Hu C(1), Zhang J(1), Tao M(1), Yao Q(1), 
+Wang J(1), Chen J(1), Eggleton SP(1), Liu T(1).
+
+Author information:
+(1)Shukui Qin, Bayi Hospital, Nanjing University of Chinese Medicine, Nanjing; 
+Jin Li, Fudan University Cancer Hospital and Tongji University East Hospital; 
+Liwei Wang, Shanghai First People's Hospital; Jun Zhang, Ruijin Hospital, 
+Shanghai Jiao Tong University School of Medicine; Tianshu Liu, Affiliated 
+Zhongshan Hospital of Fudan University, Shanghai; Jianming Xu, 307 Hospital of 
+the Chinese People's Liberation Army; Guanghai Dai, Chinese People's Liberation 
+Army General Hospital; Junyuan Wang and Jiongjie Chen, Merck Serono, Beijing; 
+Ying Cheng, Jilin Cancer Hospital; Wei Li, First Affiliated Hospital of Jilin 
+University, Jilin; Yuxian Bai, Affiliated Hospital of Harbin Medical University, 
+Harbin; Nong Xu, First Affiliated Hospital of College of Medicine, Zhejiang 
+University, Hangzhou; Li-zhu Lin, First Affiliated Hospital of Guangzhou 
+University of Traditional Chinese Medicine, Guangzhou; Qiong Wu, First 
+Affiliated Hospital of Bengbu Medical College, Bengbu; Yunfeng Li, Yunnan 
+Province Cancer Hospital, Kunming; Jianwei Yang, Fujian Province Cancer 
+Hospital; Xuenong Ouyang, Fuzhou General Hospital, Fuzhou; Hongming Pan, Sir Run 
+Run Shaw Hospital Affiliated With School of Medicine, Zhejiang University, 
+Zhejiang; Wensheng Qiu, Affiliated Hospital of Qingdao University, Qingdao; 
+Kaichun Wu, Xijing Hospital, Fourth Military Medical University, Shaanxi; 
+Jianping Xiong, First Affiliated Hospital of Nanchang University, Nanchang; 
+Houjie Liang, Southwest Cancer Center, Southwest Hospital, Third Military 
+Medical University, Chongqing; Chunhong Hu, Second Xiangya Hospital of Central 
+South University, Changsha; Min Tao, First Affiliated Hospital of Suzhou 
+University, Suzhou; Qiang Yao, Tianjin People's Hospital, Tianjin, People's 
+Republic of China; and S. Peter Eggleton, Merck KGaA, Darmstadt, Germany.
+
+Comment in
+    Ann Transl Med. 2018 Nov;6(Suppl 1):S87.
+    Ann Transl Med. 2018 Dec;6(Suppl 2):S96.
+    Ann Transl Med. 2018 Dec;6(Suppl 2):S114.
+    J Clin Oncol. 2019 Jun 20;37(18):1591-1592.
+    J Clin Oncol. 2019 Jun 20;37(18):1592-1593.
+
+PURPOSE: Cetuximab in combination with chemotherapy is a standard-of-care 
+first-line treatment regimen for patients with RAS wild-type (wt) metastatic 
+colorectal cancer (mCRC); however, the efficacy of cetuximab plus leucovorin, 
+fluorouracil, and oxaliplatin (FOLFOX) has never before been proven in a 
+controlled and randomized phase III trial. To our knowledge, the TAILOR trial ( 
+ClinicalTrials.gov identifier: NCT01228734) is the first randomized, 
+multicenter, phase III study of the addition of cetuximab to first-line FOLFOX 
+prospectively choosing a RAS wt population and thus providing confirmative data 
+for the efficacy and safety of cetuximab plus FOLFOX versus FOLFOX alone.
+PATIENTS AND METHODS: TAILOR is an open-label, randomized (1:1), multicenter, 
+phase III trial in patients from China comparing FOLFOX-4 with or without 
+cetuximab in RAS wt (KRAS/NRAS, exons 2 to 4) mCRC. The primary end point of 
+TAILOR was progression-free survival time; secondary end points included overall 
+survival time, overall response rate, and safety and tolerability.
+RESULTS: In the modified intent-to-treat population of 393 patients with RAS wt 
+mCRC, adding cetuximab to FOLFOX-4 significantly improved the primary end point 
+of progression-free survival time compared with FOLFOX-4 alone (hazard ratio, 
+0.69; 95% CI, 0.54 to 0.89; P = .004; median, 9.2 v 7.4 months, respectively), 
+as well as the secondary end points of overall survival time (current assessment 
+after 300 events: hazard ratio, 0.76; 95% CI, 0.61 to 0.96; P = .02; median, 
+20.7 v 17.8 months, respectively) and overall response rate (odds ratio, 2.41; 
+95% CI, 1.61 to 3.61; P < .001; 61.1% v 39.5%, respectively). Treatment was well 
+tolerated, and there were no new or unexpected safety findings.
+CONCLUSION: The TAILOR study met all of its objectives and relevant clinical end 
+points, confirming cetuximab in combination with FOLFOX as an effective 
+standard-of-care first-line treatment regimen for patients with RAS wt mCRC.
+
+DOI: 10.1200/JCO.2018.78.3183
+PMCID: PMC6324088
+PMID: 30199311 [Indexed for MEDLINE]
+
+
+10. Drugs Today (Barc). 2019 Nov;55(11):683-693. doi: 
+10.1358/dot.2019.55.11.3035584.
+
+Binimetinib, encorafenib and cetuximab (BEACON Trial) combination therapy for 
+patients with BRAF V600E-mutant metastatic colorectal cancer.
+
+Shahjehan F(1), Kamatham S(2), Chandrasekharan C(3), Kasi PM(4).
+
+Author information:
+(1)Department of Internal Medicine, Conemaugh Memorial Medical Center, 
+Johnstown, Pennsylvania, USA.
+(2)Department of Cancer Biology/Pathology, Wayne State University, Detroit, 
+Michigan, USA.
+(3)Department of Hematology/Oncology, University of Iowa, Iowa City, Iowa, USA.
+(4)Department of Hematology/Oncology, University of Iowa, Iowa City, Iowa, USA. 
+pashtoon-kasi@uiowa.edu.
+
+BRAF V600E mutations are associated with 8-10% of metastatic colorectal cancers 
+(mCRC) and carry a poor prognosis with limited therapeutic options. In contrast 
+to metastatic melanoma, BRAF inhibition alone or in combination with 
+mitogen-activated protein kinase kinase (MEK) inhibitors has shown little 
+utility in the treatment of BRAF V600E-mutant mCRC. This is secondary to 
+upstream activation of the epidermal growth factor receptor (EGFR) pathway and 
+other escape mechanisms. Combining RAF and MEK inhibitors with inhibition of the 
+EGFR pathway through an anti-EGFR receptor antibody (cetuximab) led to the 
+BEACON clinical trial (binimetinib, encorafenib and cetuximab). Trial patients 
+had undergone at least one prior line of chemotherapy. The trial met all its 
+endpoints and is now included in NCCN (National Comprehensive Cancer Network) 
+guidelines. Herein we provide updates in treatment options for patients with 
+BRAF V600E-mutant mCRC, focusing on the practice-changing BEACON-triplet 
+regimen, the first chemotherapy-free combination regimen for mCRC. This 
+combination is being explored frontline in the ANCHOR clinical trial.
+
+Copyright 2019 Clarivate Analytics.
+
+DOI: 10.1358/dot.2019.55.11.3035584
+PMID: 31840683 [Indexed for MEDLINE]

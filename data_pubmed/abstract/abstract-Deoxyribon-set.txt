@@ -1,0 +1,789 @@
+1. Cochrane Database Syst Rev. 2018 Sep 6;9(9):CD001127. doi: 
+10.1002/14651858.CD001127.pub4.
+
+Dornase alfa for cystic fibrosis.
+
+Yang C(1), Montgomery M.
+
+Author information:
+(1)Department of Pediatrics, Division of Respiratory Medicine, BC Children's 
+Hospital, 4480 Oak Street, Vancouver, BC, Canada, V6H 3V4.
+
+Update of
+    Cochrane Database Syst Rev. 2016 Apr 04;4:CD001127.
+
+BACKGROUND: Dornase alfa is currently used as a mucolytic to treat pulmonary 
+disease (the major cause of morbidity and mortality) in cystic fibrosis. It 
+reduces mucus viscosity in the lungs, promoting improved clearance of 
+secretions. This is an update of a previously published review.
+OBJECTIVES: To determine whether the use of dornase alfa in cystic fibrosis is 
+associated with improved mortality and morbidity compared to placebo or other 
+medications that improve airway clearance, and to identify any adverse events 
+associated with its use.
+SEARCH METHODS: We searched the Cochrane Cystic Fibrosis and Genetic Disorders 
+Group Trials Register which comprises references identified from comprehensive 
+electronic database searches, handsearching relevant journals and abstracts from 
+conferences. Date of the most recent search of the Group's Cystic Fibrosis 
+Register: 23 April 2018.Clinicaltrials.gov and the International Clinical Trials 
+Registry Platform were also searched to identify unpublished or ongoing trials. 
+Date of most recent search: 07 June 2018.
+SELECTION CRITERIA: All randomised and quasi-randomised controlled trials 
+comparing dornase alfa to placebo, standard therapy or other medications that 
+improve airway clearance.
+DATA COLLECTION AND ANALYSIS: Authors independently assessed trials against the 
+inclusion criteria; two authors carried out analysis of methodological quality 
+and data extraction. GRADE was used to assess the level of evidence.
+MAIN RESULTS: The searches identified 69 trials, of which 19 (2565 participants) 
+met our inclusion criteria. Fifteen trials compared dornase alfa to placebo or 
+no dornase alfa (2447 participants); two compared daily dornase to hypertonic 
+saline (32 participants); one compared daily dornase alfa to hypertonic saline 
+and alternate day dornase alfa (48 participants); one compared dornase alfa to 
+mannitol and the combination of both drugs (38 participants). Trial duration 
+varied from six days to three years.Dornase alfa compared to placebo or no 
+treatmentDornase alfa improved forced expiratory volume at one second at one 
+month (four trials, 248 participants), three months (one trial, 320 
+participants; moderate-quality evidence), six months (one trial, 647 
+participants; high-quality evidence) and two years (one trial, 410 
+participants). Limited low-quality evidence showed no difference between groups 
+for changes in quality of life. There was a decrease in pulmonary exacerbations 
+with dornase alfa in trials of up to two years (moderate-quality evidence). One 
+trial that examined the cost of care, including the cost of dornase alfa, found 
+that the cost savings from dornase alfa offset 18% to 38% of the medication 
+costs.Dornase alfa: daily versus alternate dayOne cross-over trial (43 children) 
+found no differences between treatment regimens for lung function, quality of 
+life or pulmonary exacerbations (low-quality evidence).Dornase alfa compared to 
+other medications that improve airway clearanceResults for these comparisons 
+were mixed. One trial (43 children) showed a greater improvement in forced 
+expiratory volume at one second for dornase alfa compared to hypertonic saline 
+(low-quality evidence), and one trial (23 participants) reported no difference 
+in lung function between dornase alfa and mannitol or dornase alfa and dornase 
+alfa plus mannitol (low-quality evidence). One trial (23 participants) found a 
+difference in quality of life favouring dornase alfa when compared to dornase 
+alfa plus mannitol (low-quality evidence); other comparisons found no difference 
+in this outcome (low-quality evidence). No trials in any comparison reported any 
+difference between groups in the number of pulmonary exacerbations (low-quality 
+evidence).When all comparisons are assessed, dornase alfa did not cause 
+significantly more adverse effects than other treatments, except voice 
+alteration and rash.
+AUTHORS' CONCLUSIONS: There is evidence to show that, compared with placebo, 
+therapy with dornase alfa improves lung function in people with cystic fibrosis 
+in trials lasting from one month to two years. There was a decrease in pulmonary 
+exacerbations in trials of six months or longer. Voice alteration and rash 
+appear to be the only adverse events reported with increased frequency in 
+randomised controlled trials. There is not enough evidence to firmly conclude if 
+dornase alfa is superior to other hyperosmolar agents in improving lung 
+function.
+
+DOI: 10.1002/14651858.CD001127.pub4
+PMCID: PMC6513278
+PMID: 30187450 [Indexed for MEDLINE]
+
+Conflict of interest statement: Dr Connie Yang has received support from 
+Novartis to attend the Killarney Cystic Fibrosis Meeting in 2014 and the 
+Pediatric Advisory Board. Dr. Montgomery has no conflicts of interest.
+
+
+2. Respirology. 2017 Aug;22(6):1084-1092. doi: 10.1111/resp.13047. Epub 2017 Apr 
+11.
+
+Mucoactive agents for chronic, non-cystic fibrosis lung disease: A systematic 
+review and meta-analysis.
+
+Tarrant BJ(1)(2), Le Maitre C(1), Romero L(3), Steward R(1), Button BM(1)(4), 
+Thompson BR(4)(5), Holland AE(1)(2).
+
+Author information:
+(1)Department of Physiotherapy, Alfred Health, Melbourne, Victoria, Australia.
+(2)Department of Rehabilitation, Nutrition and Sport, La Trobe University, 
+Melbourne, Victoria, Australia.
+(3)Ian Potter Library, Alfred Health, Melbourne, Victoria, Australia.
+(4)Department of Allergy, Immunology and Respiratory Medicine (AIRmed), Monash 
+University, Melbourne, Victoria, Australia.
+(5)Department of Allergy, Immunology and Respiratory Medicine, Alfred Health, 
+Melbourne, Victoria, Australia.
+
+Inhaled mucoactive agents are used in respiratory disease to improve mucus 
+properties and enhance secretion clearance. The effect of mannitol, recombinant 
+human deoxyribonuclease/dornase alfa (rhDNase) and hypertonic saline (HS) or 
+normal saline (NS) are not well described in chronic lung conditions other than 
+cystic fibrosis (CF). The aim of this review was to determine the benefit and 
+safety of inhaled mucoactive agents outside of CF. We searched Medline, Embase, 
+CINAHL and CENTRAL for randomized controlled trials investigating the effects of 
+mucoactive agents on lung function, adverse events (AEs), health-related quality 
+of life (HRQOL), hospitalization, length of stay, exacerbations, sputum 
+clearance and inflammation. There were detrimental effects of rhDNase in 
+bronchiectasis, with average declines of 1.9-4.3% in forced expiratory volume in 
+1 s (FEV1 ) and 3.7-5.4% in forced vital capacity (FVC) (n = 410, two studies), 
+and increased exacerbation risk (relative risk = 1.35, 95% CI = 1.01-1.79 
+n = 349, one study). Some participants exhibited a reduction in FEV1 (≥10-15%) 
+with mucoactive agents on screening (mannitol = 158 of 1051 participants, 
+rhDNase = 2 of 30, HS = 3 of 80). Most AEs were mild and transient, including 
+bronchospasm, cough and breathlessness. NS eased symptomatic burden in COPD, 
+while NS and HS improved spirometry, HRQOL and sputum burden in non-CF 
+bronchiectasis. Mannitol improved mucociliary clearance in asthma and 
+bronchiectasis, while the effects of N-acetylcysteine were unclear. In chronic 
+lung diseases outside CF, there are small benefits of mannitol, NS and HS. 
+Adverse effects of rhDNase suggest this should not be administered in non-CF 
+bronchiectasis.
+
+© 2017 Asian Pacific Society of Respirology.
+
+DOI: 10.1111/resp.13047
+PMID: 28397992 [Indexed for MEDLINE]
+
+
+3. Cochrane Database Syst Rev. 2018 Feb 9;2(2):CD008649. doi: 
+10.1002/14651858.CD008649.pub3.
+
+Inhaled mannitol for cystic fibrosis.
+
+Nevitt SJ(1), Thornton J, Murray CS, Dwyer T.
+
+Author information:
+(1)Department of Biostatistics, University of Liverpool, Block F, Waterhouse 
+Building, 1-5 Brownlow Hill, Liverpool, UK, L69 3GL.
+
+Update in
+    Cochrane Database Syst Rev. 2020 May 1;5:CD008649.
+
+Update of
+    Cochrane Database Syst Rev. 2015 Oct 09;(10):CD008649.
+
+BACKGROUND: Several agents are used to clear secretions from the airways of 
+people with cystic fibrosis. Mannitol increases mucociliary clearance, but its 
+exact mechanism of action is unknown. The dry powder formulation of mannitol may 
+be more convenient and easier to use compared with established agents which 
+require delivery via a nebuliser. Phase III trials of inhaled dry powder 
+mannitol for the treatment of cystic fibrosis have been completed and it is now 
+available in Australia and some countries in Europe. This is an update of a 
+previous review.
+OBJECTIVES: To assess whether inhaled dry powder mannitol is well tolerated, 
+whether it improves the quality of life and respiratory function in people with 
+cystic fibrosis and which adverse events are associated with the treatment.
+SEARCH METHODS: We searched the Cochrane Cystic Fibrosis and Genetic Disorders 
+Group Trials Register which comprises references identified from comprehensive 
+electronic databases, handsearching relevant journals and abstracts from 
+conferences.Date of last search: 28 September 2017.
+SELECTION CRITERIA: All randomised controlled studies comparing mannitol with 
+placebo, active inhaled comparators (for example, hypertonic saline or dornase 
+alfa) or with no treatment.
+DATA COLLECTION AND ANALYSIS: Authors independently assessed studies for 
+inclusion, carried out data extraction and assessed the risk of bias in included 
+studies. The quality of the evidence was assessed using GRADE.
+MAIN RESULTS: Six studies (reported in 50 publications) were included with a 
+total of 784 participants.Duration of treatment in the included studies ranged 
+from 12 days to six months, with open-label treatment for an additional six 
+months in two of the studies. Five studies compared mannitol with control (a 
+very low dose of mannitol or non-respirable mannitol) and the final study 
+compared mannitol to dornase alfa alone and to mannitol plus dornase alfa. Two 
+large studies had a similar parallel design and provided data for 600 
+participants, which could be pooled where data for a particular outcome and time 
+point were available. The remaining studies had much smaller sample sizes 
+(ranging from 22 to 95) and data could not be pooled due to differences in 
+design, interventions and population.Pooled evidence from the two large parallel 
+studies was judged to be of low to moderate quality and from the smaller studies 
+was judged to be of low to very low quality. In all studies, there was an 
+initial test to see if participants tolerated mannitol, with only those who 
+could tolerate the drug being randomised; therefore, the study results are not 
+applicable to the cystic fibrosis population as a whole.While the published 
+papers did not provide all the data required for our analysis, additional 
+unpublished data were provided by the drug's manufacturer and the author of one 
+of the studies.Pooling the large parallel studies comparing mannitol to control, 
+up to and including six months, lung function (forced expiratory volume at one 
+second) measured in both mL and % predicted was significantly improved in the 
+mannitol group compared to the control group (moderate-quality evidence). 
+Beneficial results were observed in these studies in adults and in both 
+concomitant dornase alfa users and non-users in these studies. In the smaller 
+studies, statistically significant improvements in lung function were also 
+observed in the mannitol groups compared to the non-respirable mannitol groups; 
+however, we judged this evidence to be of low to very low quality.For the 
+comparisons of mannitol and control, we found no consistent differences in 
+health-related quality of life in any of the domains except for burden of 
+treatment, which was less for mannitol up to four months in the two pooled 
+studies of a similar design; this difference was not maintained at six months. 
+It should be noted that the tool used to measure health-related quality of life 
+was not designed to assess mucolytics and pooling of the age-appropriate tools 
+(as done in some of the included studies) may not be valid so results were 
+judged to be low to very low quality and should be interpreted with caution. 
+Cough, haemoptysis, bronchospasm, pharyngolaryngeal pain and post-tussive 
+vomiting were the most commonly reported side effects in both treatment groups. 
+Where rates of adverse events could be compared, statistically no significant 
+differences were found between mannitol and control groups; although some of 
+these events may have clinical relevance for people with CF.For the comparisons 
+of mannitol to dornase alfa alone and to mannitol plus dornase alfa, very 
+low-quality evidence from a 12-week cross-over study of 28 participants showed 
+no statistically significant differences in the recorded domains of 
+health-related quality of life or measures of lung function. Cough was the most 
+common side effect in the mannitol alone arm but there was no occurrence of 
+cough in the dornase alfa alone arm and the most commonly reported reason of 
+withdrawal from the mannitol plus dornase alfa arm was pulmonary 
+exacerbations.In terms of secondary outcomes of the review (pulmonary 
+exacerbations, hospitalisations, symptoms, sputum microbiology), evidence 
+provided by the included studies was more limited. For all comparisons, no 
+consistent statistically significant and clinically meaningful differences were 
+observed between mannitol and control treatments (including dornase alfa).
+AUTHORS' CONCLUSIONS: There is moderate-quality evidence to show that treatment 
+with mannitol over a six-month period is associated with an improvement in some 
+measures of lung function in people with cystic fibrosis compared to control. 
+There is low to very low-quality evidence suggesting no difference in quality of 
+life for participants taking mannitol compared to control. This review provides 
+very low-quality evidence suggesting no difference in lung function or quality 
+of life comparing mannitol to dornase alfa alone and to mannitol plus dornase 
+alfa.The clinical implications from this review suggest that mannitol could be 
+considered as a treatment in cystic fibrosis; but further research is required 
+in order to establish who may benefit most and whether this benefit is sustained 
+in the longer term. Furthermore, studies comparing its efficacy against other 
+(established) mucolytic therapies need to be undertaken before it can be 
+considered for mainstream practice.
+
+DOI: 10.1002/14651858.CD008649.pub3
+PMCID: PMC6491147
+PMID: 29424930 [Indexed for MEDLINE]
+
+Conflict of interest statement: Sarah Nevitt has no potential conflict of 
+interest to declare. Dr Murray was local principal investigator (and thus 
+recruiting participants) for an inhaled mannitol study run by Pharmaxis. Her 
+institution was paid on a per‐participant basis for participants recruited to 
+the study, but she herself did not benefit financially for running the study. Dr 
+Thornton was pharmacist at one site for a clinical study of inhaled mannitol in 
+children and young people with CF in the UK. Dr Thornton’s main employment is 
+with NICE, Centre for Guidelines. NICE Centre for Health Technology Evaluation, 
+have published an appraisal of mannitol in CF. The Centre for Guidelines have 
+published a guideline for the management of CF which includes mannitol. Dr 
+Thornton is also a member of the GRADE working group. Tiffany Dwyer declares she 
+has worked on a trial of hypertonic saline in people with cystic fibrosis and 
+another trial in non‐cystic fibrosis bronchiectasis. Hypertonic saline is a 
+mucolytic agent that works similarly to inhaled mannitol.
+
+
+4. Expert Rev Respir Med. 2017 Feb;11(2):129-145. doi: 
+10.1080/17476348.2017.1280399. Epub 2017 Jan 20.
+
+Adherence to therapies in cystic fibrosis: a targeted literature review.
+
+Narayanan S(1), Mainz JG(2), Gala S(1), Tabori H(2), Grossoehme D(3).
+
+Author information:
+(1)a Market Access Solutions LLC. (MKTXS) , Raritan , NJ , USA.
+(2)b Cystic Fibrosis Center for Children and Adults, Jena University Hospital , 
+Jena , Germany.
+(3)c Division of Pulmonary Medicine , Cincinnati Children's Hospital Medical 
+Center , Cincinnati , OH , USA.
+
+Cystic fibrosis (CF) is a life-shortening condition with no cure. Available 
+therapies relieving the symptoms of CF are complex and time-consuming. A 
+comprehensive review assessing adherence to different CF therapies, association 
+of adherence with outcomes, and factors influencing adherence could inform 
+optimal patient management strategies. Areas covered: A targeted literature 
+review of studies published from 2010-2016 assessed adherence to CF therapies. 
+Nineteen studies qualified for inclusion. Adherence to CF therapies was 
+sub-optimal, and varied by treatment, mode of treatment administration, age, 
+season, time and method of adherence measurement. Adherence to ivacaftor and 
+inhaled antibiotics were reported higher than dornase alfa or hypertonic saline, 
+oral pancreatic enzyme and vitamin supplements, and airway clearance therapy. 
+Several patient, healthcare provider and treatment related factors influenced 
+adherence. Sub-optimal adherence was shown to impact clinical and economic 
+burden of the disease. Expert commentary: Higher adherence to CF therapies can 
+lower disease burden, and improve patient outcomes. Healthcare providers and 
+policy makers should devise patient-centered and caregiver-enabled interventions 
+to improve adherence. Research on long-term adherence and outcomes associated 
+with promising oral treatments such as CFTR modulators is needed. Identifying 
+ways to overcome key barriers to adherence can positively affect outcomes 
+associated with CF.
+
+DOI: 10.1080/17476348.2017.1280399
+PMID: 28107795 [Indexed for MEDLINE]
+
+
+5. Heart Lung. 2019 Mar-Apr;48(2):141-147. doi: 10.1016/j.hrtlng.2018.09.010. Epub 
+2018 Nov 5.
+
+Mucoactive agents for adults with acute lung conditions: A systematic review.
+
+Tarrant BJ(1), Maitre CL(2), Romero L(3), Steward R(2), Button BM(3), Thompson 
+BR(3), Holland AE(4).
+
+Author information:
+(1)Physiotherapy Department, Alfred Health, The Alfred, 55 Commercial Rd, 
+Melbourne, Victoria 3004, Australia; La Trobe University, Level 4, The Alfred 
+Centre, 55 Commercial Rd, Melbourne, Victoria 3004, Australia. Electronic 
+address: b.tarrant@alfred.org.au.
+(2)Physiotherapy Department, Alfred Health, The Alfred, 55 Commercial Rd, 
+Melbourne, Victoria 3004, Australia.
+(3)Physiotherapy Department, Alfred Health, The Alfred, 55 Commercial Rd, 
+Melbourne, Victoria 3004, Australia; Monash University, The Alfred, 55 
+Commercial Rd, Melbourne, Victoria 3004, Australia.
+(4)Physiotherapy Department, Alfred Health, The Alfred, 55 Commercial Rd, 
+Melbourne, Victoria 3004, Australia; La Trobe University, Level 4, The Alfred 
+Centre, 55 Commercial Rd, Melbourne, Victoria 3004, Australia.
+
+BACKGROUND AND OBJECTIVES: Inhaled mucoactive agents are used to enhance airway 
+clearance, however efficacy and safety are unclear in adults with acute 
+respiratory conditions.
+METHODS: We systematically reviewed randomized controlled trials assessing 
+respiratory function; safety; length of stay (LOS); mucus; radiology; and 
+oxygenation.
+RESULTS: No adverse events were reported for dornase alfa (n = 63), 
+N-acetylcysteine (NAC, n = 50), ambroxol (n = 140), hypertonic saline (n = 33), 
+heparin (n = 384), mannitol (n = 20) or isotonic saline. During invasive 
+ventilation, NAC, dornase alfa and saline had no effect on mucus. 
+Postoperatively, mucus characteristics improved with NAC (n = 10). Ambroxol 
+lowered LOS (mean difference 4 days) and halved complications following lung 
+carcinoma resection (n = 140). Heparin improved ventilator-free days (n = 130, 
+mean difference 3.9-4.6) and intensive care LOS (n = 223, 3.2 days), but not 
+ventilator-acquired pneumonia.
+CONCLUSION: Dornase alfa, hypertonic saline and NAC were ineffective for 
+atelectasis/mucus plugging while intubated. More data are required to support 
+using NAC, ambroxol and heparin during acute illness.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.hrtlng.2018.09.010
+PMID: 30409442 [Indexed for MEDLINE]
+
+
+6. Cochrane Database Syst Rev. 2020 May 1;5(5):CD008649. doi: 
+10.1002/14651858.CD008649.pub4.
+
+Inhaled mannitol for cystic fibrosis.
+
+Nevitt SJ(1), Thornton J(2), Murray CS(3), Dwyer T(4)(5).
+
+Author information:
+(1)Department of Biostatistics, University of Liverpool, Liverpool, UK.
+(2)Centre for Clinical Practice, National Institute for Health and Care 
+Excellence, Manchester, UK.
+(3)Centre for Respiratory Medicine and Allergy, Institute of Inflammation and 
+Repair, University of Manchester and University Hospital of South Manchester, 
+Manchester, UK.
+(4)Central Clinical School, Sydney Medical School, University of Sydney, Sydney, 
+Australia.
+(5)Discipline of Physiotherapy, Faculty of Health Sciences, University of 
+Sydney, Sydney, Australia.
+
+Update of
+    Cochrane Database Syst Rev. 2018 Feb 09;2:CD008649.
+
+BACKGROUND: Several agents are used to clear secretions from the airways of 
+people with cystic fibrosis. Mannitol increases mucociliary clearance, but its 
+exact mechanism of action is unknown. The dry powder formulation of mannitol may 
+be more convenient and easier to use compared with established agents which 
+require delivery via a nebuliser. Phase III trials of inhaled dry powder 
+mannitol for the treatment of cystic fibrosis have been completed and it is now 
+available in Australia and some countries in Europe. This is an update of a 
+previous review.
+OBJECTIVES: To assess whether inhaled dry powder mannitol is well tolerated, 
+whether it improves the quality of life and respiratory function in people with 
+cystic fibrosis and which adverse events are associated with the treatment.
+SEARCH METHODS: We searched the Cochrane Cystic Fibrosis and Genetic Disorders 
+Group Trials Register which comprises references identified from comprehensive 
+electronic databases, handsearching relevant journals and abstracts from 
+conferences. Date of last search: 12 December 2019.
+SELECTION CRITERIA: All randomised controlled studies comparing mannitol with 
+placebo, active inhaled comparators (for example, hypertonic saline or dornase 
+alfa) or with no treatment.
+DATA COLLECTION AND ANALYSIS: Authors independently assessed studies for 
+inclusion, carried out data extraction and assessed the risk of bias in included 
+studies. The quality of the evidence was assessed using GRADE.
+MAIN RESULTS: Six studies (reported in 36 unique publications) were included 
+with a total of 784 participants. Duration of treatment in the included studies 
+ranged from 12 days to six months, with open-label treatment for an additional 
+six months in two of the studies. Five studies compared mannitol with control (a 
+very low dose of mannitol or non-respirable mannitol) and the final study 
+compared mannitol to dornase alfa alone and to mannitol plus dornase alfa. Two 
+large studies had a similar parallel design and provided data for 600 
+participants, which could be pooled where data for a particular outcome and time 
+point were available. The remaining studies had much smaller sample sizes 
+(ranging from 22 to 95) and data could not be pooled due to differences in 
+design, interventions and population. Pooled evidence from the two large 
+parallel studies was judged to be of low to moderate quality and from the 
+smaller studies was judged to be of low to very low quality. In all studies, 
+there was an initial test to see if participants tolerated mannitol, with only 
+those who could tolerate the drug being randomised; therefore, the study results 
+are not applicable to the cystic fibrosis population as a whole. While the 
+published papers did not provide all the data required for our analysis, 
+additional unpublished data were provided by the drug's manufacturer and the 
+author of one of the studies. Pooling the large parallel studies comparing 
+mannitol to control, up to and including six months, lung function (forced 
+expiratory volume at one second) measured in both mL and % predicted was 
+significantly improved in the mannitol group compared to the control group 
+(moderate-quality evidence). Beneficial results were observed in these studies 
+in adults and in both concomitant dornase alfa users and non-users in these 
+studies. In the smaller studies, statistically significant improvements in lung 
+function were also observed in the mannitol groups compared to the 
+non-respirable mannitol groups; however, we judged this evidence to be of low to 
+very low quality. For the comparisons of mannitol and control, we found no 
+consistent differences in health-related quality of life in any of the domains 
+except for burden of treatment, which was less for mannitol up to four months in 
+the two pooled studies of a similar design; this difference was not maintained 
+at six months. It should be noted that the tool used to measure health-related 
+quality of life was not designed to assess mucolytics and pooling of the 
+age-appropriate tools (as done in some of the included studies) may not be valid 
+so results were judged to be low to very low quality and should be interpreted 
+with caution. Cough, haemoptysis, bronchospasm, pharyngolaryngeal pain and 
+post-tussive vomiting were the most commonly reported side effects in both 
+treatment groups. Where rates of adverse events could be compared, statistically 
+no significant differences were found between mannitol and control groups; 
+although some of these events may have clinical relevance for people with CF. 
+For the comparisons of mannitol to dornase alfa alone and to mannitol plus 
+dornase alfa, very low-quality evidence from a 12-week cross-over study of 28 
+participants showed no statistically significant differences in the recorded 
+domains of health-related quality of life or measures of lung function. Cough 
+was the most common side effect in the mannitol alone arm but there was no 
+occurrence of cough in the dornase alfa alone arm and the most commonly reported 
+reason of withdrawal from the mannitol plus dornase alfa arm was pulmonary 
+exacerbations. In terms of secondary outcomes of the review (pulmonary 
+exacerbations, hospitalisations, symptoms, sputum microbiology), evidence 
+provided by the included studies was more limited. For all comparisons, no 
+consistent statistically significant and clinically meaningful differences were 
+observed between mannitol and control treatments (including dornase alfa).
+AUTHORS' CONCLUSIONS: There is moderate-quality evidence to show that treatment 
+with mannitol over a six-month period is associated with an improvement in some 
+measures of lung function in people with cystic fibrosis compared to control. 
+There is low to very low-quality evidence suggesting no difference in quality of 
+life for participants taking mannitol compared to control. This review provides 
+very low-quality evidence suggesting no difference in lung function or quality 
+of life comparing mannitol to dornase alfa alone and to mannitol plus dornase 
+alfa. The clinical implications from this review suggest that mannitol could be 
+considered as a treatment in cystic fibrosis; but further research is required 
+in order to establish who may benefit most and whether this benefit is sustained 
+in the longer term. Furthermore, studies comparing its efficacy against other 
+(established) mucolytic therapies need to be undertaken before it can be 
+considered for mainstream practice.
+
+Publisher: پیشینه: عوامل دارویی متعددی برای پاک کردن ترشحات از مجاری هوایی 
+مبتلایان به فیبروز سیستیک استفاده می‌شوند. مانیتول پاکسازی موکوسیلیاری را افزایش 
+می‌دهد، اما مکانیسم دقیق عملکرد آن ناشناخته است. فرمولاسیون پودر خشک مانیتول در 
+مقایسه با عوامل تائید شده شده که توسط نبولایزر تجویز می‌شوند، ممکن است برای 
+استفاده، راحت‌تر و آسان‌تر باشد. کارآزمایی‌های فاز III پودر خشک استنشاقی مانیتول 
+برای درمان فیبروز سیستیک به پایان رسیده و هم اکنون در استرالیا و برخی از کشورهای 
+اروپایی در دسترس قرار دارد. این یک به‌روزرسانی از یک مرور کاکرین است که قبلا 
+منتشر شده است. اهداف: ارزیابی اینکه آیا پودر خشک استنشاقی مانیتول به خوبی تحمل 
+می‌شود، آیا کیفیت زندگی و عملکرد تنفسی را در افراد مبتلا به فیبروز سیستیک بهبود 
+می‌بخشد یا اینکه چه عوارض جانبی با درمان همراه است. روش‌های جست‌وجو: ما پایگاه 
+ثبت کارآزمایی‌های گروه فیبروز کیستیک و اختلالات ژنتیکی در کاکرین را جست‌وجو 
+کردیم که شامل منابع شناسایی‌شده از طریق جست‌وجوهای جامع در پایگاه‌های اطلاعاتی 
+الکترونیکی، جست‌وجوهای دستی در مجلات مربوطه، کتاب‌های چکیده و مجموعه مقالات 
+کنفرانس‌ها است. تاریخ آخرین جست‌وجو: 12 دسامبر 2019. معیارهای انتخاب: تمام 
+مطالعات تصادفی‌سازی و کنترل شده که به مقایسه مانیتول با دارونما (placebo)، 
+مقایسه کننده‌های استنشاقی فعال (به عنوان مثال، سالین هیپرتونیک یا دورناز آلفا) 
+یا عدم درمان پرداختند. گردآوری و تجزیه‌وتحلیل داده‌ها: نویسندگان به‌طور مستقل از 
+هم مطالعات را برای ورود ارزیابی کردند، داده‌‌ها را استخراج کرده و خطر سوگیری 
+(bias) را در مطالعات وارد شده ارزیابی کردند. کیفیت شواهد با استفاده از GRADE 
+ارزیابی شد. نتایج اصلی: شش مطالعه (گزارش شده در 36 مقاله تکی) با 784 شرکت‌کننده 
+وارد شدند. مدت زمان درمان در مطالعات وارد شده، از 12 روز تا شش ماه متغیر بود، با 
+درمان برچسب باز به مدت شش ماه بیشتر در دو مطالعه. پنج مطالعه مانیتول را با کنترل 
+(دوز بسیار کمی از مانیتول یا مانیتول غیرقابل تنفس) مقایسه کرده و مطالعه نهایی به 
+مقایسه مانیتول با دورناز آلفا به تنهایی و مانیتول به اضافه دورناز آلفا پرداخت. 
+دو مطالعه بزرگ از یک طراحی موازی مشابه برخوردار بوده و داده‌ها را برای 600 
+شرکت‌کننده ارائه کردند، که می‌توانست در جایی که داده‌ها برای یک پیامد و نقطه 
+زمانی خاص در دسترس بودند، تجمیع شوند. مطالعات باقیمانده حجم نمونه‌های بسیار 
+کمتری داشتند (از 22 تا 95) و به دلیل تفاوت‌ها در طراحی مطالعه، مداخلات و جمعیت، 
+داده‌ها قابل تجمیع نبودند. شواهد تجمعی از دو مطالعه موازی بزرگ، كیفیت پایین تا 
+متوسطی داشته و شواهد به دست آمده از مطالعات كوچكتر به نظر می‌رسید كه از كیفیت 
+پائین تا بسیار پائینی برخوردار بودند. در تمام مطالعات، آزمایش اولیه‌ای وجود داشت 
+تا مشخص شود که شرکت‌کنندگان قادر به تحمل مانیتول بودند یا خیر، فقط کسانی که 
+می‌توانستند دارو را تحمل کنند، تصادفی‌سازی شدند؛بنابراین، نتایج مطالعه برای کل 
+جمعیت مبتلا به فیبروز سیستیک کاربرد ندارند. در حالی که مقالات منتشر شده تمام 
+داده‌های مورد نیاز را برای تجزیه‌و‌تحلیل ما ارائه نمی‌دهند، داده‌های منتشر نشده 
+اضافی توسط سازنده دارو و نویسنده یکی از مطالعات ارائه شد. تجمیع مطالعات موازی 
+بزرگ که به مقایسه مانیتول با کنترل، تا شش ماه و شامل 6 ماه پرداختند، نشان دادند 
+که عملکرد ریه (حجم اجباری بازدمی در یک ثانیه)، اندازه‌گیری شده به هر دو صورت 
+میلی‌لیتر و درصد پیش‌بینی شده، در گروه مانیتول نسبت به گروه کنترل به‌طور قابل 
+توجهی بهبود یافت (شواهد با کیفیت متوسط). در این مطالعات نتایج مفیدی در بزرگسالان 
+و در هر دو گروه مصرف کننده همزمان دورناز آلفا و کسانی که از آن استفاده نکردند، 
+مشاهده شد. در مطالعات کوچکتر نیز پیشرفت‌های معنی‌داری از نظر آماری در عملکرد ریه 
+در گروه مانیتول در مقایسه با گروه‌های مانیتول غیرقابل تنفس مشاهده شد. با این 
+حال، این شواهد از کیفیت پایین تا بسیار پایینی برخوردار بودند. برای مقایسه‌های 
+مانیتول و کنترل، ما تفاوت‌های پایداری را در کیفیت زندگی مرتبط با سلامت در هیچ یک 
+از حوزه‌ها به جز بار (burden) درمان پیدا نکردیم، که برای مانیتول تا چهار ماه، در 
+دو مطالعه تجمیع شده با طراحی مشابه، کمتر بود؛ این اختلاف در شش ماه باقی نماند. 
+لازم به ذکر است که ابزار مورد استفاده برای سنجش کیفیت زندگی مرتبط با سلامت، که 
+برای ارزیابی موکولیتیک‌ها و ادغام ابزارهای مناسب سن (همانطور که در برخی از 
+مطالعات وارد شده انجام شد) طراحی نشده بود، ممکن است معتبر نباشد، بنابراین نتایج 
+با کیفیت پایین تا بسیار پایین داوری شدند و باید با احتیاط تفسیر شوند. سرفه، 
+هموپتیزی، برونکواسپاسم، درد فارنگولارنژیال و استفراغ پس از سرفه، شایع‌ترین عوارض 
+جانبی در هر دو گروه درمانی بودند. در جایی که میزان عوارض جانبی با هم قابل مقایسه 
+بودند، از نظر آماری تفاوت معنی‌داری بین مانیتول و گروه کنترل مشاهده نشد؛ اگرچه 
+برخی از این حوادث ممکن است ارتباط بالینی برای افراد مبتلا به CF داشته باشند. 
+برای مقایسه‌های مانیتول با دورناز آلفا به تنهایی و مانیتول به علاوه دورناز آلفا، 
+شواهدی با کیفیت بسیار پایین از یک مطالعه متقاطع 12 هفته‌ای با 28 شرکت‌کننده به 
+دست آمد که هیچ تفاوت آماری معنی‌داری را در حوزه‌های ثبت شده کیفیت زندگی مرتبط با 
+سلامت یا معیارهای عملکرد ریه نشان ندادند. سرفه شایع‌ترین عارضه جانبی در بازوی 
+مانیتول به تنهایی بود اما هیچ موردی از وقوع سرفه در بازوی دورناز آلفا به تنهایی 
+وجود نداشت و شایع‌ترین دلیل خروج از بازوی مانیتول به علاوه دورناز آلفا، تشدید 
+حملات ریوی گزارش شد. از نظر پیامدهای ثانویه مرور (تشدید حملات ریوی، بستری در 
+بیمارستان، علائم، میکروبیولوژی خلط)، شواهد ارائه شده توسط مطالعات وارد شده، 
+محدودتر بودند. برای همه مقایسه‌ها، هیچ تفاوتی معنی‌دار آماری پایداری و تفاوت 
+بالینی قابل‌توجهی بین درمان‌های مانیتول و کنترل (از جمله دورناز آلفا) مشاهده 
+نشد. نتیجه‌گیری‌های نویسندگان: شواهدی با کیفیت متوسط وجود دارد که نشان می‌دهد 
+درمان با مانیتول در طول یک دوره شش ماهه، با بهبود برخی معیارهای عملکرد ریه در 
+افراد مبتلا به فیبروز سیستیک در مقایسه با کنترل همراه است. شواهدی با کیفیت پایین 
+تا بسیار پایین وجود دارد که نشان می‌دهد هیچ تفاوتی در کیفیت زندگی شرکت‌کنندگان 
+تحت درمان با مانیتول در مقایسه با کنترل، وجود ندارد. این مرور شواهدی را با کیفیت 
+بسیار پائین نشان می‌دهد که هیچ تفاوتی در عملکرد ریه یا کیفیت زندگی در مقایسه 
+مانیتول با دورناز آلفا به تنهایی و با مانیتول به همراه دورناز آلفا وجود ندارد. 
+کاربردهای بالینی این مرور پیشنهاد می‌کند که مانیتول می‌تواند به عنوان درمانی در 
+فیبروز سیستیک در نظر گرفته شود؛ اما تحقیقات بیشتری لازم است تا مشخص شود چه کسی 
+بیشترین نفع را از آن می‌برد و اینکه این سود در طولانی‌مدت پایدار است یا خیر. 
+علاوه بر این، پیش از آنکه مانیتول در طبابت بالینی به کار گرفته شود، مطالعات 
+مربوط به مقایسه اثربخشی آن در برابر سایر روش‌های درمانی موکولیتیک (اثبات شده) 
+باید انجام شوند.
+
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, 
+Ltd.
+
+DOI: 10.1002/14651858.CD008649.pub4
+PMCID: PMC7195814
+PMID: 32358807 [Indexed for MEDLINE]
+
+Conflict of interest statement: Sarah Nevitt has no potential conflict of 
+interest to declare. Dr Murray was local principal investigator (and thus 
+recruiting participants) for an inhaled mannitol study run by Pharmaxis. Her 
+institution was paid on a per‐participant basis for participants recruited to 
+the study, but she herself did not benefit financially for running the study. Dr 
+Thornton was pharmacist at one site for a clinical study of inhaled mannitol in 
+children and young people with CF in the UK. Dr Thornton’s main employment is 
+with NICE, Centre for Guidelines. NICE Centre for Health Technology Evaluation, 
+have published an appraisal of mannitol in CF. The Centre for Guidelines have 
+published a guideline for the management of CF which includes mannitol. Dr 
+Thornton is also a member of the GRADE working group. Tiffany Dwyer declares she 
+has worked on a trial of hypertonic saline in people with cystic fibrosis and 
+another trial in non‐cystic fibrosis bronchiectasis. Hypertonic saline is a 
+mucolytic agent that works similarly to inhaled mannitol.
+
+
+7. Trials. 2020 Jun 19;21(1):548. doi: 10.1186/s13063-020-04488-8.
+
+Efficacy and safety of aerosolized intra-tracheal dornase alfa administration in 
+patients with SARS-CoV-2-induced acute respiratory distress syndrome (ARDS): a 
+structured summary of a study protocol for a randomised controlled trial.
+
+Desilles JP(1)(2)(3), Gregoire C(4), Le Cossec C(5), Lambert J(5), Mophawe O(5), 
+Losser MR(6), Lambiotte F(7), Le Tacon S(8), Cantier M(4), Engrand N(4), 
+Trouiller P(4), Pottecher J(9)(10).
+
+Author information:
+(1)Biological Resource Center, Interventional Neuroradiology Department, 
+Rothschild Foundation Hospital, Paris, France. jpdesilles@for.paris.
+(2)Laboratory of Vascular Translational Science, U1148 INSERM, Université de 
+Paris, Paris, France. jpdesilles@for.paris.
+(3)Program in Cellular and Molecular Medicine, Boston Children's Hospital, 
+Harvard Medical School, Boston, MA, 02115, USA. jpdesilles@for.paris.
+(4)Intensive Care Department, Rothschild Foundation Hospital, Paris, France.
+(5)Clinical Research Unit, Rothschild Foundation Hospital, Paris, France.
+(6)CHRU Nancy, Pôle d'Anesthésie-Réanimation, 29 Avenue de Lattre de Tassigny, 
+54000, Nancy, France.
+(7)Service de Réanimation Polyvalente, Centre Hospitalier de Valenciennes, 
+Avenue Désandrouin, 59322, Valenciennes, France.
+(8)CHR Metz-Thionville-Site de Mercy, Service de Réanimation Polyvalente, 1 
+Allée du Château, 57350, Ars-Laquenexy, France.
+(9)Hôpitaux Universitaires de Strasbourg, Hôpital de Hautepierre, Service 
+d'Anesthésie-Réanimation Chirurgicale, 1 Avenue Molière, 67098, Strasbourg, 
+France.
+(10)Université de Strasbourg, Faculté de Médecine, Fédération de Médecine 
+Translationnelle de Strasbourg (FMTS), EA3072, Strasbourg, France.
+
+OBJECTIVES: Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) may 
+trigger severe pneumonia in coronavirus disease of 2019 (COVID-19) patients 
+through release of damage-associated molecular patterns (DAMPs) and recruitment 
+of neutrophils in the lungs. Activated neutrophils induce inflammation and 
+severe alveolar injury by releasing neutrophil extracellular traps (NETs). The 
+backbones of many DAMPs and NETs are made of extracellular, cell-free DNA 
+decorated with highly toxic compounds such as elastase, myeloperoxidase and 
+citrullinated histones. Dornase alfa is a FDA-approved recombinant human DNAse 1 
+for the treatment of cystic fibrosis, which cleaves extracellular DNA and may 
+break up cell-free DNA, loosening sticky mucus in the distal airways and 
+reducing NETs-induced toxicity on alveolar pneumocytes. The COVIDornase trial 
+intends to define the impact of aerosolized intra-tracheal dornase alfa 
+administration on the severity and progression of acute respiratory distress 
+syndrome (ARDS) in COVID-19 patients. This drug might make lung mucus thinner 
+and looser, promoting improved clearance of secretions and reduce extracellular 
+double-stranded DNA-induced hyperinflammation in alveoli, preventing further 
+damage to the lungs.
+TRIAL DESIGN: COVIDornase is a prospective, randomized, controlled, 2-arm (1:1 
+ratio), multicentric, open-label clinical trial.
+PARTICIPANTS: The study will recruit mechanically ventilated patients 
+hospitalized in the intensive care unit (ICU) in the recruiting centres (at the 
+time of writing: The Rothschild foundation hospital in Paris, the Strasbourg 
+university hospitals, and Metz-Thionville hospital) who have been diagnosed with 
+COVID-19 and meet ARDS criteria.
+INCLUSION CRITERIA: - Adult patient (age ≥ 18 years old); - Hospitalized in ICU; 
+- With severe COVID-19 pneumonia and ARDS according to Berlin criteria 
+(PaO2/FiO2 < 300 and PEEP > 5 cmH2O); - Intubated for less than 8 days; - With 
+an anticipated duration of mechanical ventilation > 48 hours; - Carrier of an 
+arterial catheter; - For whom 4 PaO2/FiO2 values over the preceding 24 hours are 
+available; NON-INCLUSION CRITERIA: - Known hypersensitivity to dornase alfa or 
+any of its excipients; - Pregnant or breastfeeding status; - Patient under legal 
+protection.
+INTERVENTION AND COMPARATOR: Intervention 1, Study group Dornase alfa 
+(Pulmozyme®, Roche, Switzerland) will be administered by aerosol, at a dose of 
+2500 IU twice daily, 12 hours apart, for 7 consecutive days, using a vibrating 
+mesh nebulizer (Aerogen Solo®, Aerogen, Ireland). The remainder of the 
+management will be performed in accordance with good clinical practice, 
+including mechanical ventilation (protective ventilation, PEEP > 5 cmH2O, 
+tracheal balloon pressure check every 4 hours or automatic device, 30° head of 
+the bed elevation, tidal volume 6-8mL/kg, plateau pressure < 30 cmH2O), 
+neuromuscular blockers if necessary, prone position if PaO2/FiO2 < 150, early 
+enteral nutrition, glycemic control and a sedation protocol based on the RASS 
+score. Intervention 2, Comparator Patients will receive usual care in accordance 
+with good practice (as detailed above), without aerosols.
+MAIN OUTCOMES: The primary outcome is the occurrence of at least one grade 
+improvement between D0 (inclusion) and D7 in the ARDS scale severity (Berlin 
+criteria). For instance from "severe" to "moderate" or from "moderate" to 
+"mild".
+RANDOMISATION: All consecutive patients meeting the inclusion criteria will be 
+randomised 1:1 using an eCRF-based, computer-generated randomisation table, 
+either to the dornase alfa arm or to the control arm. An interim analysis will 
+be performed after inclusion of 20 patients. Inclusions may be stopped at the 
+interim analysis per data safety and monitoring board (DSMB) advice, if 
+statistical analyses conclude on the futility or efficacy of the intervention or 
+by other DSMB decision.
+BLINDING (MASKING): The participants and caregivers will not be blinded to study 
+group assignment. Those assessing the outcomes will be blinded to study group 
+assignment.
+NUMBERS TO BE RANDOMISED (SAMPLE SIZE): Fifty patients will be randomized to 
+each group, 100 patients in total.
+TRIAL STATUS: Protocol version number 2, April 29th, 2020. Recruitment is 
+ongoing. The trial started recruitment on the 21st April 2020. We estimate 
+recruitment will finish August 21st 2020.
+TRIAL REGISTRATION: The trial was registered in ClinicalTrials.gov on 21 April 
+2020, updated on 8 May 2020. Trial registration number is NCT04355364.
+FULL PROTOCOL: The full protocol is attached as an additional file, accessible 
+from the Trials website (Additional file 1). In the interest in expediting 
+dissemination of this material, the familiar formatting has been eliminated. 
+This Letter serves as a summary of the key elements of the full protocol.
+
+DOI: 10.1186/s13063-020-04488-8
+PMCID: PMC7303591
+PMID: 32560746 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+8. Curr Opin Pulm Med. 2012 Nov;18(6):609-14. doi: 10.1097/MCP.0b013e328358d51f.
+
+Dornase alfa (Pulmozyme).
+
+Wagener JS(1), Kupfer O.
+
+Author information:
+(1)Department of Pediatrics, University of Colorado School of Medicine and 
+Children's Hospital Colorado, Aurora, Colorado 80045, USA. 
+jeff.wagener@ucdenver.edu
+
+PURPOSE OF REVIEW: Dornase alfa (Pulmozyme) is one of the most commonly used 
+medications to treat the lung disease of cystic fibrosis (CF). As other 
+respiratory medications have entered the clinical market, understanding the 
+proper use and indication for dornase alfa is increasingly important. In 
+addition, dornase alfa is being used to treat other medical conditions. This 
+review covers recent publications and expanding indications.
+RECENT FINDINGS: Understanding dornase alfa's mechanism of action and impact on 
+the pathophysiology of CF leads to an improved understanding of optimal therapy, 
+ways to improve adherence and use with other medications. Most importantly, 
+routine use of dornase alfa is associated with improved lung function and 
+survival in patients with CF. Outside of CF, potential uses include treating 
+patients with empyema or on mechanical ventilation.
+SUMMARY: Dornase alfa has been available for clinical use for nearly 20 years 
+and is one of the most commonly used medications in patients with CF. Routine 
+use is associated with a reduced rate of pulmonary deterioration and improved 
+survival. Recent clinical reports suggest that dornase alfa may have clinical 
+value with other medical problems such as complicated pneumonia and mechanically 
+ventilated patients with atelectasis.
+
+DOI: 10.1097/MCP.0b013e328358d51f
+PMID: 22990660 [Indexed for MEDLINE]
+
+
+9. Cochrane Database Syst Rev. 2016 Apr 4;4:CD001127. doi: 
+10.1002/14651858.CD001127.pub3.
+
+Dornase alfa for cystic fibrosis.
+
+Yang C(1), Chilvers M, Montgomery M, Nolan SJ.
+
+Author information:
+(1)Department of Pediatrics, Division of Respiratory Medicine, BC Children's 
+Hospital, 4480 Oak Street, Vancouver, BC, Canada, V6H 3V4.
+
+Update in
+    Cochrane Database Syst Rev. 2018 Sep 06;9:CD001127.
+
+Update of
+    Cochrane Database Syst Rev. 2010;(3):CD001127.
+
+BACKGROUND: Dornase alfa is currently used as a mucolytic to treat pulmonary 
+disease (the major cause of morbidity and mortality) in cystic fibrosis. It 
+reduces mucus viscosity in the lungs, promoting improved clearance of 
+secretions. This is an update of a previously published review.
+OBJECTIVES: To determine whether the use of dornase alfa in cystic fibrosis is 
+associated with improved mortality and morbidity compared to placebo or other 
+medications that improve airway clearance, and to identify any adverse events 
+associated with its use.
+SEARCH METHODS: We searched the Cochrane Cystic Fibrosis and Genetic Disorders 
+Group Trials Register which comprises references identified from comprehensive 
+electronic database searches, handsearching relevant journals and abstracts from 
+conferences. Date of the most recent search of the Group's Cystic Fibrosis 
+Register: 30 November 2015.Clinicaltrials.gov was also searched to identify 
+unpublished or ongoing trials. Date of most recent search: 28 November 2015.
+SELECTION CRITERIA: All randomised and quasi-randomised controlled trials 
+comparing dornase alfa to placebo, standard therapy or other medications that 
+improve airway clearance.
+DATA COLLECTION AND ANALYSIS: Authors independently assessed trials against the 
+inclusion criteria; two authors carried out analysis of methodological quality 
+and data extraction.
+MAIN RESULTS: The searches identified 54 trials, of which 19 (including a total 
+of 2565 participants) met our inclusion criteria. Three additional papers 
+examined the healthcare cost from one of the clinical trials. Fifteen trials 
+compared dornase alfa to placebo or no dornase alfa treatment (2447 
+participants); two compared daily dornase to hypertonic saline (32 
+participants); one compared daily dornase alfa with hypertonic saline and 
+alternate day dornase alfa (48 participants); one compared dornase alfa to 
+mannitol and the combination of both drugs (38 participants). Trial duration 
+varied from six days to three years.Compared to placebo, forced expiratory 
+volume at one second improved in the intervention groups, with significant 
+differences at one, three, six months and two years. There was also a 
+significant improvement in lung clearance index at one month. There was a 
+decrease in pulmonary exacerbations compared to placebo in trials of longer 
+duration. The quality of the evidence from placebo-controlled trials was 
+moderate to high for outcomes of lung function and pulmonary exacerbations. 
+Limited, low quality evidence was available for changes in quality of life from 
+baseline. One trial that examined the cost of care, including the cost of 
+dornase alfa, found that the cost savings from dornase alfa offset 18% to 38% of 
+the medication costs.The results for trials comparing dornase alfa to other 
+medications that improve airway clearance (hypertonic saline or mannitol) were 
+mixed, with one trial showing a greater improvement in forced expiratory volume 
+at one second for dornase alfa compared to hypertonic saline, and three trials 
+finding no difference between medications. In the only trial to assess the 
+combination of dornase alfa with another medication compared to dornase alone, 
+there was no benefit seen with the combination of dornase alfa and mannitol. 
+Evidence of dornase alfa compared to other medications was limited and the 
+open-label design of the trials may have induced bias, therefore the quality of 
+the evidence was judged to be low.Dornase alfa did not cause significantly more 
+adverse effects, except voice alteration and rash.
+AUTHORS' CONCLUSIONS: There is evidence to show that, compared with placebo, 
+therapy with dornase alfa improves lung function in people with cystic fibrosis 
+in trials lasting one month to two years. There was a decrease in pulmonary 
+exacerbations in trials of six months or longer. Voice alteration and rash 
+appear to be the only adverse events reported with increased frequency in 
+randomised controlled trials. There is not enough evidence to firmly conclude if 
+dornase alfa is superior to hyperosmolar agents in improving lung function.
+
+DOI: 10.1002/14651858.CD001127.pub3
+PMID: 27043279 [Indexed for MEDLINE]
+
+
+10. Dornase Alfa.
+
+Drugs and Lactation Database (LactMed) [Internet]. Bethesda (MD): National 
+Library of Medicine (US); 2006–.
+2018 Dec 3.
+
+No information is available on the clinical use of dornase alpha (hamster) 
+during breastfeeding. Because it is a large protein molecule with a molecular 
+weight of about 37,000, the amount in milk is likely to be very low and 
+absorption is unlikely because it is probably destroyed in the infant's 
+gastrointestinal tract.
+
+PMID: 29999662

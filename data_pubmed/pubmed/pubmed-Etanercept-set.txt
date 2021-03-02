@@ -1,0 +1,1053 @@
+PMID- 29482402
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190624
+LR  - 20190624
+IS  - 1750-7448 (Electronic)
+IS  - 1750-743X (Linking)
+VI  - 10
+IP  - 6
+DP  - 2018 Mar 1
+TI  - Etanercept for the treatment of rheumatoid arthritis.
+PG  - 433-445
+LID - 10.2217/imt-2017-0155 [doi]
+AB  - Etanercept was the first specific anticytokine therapy approved for the treatment of 
+      rheumatoid arthritis (RA). Its clinical efficacy and safety has been demonstrated by 
+      several clinical trials in early as well as established disease. Etanercept, along 
+      with other TNF inhibitors, have revolutionized management of RA and dramatically 
+      improved disease activity, function, quality of life and mortality for these 
+      patients. It is structurally distinct from other TNF inhibitors and thus has 
+      desirable profiles for immunogenicity, drug survival and infection rate. With the 
+      increasing number of etanercept biosimilars, there will likely be a resurgence of 
+      their prescription. This article reviews the pharmacology, efficacy and safety of 
+      the etanercept reference product, and its biosimilars, in the context of RA 
+      treatment.
+FAU - Zhao, Sizheng
+AU  - Zhao S
+AD  - Institute of Ageing and Chronic Disease, University of Liverpool, Aintree University 
+      Hospital, Longmoor Lane, Liverpool, L9 7AL, UK.
+FAU - Mysler, Eduardo
+AU  - Mysler E
+AD  - Organización Medica de Investigación, Buenos Aires, Argentina.
+FAU - Moots, Robert J
+AU  - Moots RJ
+AD  - Institute of Ageing and Chronic Disease, University of Liverpool, Aintree University 
+      Hospital, Longmoor Lane, Liverpool, L9 7AL, UK.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20180227
+PL  - England
+TA  - Immunotherapy
+JT  - Immunotherapy
+JID - 101485158
+RN  - 0 (Antirheumatic Agents)
+RN  - 0 (Biosimilar Pharmaceuticals)
+RN  - 0 (Tumor Necrosis Factor-alpha)
+RN  - OP401G7OJC (Etanercept)
+SB  - IM
+MH  - Animals
+MH  - Antirheumatic Agents/*therapeutic use
+MH  - Arthritis, Rheumatoid/*drug therapy
+MH  - Biosimilar Pharmaceuticals/*therapeutic use
+MH  - Etanercept/pharmacology/*therapeutic use
+MH  - Humans
+MH  - Quality of Life
+MH  - Treatment Outcome
+MH  - Tumor Necrosis Factor-alpha/antagonists & inhibitors
+OTO - NOTNLM
+OT  - *Enbrel
+OT  - *GP2015
+OT  - *SB4
+OT  - *anti-TNF
+OT  - *biosimilar
+OT  - *efficacy
+OT  - *etanercept
+OT  - *pharmacology
+OT  - *rheumatoid arthritis
+OT  - *safety
+EDAT- 2018/02/28 06:00
+MHDA- 2019/06/25 06:00
+CRDT- 2018/02/28 06:00
+PHST- 2018/02/28 06:00 [pubmed]
+PHST- 2019/06/25 06:00 [medline]
+PHST- 2018/02/28 06:00 [entrez]
+AID - 10.2217/imt-2017-0155 [doi]
+PST - ppublish
+SO  - Immunotherapy. 2018 Mar 1;10(6):433-445. doi: 10.2217/imt-2017-0155. Epub 2018 Feb 
+      27.
+
+PMID- 30616405
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190607
+LR  - 20190607
+IS  - 1744-7682 (Electronic)
+IS  - 1471-2598 (Linking)
+VI  - 19
+IP  - 3
+DP  - 2019 Mar
+TI  - Etanercept biosimilar SB-4.
+PG  - 173-179
+LID - 10.1080/14712598.2019.1566456 [doi]
+AB  - Biosimilars are highly similar molecules to other biological medicines that have 
+      already been authorized for use. Etanercept (ETN) was the first anti-tumor necrosis 
+      factor inhibitor (TNFi) approved by the Food and Drug Administration for the 
+      treatment of moderate to severe rheumatoid arthritis (RA) in November 1998 and in 
+      February 2000 by the European Medicines Agency. Twenty years later, the first ETN 
+      biosimilar has come of age. Areas covered: In this review we examined SB-4 as a 
+      biosimilar candidate to ETN, focusing on the available data. Current data indicate 
+      that SB-4 is a highly similar alternative to ETN in terms of safety, efficacy, 
+      tolerability, and immunogenicity. SB-4 has already been approved by health 
+      authorities in Europe, South Korea, Australia, and Canada, as a subcutaneous therapy 
+      option for the treatment of patients with RA but also for the full spectrum approved 
+      for its bio-originator ETN. Expert opinion: The current body of evidence suggests 
+      that all biologic activities have been demonstrated to be equivalent between SB-4 
+      and the originator, including pharmacodynamic and pharmacokinetic activities. In 
+      some areas, and more specifically when it comes to immunogenicity, SB-4 showed lower 
+      incidents. Therefore, it is fully expected to have same efficacy and safety in all 
+      indications.
+FAU - Pelechas, Eleftherios
+AU  - Pelechas E
+AUID- ORCID: 0000-0002-9383-5722
+AD  - a Rheumatology Clinic, Department of Internal Medicine, Medical School , University 
+      of Ioannina , Ioannina , Greece.
+FAU - Drosos, Alexandros A
+AU  - Drosos AA
+AUID- ORCID: 0000-0002-2232-0326
+AD  - a Rheumatology Clinic, Department of Internal Medicine, Medical School , University 
+      of Ioannina , Ioannina , Greece.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20190111
+PL  - England
+TA  - Expert Opin Biol Ther
+JT  - Expert opinion on biological therapy
+JID - 101125414
+RN  - 0 (Biosimilar Pharmaceuticals)
+RN  - 0 (Tumor Necrosis Factor-alpha)
+RN  - OP401G7OJC (Etanercept)
+SB  - IM
+MH  - Adult
+MH  - Arthritis, Rheumatoid/*drug therapy
+MH  - Biosimilar Pharmaceuticals/pharmacokinetics/pharmacology/*therapeutic use
+MH  - Child, Preschool
+MH  - Drug Approval
+MH  - Drug Evaluation
+MH  - Etanercept/pharmacokinetics/pharmacology/*therapeutic use
+MH  - Humans
+MH  - Infant
+MH  - Tumor Necrosis Factor-alpha/*antagonists & inhibitors
+OTO - NOTNLM
+OT  - *SB-4
+OT  - *biologics
+OT  - *biosimilar
+OT  - *etanercept
+OT  - *monoclonal antibody
+EDAT- 2019/01/09 06:00
+MHDA- 2019/06/08 06:00
+CRDT- 2019/01/09 06:00
+PHST- 2019/01/09 06:00 [pubmed]
+PHST- 2019/06/08 06:00 [medline]
+PHST- 2019/01/09 06:00 [entrez]
+AID - 10.1080/14712598.2019.1566456 [doi]
+PST - ppublish
+SO  - Expert Opin Biol Ther. 2019 Mar;19(3):173-179. doi: 10.1080/14712598.2019.1566456. 
+      Epub 2019 Jan 11.
+
+PMID- 30411183
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191021
+LR  - 20191022
+IS  - 1534-6307 (Electronic)
+IS  - 1523-3774 (Print)
+IS  - 1523-3774 (Linking)
+VI  - 20
+IP  - 12
+DP  - 2018 Nov 9
+TI  - Review of Biosimilar Trials and Data on Etanercept in Rheumatoid Arthritis.
+PG  - 84
+LID - 10.1007/s11926-018-0799-0 [doi]
+LID - 84
+AB  - PURPOSE OF REVIEW: Etanercept was the first tumour necrosis factor inhibitor 
+      approved to treat rheumatoid arthritis (RA) in the United States (US) and Europe. 
+      The recent patent expiration of the etanercept originator ENBREL in Europe has 
+      facilitated the development of biosimilar products, creating the prospect of reduced 
+      treatment costs. In this article, we review the original trials for etanercept in RA 
+      to facilitate critical appraisal of biosimilar trial data. RECENT FINDINGS: Two 
+      etanercept biosimilars are currently approved in Europe and/or the US, SB4 
+      (Benepali) and GP2015 (Erelzi), having met the pre-specified equivalence criteria 
+      for biosimilarity. Trial data demonstrates subtle differences in clinical outcomes 
+      and adverse events between the biosimilars and the reference product (RP). The 
+      development of etanercept biosimilars may reduce the financial burden of treating 
+      RA, but real-world data regarding efficacy and safety in comparison to the RP will 
+      be vital to assess for meaningful differences.
+FAU - Chadwick, Laura
+AU  - Chadwick L
+AD  - Institute of Ageing and Chronic Disease, University of Liverpool, Aintree University 
+      Hospital, Longmoor Lane, Liverpool, L9 7AL, UK.
+FAU - Zhao, Sizheng
+AU  - Zhao S
+AD  - Institute of Ageing and Chronic Disease, University of Liverpool, Aintree University 
+      Hospital, Longmoor Lane, Liverpool, L9 7AL, UK.
+FAU - Mysler, Eduardo
+AU  - Mysler E
+AD  - Organización Medica de Investigación, Buenos Aires, Argentina.
+FAU - Moots, Robert J
+AU  - Moots RJ
+AD  - Institute of Ageing and Chronic Disease, University of Liverpool, Aintree University 
+      Hospital, Longmoor Lane, Liverpool, L9 7AL, UK. rjmoots@liv.ac.uk.
+AD  - Department of Musculoskeletal Biology I, Institute of Ageing and Chronic Disease, 
+      Aintree University Hospital, Clinical Sciences Centre, Longmoor Lane, Liverpool, L9 
+      7AL, UK. rjmoots@liv.ac.uk.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20181109
+TA  - Curr Rheumatol Rep
+JT  - Current rheumatology reports
+JID - 100888970
+RN  - 0 (Antirheumatic Agents)
+RN  - 0 (Biosimilar Pharmaceuticals)
+RN  - OP401G7OJC (Etanercept)
+SB  - IM
+MH  - Antirheumatic Agents/*therapeutic use
+MH  - Arthritis, Rheumatoid/*drug therapy
+MH  - Biosimilar Pharmaceuticals/*therapeutic use
+MH  - Clinical Trials as Topic
+MH  - Etanercept/*therapeutic use
+MH  - Humans
+MH  - United States
+PMC - PMC6244902
+OTO - NOTNLM
+OT  - *Benepali
+OT  - *Biosimilar
+OT  - *ENBREL
+OT  - *Erelzi
+OT  - *Etanercept
+OT  - *Rheumatoid arthritis
+COIS- CONFLICTS OF INTEREST: EM has received research grants, funding and has been an 
+      advisor for Abbvie, BMS, Gema, Lilly, Novartis, Pfizer, Sandoz, Sanofi and Roche. 
+      RJM has received research grant funding, acted as a scientific advisor to or spoken 
+      at meetings sponsored by Abbvie, AKL, Biogen, BMS, Chugai, Eli Lilly, Genzyme, 
+      Hospira, MSD, Novartis, Pfizer, Regeneron, Roche, Sandoz, Sanofi and UCB Pharma; 
+      funding includes both bio-originator and biosimilar companies. HUMAN AND ANIMAL 
+      RIGHTS AND INFORMED CONSENT: This article does not contain any studies with human or 
+      animal subjects performed by any of the authors.
+EDAT- 2018/11/10 06:00
+MHDA- 2019/10/23 06:00
+CRDT- 2018/11/10 06:00
+PHST- 2018/11/10 06:00 [entrez]
+PHST- 2018/11/10 06:00 [pubmed]
+PHST- 2019/10/23 06:00 [medline]
+AID - 10.1007/s11926-018-0799-0 [pii]
+AID - 799 [pii]
+AID - 10.1007/s11926-018-0799-0 [doi]
+PST - epublish
+SO  - Curr Rheumatol Rep. 2018 Nov 9;20(12):84. doi: 10.1007/s11926-018-0799-0.
+
+PMID- 30747501
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200106
+LR  - 20200309
+IS  - 2326-5205 (Electronic)
+IS  - 2326-5191 (Print)
+IS  - 2326-5191 (Linking)
+VI  - 71
+IP  - 7
+DP  - 2019 Jul
+TI  - Etanercept and Methotrexate as Monotherapy or in Combination for Psoriatic 
+      Arthritis: Primary Results From a Randomized, Controlled Phase III Trial.
+PG  - 1112-1124
+LID - 10.1002/art.40851 [doi]
+AB  - OBJECTIVE: To examine the efficacy of methotrexate monotherapy relative to 
+      etanercept monotherapy and the value of combining methotrexate and etanercept for 
+      the treatment of patients with psoriatic arthritis (PsA). METHODS: In this 
+      double-blind study, 851 patients with PsA were randomized to 1 of 3 treatment arms, 
+      as follows: oral methotrexate (20 mg) plus subcutaneous placebo given weekly (n = 
+      284), subcutaneous etanercept (50 mg) plus oral placebo given weekly (n = 284), or 
+      subcutaneous etanercept (50 mg) plus oral methotrexate (20 mg) given weekly 
+      (combination therapy; n = 283). The American College of Rheumatology 20% improvement 
+      (ACR20) response and Minimal Disease Activity (MDA) response at week 24 were the 
+      primary end point and key secondary end point, respectively. Other measures of 
+      inflammatory arthritis, radiographic progression, and nonarticular disease 
+      manifestations were also assessed. RESULTS: Patients with PsA had a mean ± SD age of 
+      48.4 ± 13.1 years, and the mean ± SD duration of PsA was 3.2 ± 6.3 years (median 0.6 
+      years). ACR20 and MDA response rates at week 24 were significantly greater in 
+      patients who received etanercept monotherapy compared with those who received 
+      methotrexate monotherapy (ACR20, 60.9% versus 50.7% of patients [P = 0.029]; MDA, 
+      35.9% versus 22.9% of patients [P = 0.005]), and both were significantly greater in 
+      the combination therapy group compared with the methotrexate monotherapy group at 
+      week 24 (ACR20, 65.0% versus 50.7% of patients [P = 0.005]; MDA, 35.7% versus 22.9% 
+      of patients [P = 0.005]). Other secondary outcomes (ACR50 and ACR70 response rates, 
+      proportions of patients achieving a Very Low Disease Activity score, and PsA disease 
+      activity scores) showed between-group differences that were consistent with the 
+      primary and key secondary end point results. Furthermore, patients in both 
+      etanercept treatment arms showed less radiographic progression at week 48 compared 
+      with patients who received methotrexate monotherapy. Outcomes were similar in the 
+      combination therapy and etanercept monotherapy groups, except for some skin end 
+      points. No new safety signals were seen. CONCLUSION: Etanercept monotherapy and 
+      combination therapy with etanercept and methotrexate showed greater efficacy than 
+      methotrexate monotherapy in patients with PsA, according to the ACR and MDA response 
+      rates and extent of radiographic progression at follow-up. Overall, combining 
+      methotrexate and etanercept did not improve the efficacy of etanercept.
+CI  - © 2019 The Authors. Arthritis & Rheumatology published by Wiley Periodicals, Inc. on 
+      behalf of American College ofRheumatology.
+FAU - Mease, Philip J
+AU  - Mease PJ
+AD  - Swedish Medical Center/Providence St. Joseph Health and the University of 
+      Washington, Seattle, Washington.
+FAU - Gladman, Dafna D
+AU  - Gladman DD
+AD  - University of Toronto, Toronto, Ontario, Canada.
+FAU - Collier, David H
+AU  - Collier DH
+AD  - Amgen Inc., Thousand Oaks, California.
+FAU - Ritchlin, Christopher T
+AU  - Ritchlin CT
+AD  - University of Rochester Medical Center, Rochester, New York.
+FAU - Helliwell, Philip S
+AU  - Helliwell PS
+AD  - University of Leeds, Leeds, UK.
+FAU - Liu, Lyrica
+AU  - Liu L
+AD  - Amgen Inc., Thousand Oaks, California.
+FAU - Kricorian, Gregory
+AU  - Kricorian G
+AD  - Amgen Inc., Thousand Oaks, California.
+FAU - Chung, James B
+AU  - Chung JB
+AD  - Amgen Inc., Thousand Oaks, California.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT02376790
+PT  - Clinical Trial, Phase III
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190528
+TA  - Arthritis Rheumatol
+JT  - Arthritis & rheumatology (Hoboken, N.J.)
+JID - 101623795
+RN  - 0 (Antirheumatic Agents)
+RN  - 0 (Tumor Necrosis Factor Inhibitors)
+RN  - OP401G7OJC (Etanercept)
+RN  - YL5FZ2Y5U1 (Methotrexate)
+SB  - AIM
+SB  - IM
+CIN - Arthritis Rheumatol. 2019 Jul;71(7):1027-1029. PMID: 30816631
+CIN - Arthritis Rheumatol. 2019 Nov;71(11):1965-1966. PMID: 31271526
+CIN - Arthritis Rheumatol. 2020 Jul;72(7):1229-1230. PMID: 32266796
+CIN - Arthritis Rheumatol. 2020 Jul;72(7):1227-1229. PMID: 32336032
+MH  - Adult
+MH  - Antirheumatic Agents/*therapeutic use
+MH  - Arthritis, Psoriatic/*drug therapy
+MH  - Double-Blind Method
+MH  - Drug Therapy, Combination
+MH  - Etanercept/*therapeutic use
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Methotrexate/*therapeutic use
+MH  - Middle Aged
+MH  - Tumor Necrosis Factor Inhibitors/*therapeutic use
+PMC - PMC6618246
+EDAT- 2019/02/13 06:00
+MHDA- 2020/01/07 06:00
+CRDT- 2019/02/13 06:00
+PHST- 2018/11/09 00:00 [received]
+PHST- 2019/02/05 00:00 [accepted]
+PHST- 2019/02/13 06:00 [pubmed]
+PHST- 2020/01/07 06:00 [medline]
+PHST- 2019/02/13 06:00 [entrez]
+AID - ART40851 [pii]
+AID - 10.1002/art.40851 [doi]
+PST - ppublish
+SO  - Arthritis Rheumatol. 2019 Jul;71(7):1112-1124. doi: 10.1002/art.40851. Epub 2019 May 
+      28.
+
+PMID- 28940172
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180628
+LR  - 20190725
+IS  - 1179-190X (Electronic)
+IS  - 1173-8804 (Print)
+IS  - 1173-8804 (Linking)
+VI  - 31
+IP  - 6
+DP  - 2017 Dec
+TI  - GP2015: An Etanercept Biosimilar.
+PG  - 555-558
+LID - 10.1007/s40259-017-0246-1 [doi]
+AB  - GP2015 is the second biosimilar of the reference p75 TNF receptor-Fc fusion protein 
+      etanercept. It is approved for use in all indications for which reference etanercept 
+      is approved, including rheumatoid arthritis, juvenile idiopathic arthritis, 
+      psoriatic arthritis, ankylosing spondylitis, non-radiographic axial 
+      spondyloarthritis, plaque psoriasis and paediatric plaque psoriasis. GP2015 has 
+      similar physiochemical and pharmacodynamic properties to those of reference 
+      etanercept, and the pharmacokinetic biosimilarity of the agents has been shown in 
+      healthy volunteers. GP2015 demonstrated clinical efficacy equivalent to that of 
+      reference etanercept in patients with moderate-to-severe plaque psoriasis; the 
+      tolerability, safety and immunogenicity profiles of the two agents were also 
+      generally similar. Switching between GP2015 and reference etanercept had no impact 
+      on clinical efficacy, tolerability or immunogenicity. The role of reference 
+      etanercept in the management of inflammatory autoimmune conditions is well 
+      established and GP2015 provides an effective biosimilar alternative for patients 
+      requiring etanercept therapy.
+FAU - Deeks, Emma D
+AU  - Deeks ED
+AD  - Springer, Private Bag 65901, Mairangi Bay, Auckland, 0754, New Zealand. 
+      demail@springer.com.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+TA  - BioDrugs
+JT  - BioDrugs : clinical immunotherapeutics, biopharmaceuticals and gene therapy
+JID - 9705305
+RN  - 0 (Antirheumatic Agents)
+RN  - 0 (Biosimilar Pharmaceuticals)
+RN  - OP401G7OJC (Etanercept)
+SB  - IM
+EIN - BioDrugs. 2018 Aug 1;:. PMID: 30069733
+MH  - Antirheumatic Agents/therapeutic use
+MH  - Arthritis, Psoriatic/drug therapy
+MH  - Arthritis, Rheumatoid/drug therapy
+MH  - Autoimmune Diseases/drug therapy
+MH  - Biosimilar Pharmaceuticals/adverse effects/*pharmacology/*therapeutic use
+MH  - Etanercept/immunology/*pharmacology
+MH  - Humans
+MH  - Psoriasis/drug therapy
+MH  - Spondylarthritis/drug therapy
+MH  - Spondylitis, Ankylosing/drug therapy
+PMC - PMC6096535
+COIS- The preparation of this review was not supported by any external funding. During the 
+      peer review process the manufacturer of the agent under review was offered an 
+      opportunity to comment on the article. Changes resulting from any comments received 
+      were made by the author on the basis of scientific completeness and accuracy. Emma 
+      Deeks is a salaried employee of Adis/Springer, is responsible for the article 
+      content and declares no relevant conflicts of interest. Additional information about 
+      this Adis Drug Review can be found at 
+      http://www.medengine.com/Redeem/EED8F0601D99AE2E.
+EDAT- 2017/09/25 06:00
+MHDA- 2018/06/29 06:00
+CRDT- 2017/09/24 06:00
+PHST- 2017/09/25 06:00 [pubmed]
+PHST- 2018/06/29 06:00 [medline]
+PHST- 2017/09/24 06:00 [entrez]
+AID - 10.1007/s40259-017-0246-1 [pii]
+AID - 246 [pii]
+AID - 10.1007/s40259-017-0246-1 [doi]
+PST - ppublish
+SO  - BioDrugs. 2017 Dec;31(6):555-558. doi: 10.1007/s40259-017-0246-1.
+
+PMID- 28682112
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171206
+LR  - 20181202
+IS  - 1744-7682 (Electronic)
+IS  - 1471-2598 (Linking)
+VI  - 17
+IP  - 9
+DP  - 2017 Sep
+TI  - Etanercept for treating axial spondyloarthritis.
+PG  - 1173-1181
+LID - 10.1080/14712598.2017.1347156 [doi]
+AB  - Axial spondyloarthritis is an inflammatory rheumatic disease causing back pain, 
+      functional impairment and potential ankylosis in the advanced stage. In this 
+      context, TNF blockers have been a major therapeutic advance. Etanercept is a soluble 
+      recombinant TNF receptor fusion protein in this vain. Areas covered: The aim of this 
+      review is to summarize the current published data concerning the efficacy and 
+      tolerance of etanercept in axial spondyloarthrits. The authors performed a 
+      systematic review on PubMed, using 'etanercept' and 'spondyloarthritis', 'axial 
+      spondyloarthritis' or 'ankylosing spondylitis' keywords. Expert opinion: Etanercept 
+      showed clinical efficacy on the axial (non-radiographic and radiographic) and 
+      peripheral manifestations (peripheral arthritis and enthesitis) of axial 
+      spondyloarthritis (Ax-SpA). Among the extra-articular manifestations, it works on 
+      psoriasis but not on inflammatory bowel disease, with a lack of efficacy data in 
+      anterior uveitis. Etanercept also demonstrated an interesting tolerance profile and 
+      good drug survival rates after 5 years. Etanercept was also shown to reduce MRI 
+      inflammation on the spine and the sacroiliac joints. However, like other TNF 
+      blockers, its impact on radiographic progression could not be fully demonstrated. In 
+      the context of upcoming new biologic targeted treatments, head-to-head and 
+      longer-term randomized controlled trials are now required to further define the role 
+      of etanercept in spondyloarthritis treatment strategies.
+FAU - Guillot, Xavier
+AU  - Guillot X
+AD  - a Rheumatology Department , Besançon University Hospital, CHRU de Besançon , 
+      Besançon , France.
+AD  - b PEPITE EA4267, FHU INCREASE , Bourgogne-Franche-Comté University , Besançon , 
+      France.
+FAU - Prati, Clément
+AU  - Prati C
+AD  - a Rheumatology Department , Besançon University Hospital, CHRU de Besançon , 
+      Besançon , France.
+AD  - b PEPITE EA4267, FHU INCREASE , Bourgogne-Franche-Comté University , Besançon , 
+      France.
+FAU - Sondag, Maxime
+AU  - Sondag M
+AD  - a Rheumatology Department , Besançon University Hospital, CHRU de Besançon , 
+      Besançon , France.
+FAU - Wendling, Daniel
+AU  - Wendling D
+AD  - a Rheumatology Department , Besançon University Hospital, CHRU de Besançon , 
+      Besançon , France.
+AD  - c EA 4266, Bourgogne-Franche-Comté University , Besançon , France.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PT  - Systematic Review
+DEP - 20170706
+PL  - England
+TA  - Expert Opin Biol Ther
+JT  - Expert opinion on biological therapy
+JID - 101125414
+RN  - 0 (Immunosuppressive Agents)
+RN  - 0 (Receptors, Tumor Necrosis Factor)
+RN  - OP401G7OJC (Etanercept)
+SB  - IM
+MH  - Clinical Trials as Topic
+MH  - Crohn Disease/etiology
+MH  - Disease Progression
+MH  - Etanercept/adverse effects/*therapeutic use
+MH  - Humans
+MH  - Immunosuppressive Agents/adverse effects/*therapeutic use
+MH  - Psoriasis/drug therapy
+MH  - Receptors, Tumor Necrosis Factor/genetics/metabolism
+MH  - Spondylarthritis/*drug therapy/epidemiology/pathology
+MH  - Spondylitis, Ankylosing/drug therapy/pathology
+OTO - NOTNLM
+OT  - *Axial spondyloarthritis
+OT  - *Etanercept
+OT  - *MRI
+OT  - *TNF receptor
+OT  - *efficacy
+OT  - *outcome definition
+OT  - *radiographic progression
+OT  - *safety
+EDAT- 2017/07/07 06:00
+MHDA- 2017/12/07 06:00
+CRDT- 2017/07/07 06:00
+PHST- 2017/07/07 06:00 [pubmed]
+PHST- 2017/12/07 06:00 [medline]
+PHST- 2017/07/07 06:00 [entrez]
+AID - 10.1080/14712598.2017.1347156 [doi]
+PST - ppublish
+SO  - Expert Opin Biol Ther. 2017 Sep;17(9):1173-1181. doi: 10.1080/14712598.2017.1347156. 
+      Epub 2017 Jul 6.
+
+PMID- 31469238
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200317
+LR  - 20200317
+IS  - 2326-5205 (Electronic)
+IS  - 2326-5191 (Linking)
+VI  - 72
+IP  - 1
+DP  - 2020 Jan
+TI  - Cardiovascular Safety of Tocilizumab Versus Etanercept in Rheumatoid Arthritis: A 
+      Randomized Controlled Trial.
+PG  - 31-40
+LID - 10.1002/art.41095 [doi]
+AB  - OBJECTIVE: To assess the risk of major adverse cardiovascular events (MACE) in 
+      patients with rheumatoid arthritis (RA) treated with tocilizumab compared to those 
+      treated with the tumor necrosis factor inhibitor etanercept. METHODS: This 
+      randomized, open-label, parallel-group trial enrolled patients with active 
+      seropositive RA (n = 3,080) who had an inadequate response to conventional synthetic 
+      disease-modifying antirheumatic drugs and who had at least 1 cardiovascular (CV) 
+      risk factor. Patients were randomly assigned 1:1 to receive open-label tocilizumab 
+      at 8 mg/kg/month or etanercept at 50 mg/week. All patients were followed up for a 
+      mean of 3.2 years. The primary end point was comparison of time to first occurrence 
+      of MACE. The trial was powered to exclude a relative hazard ratio for MACE of 1.8 or 
+      higher in the tocilizumab group compared to the etanercept group. RESULTS: By week 4 
+      of treatment, the serum low-density lipoprotein cholesterol, high-density 
+      lipoprotein cholesterol, and triglyceride levels were a median 11.1%, 5.7%, and 
+      13.6% higher, respectively, in patients receiving tocilizumab compared to those 
+      receiving etanercept (each P < 0.001). During follow-up, 83 MACE occurred in the 
+      tocilizumab group compared to 78 MACE in the etanercept group. The estimated hazard 
+      ratio for occurrence of MACE in the tocilizumab group relative to the etanercept 
+      group was 1.05 (95% confidence interval 0.77-1.43). Results were similar in 
+      sensitivity analyses and in the on-treatment population analysis. Adverse events 
+      occurred more frequently in the tocilizumab group, including serious infection and 
+      gastrointestinal perforation. CONCLUSION: The results of this trial, which provide 
+      insights into the CV safety of tocilizumab as compared to etanercept, ruled out a 
+      risk for occurrence of MACE of 1.43 or higher in patients treated with tocilizumab. 
+      This result should be interpreted in the context of the clinical efficacy and non-CV 
+      safety of tocilizumab.
+CI  - © 2019, American College of Rheumatology.
+FAU - Giles, Jon T
+AU  - Giles JT
+AUID- ORCID: 0000-0002-8792-0402
+AD  - Columbia University College of Physicians & Surgeons, New York, New York.
+FAU - Sattar, Naveed
+AU  - Sattar N
+AD  - University of Glasgow, Glasgow, UK.
+FAU - Gabriel, Sherine
+AU  - Gabriel S
+AD  - Rutgers Robert Wood Johnson Medical School, New Brunswick, New Jersey.
+FAU - Ridker, Paul M
+AU  - Ridker PM
+AD  - Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts.
+FAU - Gay, Steffen
+AU  - Gay S
+AD  - University Hospital Zurich, Zurich, Switzerland.
+FAU - Warne, Charles
+AU  - Warne C
+AD  - Roche Products Ltd., Welwyn Garden City, UK.
+FAU - Musselman, David
+AU  - Musselman D
+AD  - Genentech, Inc., South San Francisco, California.
+FAU - Brockwell, Laura
+AU  - Brockwell L
+AD  - Roche Products Ltd., Welwyn Garden City, UK.
+FAU - Shittu, Emma
+AU  - Shittu E
+AD  - Roche Products Ltd., Welwyn Garden City, UK.
+FAU - Klearman, Micki
+AU  - Klearman M
+AD  - Genentech, Inc., South San Francisco, California.
+FAU - Fleming, Thomas R
+AU  - Fleming TR
+AD  - University of Washington, Seattle.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT01331837
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Arthritis Rheumatol
+JT  - Arthritis & rheumatology (Hoboken, N.J.)
+JID - 101623795
+RN  - 0 (Antibodies, Monoclonal, Humanized)
+RN  - 0 (Antirheumatic Agents)
+RN  - 0 (Tumor Necrosis Factor Inhibitors)
+RN  - I031V2H011 (tocilizumab)
+RN  - OP401G7OJC (Etanercept)
+SB  - AIM
+SB  - IM
+CIN - Arthritis Rheumatol. 2020 Jan;72(1):4-6. PMID: 31469243
+MH  - Aged
+MH  - Antibodies, Monoclonal, Humanized/*therapeutic use
+MH  - Antirheumatic Agents/*therapeutic use
+MH  - Arthritis, Rheumatoid/*drug therapy
+MH  - Cardiovascular Diseases/*mortality
+MH  - Etanercept/*therapeutic use
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Myocardial Infarction/*epidemiology
+MH  - Proportional Hazards Models
+MH  - Risk Factors
+MH  - Stroke/*epidemiology
+MH  - Tumor Necrosis Factor Inhibitors/*therapeutic use
+EDAT- 2019/08/31 06:00
+MHDA- 2020/03/18 06:00
+CRDT- 2019/08/31 06:00
+PHST- 2019/02/16 00:00 [received]
+PHST- 2019/08/27 00:00 [accepted]
+PHST- 2019/08/31 06:00 [pubmed]
+PHST- 2020/03/18 06:00 [medline]
+PHST- 2019/08/31 06:00 [entrez]
+AID - 10.1002/art.41095 [doi]
+PST - ppublish
+SO  - Arthritis Rheumatol. 2020 Jan;72(1):31-40. doi: 10.1002/art.41095.
+
+PMID- 28596043
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180116
+LR  - 20191210
+IS  - 1474-547X (Electronic)
+IS  - 0140-6736 (Linking)
+VI  - 390
+IP  - 10091
+DP  - 2017 Jul 15
+TI  - Tildrakizumab versus placebo or etanercept for chronic plaque psoriasis (reSURFACE 1 
+      and reSURFACE 2): results from two randomised controlled, phase 3 trials.
+PG  - 276-288
+LID - S0140-6736(17)31279-5 [pii]
+LID - 10.1016/S0140-6736(17)31279-5 [doi]
+AB  - BACKGROUND: Tildrakizumab is a high-affinity, humanised, IgG1 κ antibody targeting 
+      interleukin 23 p19 that represents an evolving treatment strategy in chronic plaque 
+      psoriasis. Previous research suggested clinical improvement with inhibition of 
+      interleukin 23 p19. We did two phase 3 trials to investigate whether tildrakizumab 
+      is superior to placebo and etanercept in the treatment of chronic plaque psoriasis. 
+      METHODS: We did two three-part, parallel group, double-blind, randomised controlled 
+      studies, reSURFACE 1 (at 118 sites in Australia, Canada, Japan, the UK, and the USA) 
+      and reSURFACE 2 (at 132 sites in Europe, Israel, and the USA). Participants aged 18 
+      years or older with moderate-to-severe chronic plaque psoriasis (body surface area 
+      involvement ≥10%, Physician's Global Assessment [PGA] score ≥3, and Psoriasis Area 
+      and Severity Index [PASI] score ≥12) were randomised (via interactive voice and web 
+      response system) to tildrakizumab 200 mg, tildrakizumab 100 mg, or placebo in 
+      reSURFACE 1 (2:2:1), or to tildrakizumab 200 mg, tildrakizumab 100 mg, placebo, or 
+      etanercept 50 mg (2:2:1:2). Randomisation was done by region and stratified for 
+      bodyweight (≤90 kg or >90 kg) and previous exposure to biologics therapy for 
+      psoriasis. Investigators, participants, and study personnel were blinded to group 
+      allocation and remained blinded until completion of the studies. Assigned medication 
+      was identical in appearance and packaging. Tildrakizumab was administered 
+      subcutaneously at weeks 0 and 4 during part 1 and at week 16 during part 2 (weeks 12 
+      and 16 for participants re-randomised from placebo to tildrakizumab; etanercept was 
+      given twice weekly in part 1 of reSURFACE 2 and once weekly during part 2). The 
+      co-primary endpoints were the proportion of patients achieving PASI 75 and PGA 
+      response (score of 0 or 1 with ≥2 grade score reduction from baseline) at week 12. 
+      Safety was assessed in the all-participants-as-treated population, and efficacy in 
+      the full-analysis set. These trials are registered with ClinicalTrials.gov, numbers 
+      NCT01722331 (reSURFACE 1) and NCT01729754 (reSURFACE 2). These studies are 
+      completed, but extension studies are ongoing. FINDINGS: reSURFACE 1 ran from Dec 10, 
+      2012, to Oct 28, 2015. reSURFACE 2 ran from Feb 12, 2013, to Sept 28, 2015. In 
+      reSURFACE 1, 772 patients were randomly assigned, 308 to tildrakizumab 200 mg, 309 
+      to tildrakizumab 100 mg, and 155 to placebo. At week 12, 192 patients (62%) in the 
+      200 mg group and 197 patients (64%) in the 100 mg group achieved PASI 75, compared 
+      with 9 patients (6%) in the placebo group (p<0·0001 for comparisons of both 
+      tildrakizumab groups vs placebo). 182 patients (59%) in the 200 mg group and 179 
+      patients (58%) in the 100 mg group achieved PGA responses, compared with 11 patients 
+      (7%) in the placebo group (p<0·0001 for comparisons of both tildrakizumab groups vs 
+      placebo). In reSURFACE 2, 1090 patients were randomly assigned, 314 to tildrakizumab 
+      200 mg, 307 to tildrakizumab 100 mg, 156 to placebo, and 313 to etanercept. At week 
+      12, 206 patients (66%) in the 200 mg group, and 188 patients (61%) in the 100 mg 
+      group achieved PASI 75, compared with 9 patients (6%) in the placebo group and 151 
+      patients (48%) in the etanercept group (p<0·0001 for comparisons of both 
+      tildrakizumab groups vs placebo; p<0·0001 for 200 mg vs etanercept and p=0·0010 for 
+      100 mg vs etanercept). 186 patients (59%) in the 200 mg group, and 168 patients 
+      (59%) [corrected] in the 100 mg group achieved a PGA response, compared with 7 
+      patients (4%) in the placebo group and 149 patients (48%) in the etanercept group 
+      (p<0·0001 for comparisons of both tildrakizumab groups vs placebo; p=0·0031 for 200 
+      mg vs etanercept and p=0·0663 for 100 mg vs etanercept). Serious adverse events were 
+      similar and low in all groups in both trials. One patient died in reSURFACE 2, in 
+      the tildrakizumab 100 mg group; the patient had alcoholic cardiomyopathy and 
+      steatohepatitis, and adjudication was unable to determine the cause of death. 
+      INTERPRETATION: In two phase 3 trials, tildrakizumab 200 mg and 100 mg were 
+      efficacious compared with placebo and etanercept and were well tolerated in the 
+      treatment of patients with moderate-to-severe chronic plaque psoriasis. FUNDING: 
+      Merck & Co.
+CI  - Copyright © 2017 Elsevier Ltd. All rights reserved.
+FAU - Reich, Kristian
+AU  - Reich K
+AD  - SCIderm Research Institute and Dermatologikum Hamburg, Hamburg, Germany. Electronic 
+      address: kreich@dermatologikum.de.
+FAU - Papp, Kim A
+AU  - Papp KA
+AD  - Probity Medical Research, Waterloo, ON, Canada.
+FAU - Blauvelt, Andrew
+AU  - Blauvelt A
+AD  - Oregon Medical Research Center, Portland, OR, USA.
+FAU - Tyring, Stephen K
+AU  - Tyring SK
+AD  - Department of Dermatology, University of Texas Health Science Center, Houston, TX, 
+      USA.
+FAU - Sinclair, Rodney
+AU  - Sinclair R
+AD  - Epworth Hospital Department of Dermatology, University of Melbourne, Melbourne, VIC, 
+      Australia.
+FAU - Thaçi, Diamant
+AU  - Thaçi D
+AD  - Comprehensive Center for Inflammation Medicine, University Medical School 
+      Schleswig-Holstein, University of Lübeck, Lübeck, Germany.
+FAU - Nograles, Kristine
+AU  - Nograles K
+AD  - Merck & Co, Kenilworth, NJ, USA.
+FAU - Mehta, Anish
+AU  - Mehta A
+AD  - Merck & Co, Kenilworth, NJ, USA.
+FAU - Cichanowitz, Nicole
+AU  - Cichanowitz N
+AD  - Merck & Co, Kenilworth, NJ, USA.
+FAU - Li, Qing
+AU  - Li Q
+AD  - Merck & Co, Kenilworth, NJ, USA.
+FAU - Liu, Kenneth
+AU  - Liu K
+AD  - Merck & Co, Kenilworth, NJ, USA.
+FAU - La Rosa, Carmen
+AU  - La Rosa C
+AD  - Merck & Co, Kenilworth, NJ, USA.
+FAU - Green, Stuart
+AU  - Green S
+AD  - Merck & Co, Kenilworth, NJ, USA.
+FAU - Kimball, Alexa B
+AU  - Kimball AB
+AD  - Harvard Medical School, Boston, MA, USA.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT01722331
+SI  - ClinicalTrials.gov/NCT01729754
+PT  - Clinical Trial, Phase III
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20170606
+PL  - England
+TA  - Lancet
+JT  - Lancet (London, England)
+JID - 2985213R
+RN  - 0 (Antibodies, Monoclonal)
+RN  - 0 (Antibodies, Monoclonal, Humanized)
+RN  - 0 (Dermatologic Agents)
+RN  - DEW6X41BEK (tildrakizumab)
+RN  - OP401G7OJC (Etanercept)
+SB  - AIM
+SB  - IM
+CIN - Lancet. 2017 Jul 15;390(10091):208-210. PMID: 28596042
+EIN - Lancet. 2017 Jul 15;390(10091):230. PMID: 28721878
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Antibodies, Monoclonal/*administration & dosage
+MH  - Antibodies, Monoclonal, Humanized
+MH  - Chronic Disease
+MH  - Dermatologic Agents/*administration & dosage
+MH  - Dose-Response Relationship, Drug
+MH  - Double-Blind Method
+MH  - Etanercept/*administration & dosage
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Psoriasis/*drug therapy
+MH  - Treatment Outcome
+MH  - Young Adult
+EDAT- 2017/06/10 06:00
+MHDA- 2018/01/18 06:00
+CRDT- 2017/06/10 06:00
+PHST- 2016/12/02 00:00 [received]
+PHST- 2017/02/08 00:00 [revised]
+PHST- 2017/02/10 00:00 [accepted]
+PHST- 2017/06/10 06:00 [pubmed]
+PHST- 2018/01/18 06:00 [medline]
+PHST- 2017/06/10 06:00 [entrez]
+AID - S0140-6736(17)31279-5 [pii]
+AID - 10.1016/S0140-6736(17)31279-5 [doi]
+PST - ppublish
+SO  - Lancet. 2017 Jul 15;390(10091):276-288. doi: 10.1016/S0140-6736(17)31279-5. Epub 
+      2017 Jun 6.
+
+PMID- 28837372
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180827
+LR  - 20181202
+IS  - 1439-7609 (Electronic)
+IS  - 1439-7595 (Linking)
+VI  - 28
+IP  - 3
+DP  - 2018 May
+TI  - Update upon efficacy and safety of etanercept for the treatment of spondyloarthritis 
+      and juvenile idiopathic arthritis.
+PG  - 417-431
+LID - 10.1080/14397595.2017.1366006 [doi]
+AB  - TNF-α inhibitors have demonstrated efficacy both as monotherapy and in combination 
+      with disease-modifying anti-rheumatic drugs (DMARDs) in the treatment of chronic 
+      inflammatory immune-mediated diseases such as rheumatoid arthritis, Crohn's disease, 
+      ulcerative colitis, ankylosing spondylitis (AS), psoriasis (Ps) and/or psoriatic 
+      arthritis (PsA) and may be administered off-label to treat disseminated granuloma 
+      annulare, systemic lupus erythematosus and systemic sclerosis. There are several 
+      TNF-α inhibitors available for clinical use including infliximab, adalimumab, 
+      golimumab, certolizumab pegol and etanercept. In this article, we discuss the 
+      efficacy and safety of etanercept in the treatment of spondyloarthritis and juvenile 
+      idiopathic arthritis (JIA). Etanercept is effective in the treatment of PsA, AS, JIA 
+      and uveitis. Independent predictors of achieving a sustained clinical improvement or 
+      MDA in children with JIA include shorter disease duration, no concurrent oral 
+      corticosteroid use, history of chronic anterior uveitis and age <9 years. IBD 
+      incidence was lower in patients receiving etanercept plus MTX. Intra-articular 
+      administration of etanercept seems to favor a prompt target joint improvement 
+      without serious adverse events. Etanercept improve endothelial function reducing the 
+      risk of acute cardiovascular and/or cerebrovascular events. The most commonly 
+      reported adverse events were nasopharyngitis, epidermal and dermal conditions, upper 
+      respiratory tract infection, cough, headache and fatigue.
+FAU - Murdaca, Giuseppe
+AU  - Murdaca G
+AD  - a Department of Internal Medicine, Scleroderma Unit, Clinical Immunology Unit , 
+      University of Genova and IRCCS-Azienda Ospedaliera Universitaria San Martino , 
+      Genova , Italy.
+FAU - Negrini, Simone
+AU  - Negrini S
+AD  - a Department of Internal Medicine, Scleroderma Unit, Clinical Immunology Unit , 
+      University of Genova and IRCCS-Azienda Ospedaliera Universitaria San Martino , 
+      Genova , Italy.
+FAU - Magnani, Ottavia
+AU  - Magnani O
+AD  - a Department of Internal Medicine, Scleroderma Unit, Clinical Immunology Unit , 
+      University of Genova and IRCCS-Azienda Ospedaliera Universitaria San Martino , 
+      Genova , Italy.
+FAU - Penza, Elena
+AU  - Penza E
+AD  - a Department of Internal Medicine, Scleroderma Unit, Clinical Immunology Unit , 
+      University of Genova and IRCCS-Azienda Ospedaliera Universitaria San Martino , 
+      Genova , Italy.
+FAU - Pellecchio, Marco
+AU  - Pellecchio M
+AD  - a Department of Internal Medicine, Scleroderma Unit, Clinical Immunology Unit , 
+      University of Genova and IRCCS-Azienda Ospedaliera Universitaria San Martino , 
+      Genova , Italy.
+FAU - Gulli, Rossella
+AU  - Gulli R
+AD  - b Department of Neuroscience, Rehabilitation, Ophthalmology, Genetics and Maternal 
+      Child Health, Section of Medical Genetics , University of Genova and IRCCS-Azienda 
+      Ospedaliera Universitaria San Martino , Genova , Italy.
+FAU - Mandich, Paola
+AU  - Mandich P
+AD  - b Department of Neuroscience, Rehabilitation, Ophthalmology, Genetics and Maternal 
+      Child Health, Section of Medical Genetics , University of Genova and IRCCS-Azienda 
+      Ospedaliera Universitaria San Martino , Genova , Italy.
+FAU - Puppo, Francesco
+AU  - Puppo F
+AD  - a Department of Internal Medicine, Scleroderma Unit, Clinical Immunology Unit , 
+      University of Genova and IRCCS-Azienda Ospedaliera Universitaria San Martino , 
+      Genova , Italy.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20170824
+PL  - United States
+TA  - Mod Rheumatol
+JT  - Modern rheumatology
+JID - 100959226
+RN  - 0 (Antirheumatic Agents)
+RN  - OP401G7OJC (Etanercept)
+SB  - IM
+MH  - Adolescent
+MH  - Antirheumatic Agents/administration & dosage/*adverse effects/therapeutic use
+MH  - Arthritis, Juvenile/*drug therapy
+MH  - Child
+MH  - Etanercept/administration & dosage/*adverse effects/therapeutic use
+MH  - Humans
+MH  - Spondylitis, Ankylosing/*drug therapy
+OTO - NOTNLM
+OT  - Etanercept
+OT  - SAPHO syndrome
+OT  - pharmacogenomics
+OT  - spondyloarthritis
+EDAT- 2017/08/25 06:00
+MHDA- 2018/08/28 06:00
+CRDT- 2017/08/25 06:00
+PHST- 2017/08/25 06:00 [pubmed]
+PHST- 2018/08/28 06:00 [medline]
+PHST- 2017/08/25 06:00 [entrez]
+AID - 10.1080/14397595.2017.1366006 [doi]
+PST - ppublish
+SO  - Mod Rheumatol. 2018 May;28(3):417-431. doi: 10.1080/14397595.2017.1366006. Epub 2017 
+      Aug 24.
+
+PMID- 28388820
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171010
+LR  - 20180525
+IS  - 2151-4658 (Electronic)
+IS  - 2151-464X (Linking)
+VI  - 69
+IP  - 10
+DP  - 2017 Oct
+TI  - Rheumatoid Arthritis Treatment After Methotrexate: The Durability of Triple Therapy 
+      Versus Etanercept.
+PG  - 1467-1472
+LID - 10.1002/acr.23255 [doi]
+AB  - OBJECTIVE: Although it is common for rheumatologists to initiate biologic agents 
+      after failure of methotrexate monotherapy in rheumatoid arthritis (RA), ample data 
+      support the initial use of combinations of conventional therapies in this clinical 
+      scenario. Our study explores the durability of triple therapy (methotrexate, 
+      sulfasalazine, and hydroxychloroquine) versus methotrexate-etanercept in RA. 
+      METHODS: RA patients with suboptimal response to methotrexate (n = 353) were 
+      randomized to either triple therapy or methotrexate-etanercept therapy in a 48-week, 
+      double-blinded, noninferiority trial. Patients without clinical improvement at 24 
+      weeks were switched to the alternative treatment. Of the total, 289 participated in 
+      followup. We report treatment durability, Disease Activity Score in 28 joints 
+      (DAS28), and other measures during an open-label extension for an additional period 
+      up to 72 weeks. RESULTS: Mean ± SD duration of open-label followup was 11 ± 6 
+      months. The likelihood of continuing conventional therapy at 1 year was 78% for 
+      triple therapy versus 63% for methotrexate-etanercept, with most treatment changes 
+      occurring at the start of followup. More patients changed from 
+      methotrexate-etanercept to triple therapy than from triple therapy to 
+      methotrexate-etanercept (P = 0.005). DAS28 scores and other disease activity 
+      measures were not different for the 2 treatments and were stable during followup. 
+      CONCLUSION: In RA patients with suboptimal methotrexate response randomized to 
+      receive triple therapy or methotrexate-etanercept, the former was found to be 
+      significantly more durable. Given cost differences and similar outcomes, the 
+      variable durability demonstrated provides additional evidence supporting 
+      conventional combinations over biologic agent combinations as the first choice after 
+      methotrexate inadequate response.
+CI  - © 2017, American College of Rheumatology.
+FAU - Peper, Shana M
+AU  - Peper SM
+AD  - Nebraska Medical Center, Omaha.
+FAU - Lew, Robert
+AU  - Lew R
+AD  - Nebraska Medical Center, Omaha.
+FAU - Mikuls, Ted
+AU  - Mikuls T
+AD  - Nebraska Medical Center, Omaha.
+FAU - Brophy, Mary
+AU  - Brophy M
+AD  - Nebraska Medical Center, Omaha.
+FAU - Rybin, Denis
+AU  - Rybin D
+AD  - Nebraska Medical Center, Omaha.
+FAU - Wu, Hongseng
+AU  - Wu H
+AD  - Nebraska Medical Center, Omaha.
+FAU - O'Dell, James
+AU  - O'Dell J
+AD  - Nebraska Medical Center, Omaha.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT00405275
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Randomized Controlled Trial
+DEP - 20170906
+PL  - United States
+TA  - Arthritis Care Res (Hoboken)
+JT  - Arthritis care & research
+JID - 101518086
+RN  - 0 (Antirheumatic Agents)
+RN  - 0 (Biological Products)
+RN  - 3XC8GUZ6CB (Sulfasalazine)
+RN  - 4QWG6N8QKH (Hydroxychloroquine)
+RN  - OP401G7OJC (Etanercept)
+RN  - YL5FZ2Y5U1 (Methotrexate)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Antirheumatic Agents/*administration & dosage/adverse effects
+MH  - Arthritis, Rheumatoid/diagnosis/*drug therapy
+MH  - Biological Products/*administration & dosage/adverse effects
+MH  - Canada
+MH  - Disability Evaluation
+MH  - Double-Blind Method
+MH  - Drug Substitution
+MH  - Drug Therapy, Combination
+MH  - Etanercept/*administration & dosage/adverse effects
+MH  - Female
+MH  - Humans
+MH  - Hydroxychloroquine/*administration & dosage/adverse effects
+MH  - Male
+MH  - Methotrexate/*administration & dosage/adverse effects
+MH  - Middle Aged
+MH  - Remission Induction
+MH  - Sulfasalazine/*administration & dosage/adverse effects
+MH  - Time Factors
+MH  - Treatment Outcome
+MH  - United States
+MH  - Young Adult
+EDAT- 2017/04/08 06:00
+MHDA- 2017/10/11 06:00
+CRDT- 2017/04/08 06:00
+PHST- 2016/10/07 00:00 [received]
+PHST- 2017/02/24 00:00 [revised]
+PHST- 2017/04/04 00:00 [accepted]
+PHST- 2017/04/08 06:00 [pubmed]
+PHST- 2017/10/11 06:00 [medline]
+PHST- 2017/04/08 06:00 [entrez]
+AID - 10.1002/acr.23255 [doi]
+PST - ppublish
+SO  - Arthritis Care Res (Hoboken). 2017 Oct;69(10):1467-1472. doi: 10.1002/acr.23255. 
+      Epub 2017 Sep 6.
